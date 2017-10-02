@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 250 lines from 8 works
+Currently the corpus contains 257 lines from 9 works
 published across 8 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -14,7 +14,7 @@ published across 8 years. Detailed statistics are available below.
 |   Decade |   # lines |
 |---------:|----------:|
 |     1800 |        50 |
-|     1810 |        27 |
+|     1810 |        34 |
 |     1830 |        10 |
 |     1860 |        48 |
 |     1880 |        50 |
@@ -28,7 +28,7 @@ published across 8 years. Detailed statistics are available below.
 |   1833 |        10 |
 |   1894 |        25 |
 |   1890 |        40 |
-|   1816 |        19 |
+|   1816 |        26 |
 |   1818 |         8 |
 |   1800 |        50 |
 |   1881 |        50 |
@@ -41,6 +41,7 @@ published across 8 years. Detailed statistics are available below.
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen |   1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     |   1894 | [dieforstlichenv02hagegoog](http://www.archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    |   1890 | [deutscheliterat01wencgoog](http://www.archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
+| Sappho von einem herrschenden Vorurtheil befreyt                                                                                                                                           |   1816 | [bub_gb_LOYVAAAAIAAJ](http://archive.org/details/bub_gb_LOYVAAAAIAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ)             |
 | Recension von Niebuhr's römischer Geschichte in den Heidelberger Jahrbüchern der Litteratur                                                                                                |   1816 | [bub_gb_o5tbAAAAQAAJ](http://archive.org/details/bub_gb_o5tbAAAAQAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ)             |
 | Geographischstatistisches Handbuch über Schlesien und die Grafschaft Glatz                                                                                                                 |   1818 | [bub_gb_PNcAAAAAcAAJ](http://archive.org/details/bub_gb_PNcAAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ)             |
 | Protocoll der ReichsFriedensDeputation zu Rastatt Enthält die Protocolle der ersten bis vierzigsten Sitzung incl                                                                           |   1800 | [bub_gb_UXdKAAAAcAAJ](http://archive.org/details/bub_gb_UXdKAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ)             |

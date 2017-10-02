@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 262 lines from 10 works
-published across 9 years. Detailed statistics are available below.
+Currently the corpus contains 272 lines from 11 works
+published across 10 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -17,6 +17,7 @@ published across 9 years. Detailed statistics are available below.
 |     1810 |        34 |
 |     1830 |        15 |
 |     1860 |        48 |
+|     1870 |        10 |
 |     1880 |        50 |
 |     1890 |        65 |
 
@@ -24,6 +25,7 @@ published across 9 years. Detailed statistics are available below.
 
 |   Year |   # lines |
 |-------:|----------:|
+|   1874 |        10 |
 |   1836 |         5 |
 |   1868 |        48 |
 |   1833 |        10 |
@@ -38,6 +40,7 @@ published across 9 years. Detailed statistics are available below.
 
 | Title                                                                                                                                                                                      |   Date | Archive.org                                                                           | IIIF                                                                                                                                                       |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------:|:--------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Historisches Taschenbuch                                                                                                                                                                   |   1874 | [bub_gb_qGYMAAAAYAAJ](http://archive.org/details/bub_gb_qGYMAAAAYAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   |   1836 | [diereligionderr09hartgoog](http://www.archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |
 | Natur und Gemüth Ein Feld und Waldblüthenstrauß aus Tagen die nicht mehr sind, Gewunden von Friedrich Aulenbach                                                                            |   1868 | [bub_gb_HF46AAAAcAAJ](http://archive.org/details/bub_gb_HF46AAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ)             |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen |   1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |

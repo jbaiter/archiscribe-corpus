@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 272 lines from 11 works
-published across 10 years. Detailed statistics are available below.
+Currently the corpus contains 282 lines from 12 works
+published across 11 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -16,6 +16,7 @@ published across 10 years. Detailed statistics are available below.
 |     1800 |        50 |
 |     1810 |        34 |
 |     1830 |        15 |
+|     1840 |        10 |
 |     1860 |        48 |
 |     1870 |        10 |
 |     1880 |        50 |
@@ -34,6 +35,7 @@ published across 10 years. Detailed statistics are available below.
 |   1816 |        26 |
 |   1818 |         8 |
 |   1800 |        50 |
+|   1848 |        10 |
 |   1881 |        50 |
 
 ## Statistics: Works
@@ -50,4 +52,5 @@ published across 10 years. Detailed statistics are available below.
 | Recension von Niebuhr's römischer Geschichte in den Heidelberger Jahrbüchern der Litteratur                                                                                                |   1816 | [bub_gb_o5tbAAAAQAAJ](http://archive.org/details/bub_gb_o5tbAAAAQAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ)             |
 | Geographischstatistisches Handbuch über Schlesien und die Grafschaft Glatz                                                                                                                 |   1818 | [bub_gb_PNcAAAAAcAAJ](http://archive.org/details/bub_gb_PNcAAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ)             |
 | Protocoll der ReichsFriedensDeputation zu Rastatt Enthält die Protocolle der ersten bis vierzigsten Sitzung incl                                                                           |   1800 | [bub_gb_UXdKAAAAcAAJ](http://archive.org/details/bub_gb_UXdKAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ)             |
+| Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         |   1848 | [darstellungderi00vincgoog](http://www.archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Geschichte der Deutschen bis zur höchsten Machtentfaltung des Römisch ...                                                                                                                  |   1881 | [geschichtederde00bessgoog](http://www.archive.org/details/geschichtederde00bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog) |

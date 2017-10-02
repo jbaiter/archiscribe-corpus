@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 282 lines from 12 works
-published across 11 years. Detailed statistics are available below.
+Currently the corpus contains 289 lines from 13 works
+published across 12 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -17,6 +17,7 @@ published across 11 years. Detailed statistics are available below.
 |     1810 |        34 |
 |     1830 |        15 |
 |     1840 |        10 |
+|     1850 |         7 |
 |     1860 |        48 |
 |     1870 |        10 |
 |     1880 |        50 |
@@ -36,6 +37,7 @@ published across 11 years. Detailed statistics are available below.
 |   1818 |         8 |
 |   1800 |        50 |
 |   1848 |        10 |
+|   1854 |         7 |
 |   1881 |        50 |
 
 ## Statistics: Works
@@ -53,4 +55,5 @@ published across 11 years. Detailed statistics are available below.
 | Geographischstatistisches Handbuch über Schlesien und die Grafschaft Glatz                                                                                                                 |   1818 | [bub_gb_PNcAAAAAcAAJ](http://archive.org/details/bub_gb_PNcAAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ)             |
 | Protocoll der ReichsFriedensDeputation zu Rastatt Enthält die Protocolle der ersten bis vierzigsten Sitzung incl                                                                           |   1800 | [bub_gb_UXdKAAAAcAAJ](http://archive.org/details/bub_gb_UXdKAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         |   1848 | [darstellungderi00vincgoog](http://www.archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
+| Das gesetzliche Veräusserungsverbot bei Singular- und ...                                                                                                                                  |   1854 | [dasgesetzlichev00seufgoog](http://www.archive.org/details/dasgesetzlichev00seufgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog) |
 | Geschichte der Deutschen bis zur höchsten Machtentfaltung des Römisch ...                                                                                                                  |   1881 | [geschichtederde00bessgoog](http://www.archive.org/details/geschichtederde00bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog) |

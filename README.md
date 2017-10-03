@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 329 lines from 16 works
-published across 15 years. Detailed statistics are available below.
+Currently the corpus contains 339 lines from 17 works
+published across 16 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -15,7 +15,7 @@ published across 15 years. Detailed statistics are available below.
 |---------:|----------:|
 |     1800 |        50 |
 |     1810 |        34 |
-|     1820 |        21 |
+|     1820 |        31 |
 |     1830 |        15 |
 |     1840 |        10 |
 |     1850 |        26 |
@@ -33,6 +33,7 @@ published across 15 years. Detailed statistics are available below.
 |   1818 |         8 |
 |   1822 |         3 |
 |   1823 |        18 |
+|   1827 |        10 |
 |   1833 |        10 |
 |   1836 |         5 |
 |   1848 |        10 |
@@ -54,6 +55,7 @@ published across 15 years. Detailed statistics are available below.
 | Geographischstatistisches Handbuch über Schlesien und die Grafschaft Glatz                                                                                                                 |   1818 | [bub_gb_PNcAAAAAcAAJ](http://archive.org/details/bub_gb_PNcAAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ)             |
 | Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...                                                                                                                        |   1822 | [dieleibnizschel01sigwgoog](http://www.archive.org/details/dieleibnizschel01sigwgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog) |
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                        |   1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
+| Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         |   1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen |   1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   |   1836 | [diereligionderr09hartgoog](http://www.archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         |   1848 | [darstellungderi00vincgoog](http://www.archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |

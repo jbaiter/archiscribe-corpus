@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 349 lines from 18 works
-published across 16 years. Detailed statistics are available below.
+Currently the corpus contains 369 lines from 19 works
+published across 17 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -20,7 +20,7 @@ published across 16 years. Detailed statistics are available below.
 |     1840 |        20 |
 |     1850 |        26 |
 |     1860 |        48 |
-|     1870 |        10 |
+|     1870 |        30 |
 |     1880 |        50 |
 |     1890 |        65 |
 
@@ -41,6 +41,7 @@ published across 16 years. Detailed statistics are available below.
 |   1855 |        19 |
 |   1868 |        48 |
 |   1874 |        10 |
+|   1879 |        20 |
 |   1881 |        50 |
 |   1890 |        40 |
 |   1894 |        25 |
@@ -64,6 +65,7 @@ published across 16 years. Detailed statistics are available below.
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                        |   1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |
 | Natur und Gemüth Ein Feld und Waldblüthenstrauß aus Tagen die nicht mehr sind, Gewunden von Friedrich Aulenbach                                                                            |   1868 | [bub_gb_HF46AAAAcAAJ](http://archive.org/details/bub_gb_HF46AAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ)             |
 | Historisches Taschenbuch                                                                                                                                                                   |   1874 | [bub_gb_qGYMAAAAYAAJ](http://archive.org/details/bub_gb_qGYMAAAAYAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ)             |
+| Die Musik im heutigen Italien                                                                                                                                                              |   1879 | [diemusikimheuti00conrgoog](http://www.archive.org/details/diemusikimheuti00conrgoog) | [Manifest](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog) |
 | Geschichte der Deutschen bis zur höchsten Machtentfaltung des Römisch ...                                                                                                                  |   1881 | [geschichtederde00bessgoog](http://www.archive.org/details/geschichtederde00bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    |   1890 | [deutscheliterat01wencgoog](http://www.archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     |   1894 | [dieforstlichenv02hagegoog](http://www.archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |

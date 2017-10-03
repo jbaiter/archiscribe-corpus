@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 339 lines from 17 works
+Currently the corpus contains 349 lines from 18 works
 published across 16 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -17,7 +17,7 @@ published across 16 years. Detailed statistics are available below.
 |     1810 |        34 |
 |     1820 |        31 |
 |     1830 |        15 |
-|     1840 |        10 |
+|     1840 |        20 |
 |     1850 |        26 |
 |     1860 |        48 |
 |     1870 |        10 |
@@ -36,7 +36,7 @@ published across 16 years. Detailed statistics are available below.
 |   1827 |        10 |
 |   1833 |        10 |
 |   1836 |         5 |
-|   1848 |        10 |
+|   1848 |        20 |
 |   1854 |         7 |
 |   1855 |        19 |
 |   1868 |        48 |
@@ -58,6 +58,7 @@ published across 16 years. Detailed statistics are available below.
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         |   1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen |   1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   |   1836 | [diereligionderr09hartgoog](http://www.archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |
+| Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      |   1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         |   1848 | [darstellungderi00vincgoog](http://www.archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Das gesetzliche Veräusserungsverbot bei Singular- und ...                                                                                                                                  |   1854 | [dasgesetzlichev00seufgoog](http://www.archive.org/details/dasgesetzlichev00seufgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog) |
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                        |   1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)                 | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |

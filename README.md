@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 481 lines from 23 works
-published across 21 years. Detailed statistics are available below.
+Currently the corpus contains 530 lines from 24 works
+published across 22 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -18,7 +18,7 @@ published across 21 years. Detailed statistics are available below.
 |   1820 |      31 |
 |   1830 |      15 |
 |   1840 |      39 |
-|   1850 |      26 |
+|   1850 |      75 |
 |   1860 |      71 |
 |   1870 |      30 |
 |   1880 |      50 |
@@ -40,6 +40,7 @@ published across 21 years. Detailed statistics are available below.
 | 1836 |       5 |
 | 1842 |      19 |
 | 1848 |      20 |
+| 1853 |      49 |
 | 1854 |       7 |
 | 1855 |      19 |
 | 1867 |      23 |
@@ -69,6 +70,7 @@ published across 21 years. Detailed statistics are available below.
 | Elsässisches Sagenbuch                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
+| Archiv für Geschichte und Altertumskunde von Oberfranken                                                                                                                                   | 1853 | [bub_gb_LbhAAAAAcAAJ](http://archive.org/details/bub_gb_LbhAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ)             |
 | Das gesetzliche Veräusserungsverbot bei Singular- und ...                                                                                                                                  | 1854 | [dasgesetzlichev00seufgoog](http://archive.org/details/dasgesetzlichev00seufgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog) |
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                        | 1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |
 | Die historischen Volkslieder der Deutschen vom 13. bis 16. Jahrhundert                                                                                                                     | 1867 | [bub_gb_zpcTAAAAQAAJ](http://archive.org/details/bub_gb_zpcTAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ)             |

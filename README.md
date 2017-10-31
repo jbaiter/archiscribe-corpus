@@ -6,15 +6,15 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 530 lines from 24 works
-published across 22 years. Detailed statistics are available below.
+Currently the corpus contains 555 lines from 25 works
+published across 23 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
 | Decade | # lines |
 |--------|---------|
 |   1800 |      50 |
-|   1810 |      84 |
+|   1810 |     109 |
 |   1820 |      31 |
 |   1830 |      15 |
 |   1840 |      39 |
@@ -33,6 +33,7 @@ published across 22 years. Detailed statistics are available below.
 | 1812 |      50 |
 | 1816 |      26 |
 | 1818 |       8 |
+| 1819 |      25 |
 | 1822 |       3 |
 | 1823 |      18 |
 | 1827 |      10 |
@@ -62,6 +63,7 @@ published across 22 years. Detailed statistics are available below.
 | Sappho von einem herrschenden Vorurtheil befreyt                                                                                                                                           | 1816 | [bub_gb_LOYVAAAAIAAJ](http://archive.org/details/bub_gb_LOYVAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ)             |
 | Recension von Niebuhr's römischer Geschichte in den Heidelberger Jahrbüchern der Litteratur                                                                                                | 1816 | [bub_gb_o5tbAAAAQAAJ](http://archive.org/details/bub_gb_o5tbAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ)             |
 | Geographischstatistisches Handbuch über Schlesien und die Grafschaft Glatz                                                                                                                 | 1818 | [bub_gb_PNcAAAAAcAAJ](http://archive.org/details/bub_gb_PNcAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ)             |
+| Chronik der königlichen Würtembergischen Stadt Rottenburg und Ehingen am Nekar                                                                                                             | 1819 | [bub_gb_3mAAAAAAcAAJ](http://archive.org/details/bub_gb_3mAAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ)             |
 | Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...                                                                                                                        | 1822 | [dieleibnizschel01sigwgoog](http://archive.org/details/dieleibnizschel01sigwgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog) |
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |

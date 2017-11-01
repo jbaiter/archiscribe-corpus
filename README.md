@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 555 lines from 25 works
-published across 23 years. Detailed statistics are available below.
+Currently the corpus contains 605 lines from 26 works
+published across 24 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -21,7 +21,7 @@ published across 23 years. Detailed statistics are available below.
 |   1850 |      75 |
 |   1860 |      71 |
 |   1870 |      30 |
-|   1880 |      50 |
+|   1880 |     100 |
 |   1890 |      85 |
 
 
@@ -49,6 +49,7 @@ published across 23 years. Detailed statistics are available below.
 | 1874 |      10 |
 | 1879 |      20 |
 | 1881 |      50 |
+| 1886 |      50 |
 | 1890 |      40 |
 | 1893 |      20 |
 | 1894 |      25 |
@@ -80,6 +81,7 @@ published across 23 years. Detailed statistics are available below.
 | Historisches Taschenbuch                                                                                                                                                                   | 1874 | [bub_gb_qGYMAAAAYAAJ](http://archive.org/details/bub_gb_qGYMAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ)             |
 | Die Musik im heutigen Italien                                                                                                                                                              | 1879 | [diemusikimheuti00conrgoog](http://archive.org/details/diemusikimheuti00conrgoog) | [Manifest](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog) |
 | Geschichte der Deutschen bis zur höchsten Machtentfaltung des Römisch ...                                                                                                                  | 1881 | [geschichtederde00bessgoog](http://archive.org/details/geschichtederde00bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/geschichtederde00bessgoog) |
+| Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    | 1890 | [deutscheliterat01wencgoog](http://archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
 | Deutsche Kolonialzeitung                                                                                                                                                                   |      | [deutschekolonia00unkngoog](http://archive.org/details/deutschekolonia00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/deutschekolonia00unkngoog) |
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     | 1894 | [dieforstlichenv02hagegoog](http://archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |

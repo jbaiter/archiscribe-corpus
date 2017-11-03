@@ -6,14 +6,14 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 605 lines from 26 works
-published across 24 years. Detailed statistics are available below.
+Currently the corpus contains 654 lines from 27 works
+published across 25 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
 | Decade | # lines |
 |--------|---------|
-|   1800 |      50 |
+|   1800 |      99 |
 |   1810 |     109 |
 |   1820 |      31 |
 |   1830 |      15 |
@@ -30,6 +30,7 @@ published across 24 years. Detailed statistics are available below.
 | Year | # lines |
 |------|---------|
 | 1800 |      50 |
+| 1801 |      49 |
 | 1812 |      50 |
 | 1816 |      26 |
 | 1818 |       8 |
@@ -60,6 +61,7 @@ published across 24 years. Detailed statistics are available below.
 |                                                                                           Title                                                                                            | Date |                                    Archive.org                                    |                                                                           IIIF                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Protocoll der ReichsFriedensDeputation zu Rastatt Enthält die Protocolle der ersten bis vierzigsten Sitzung incl                                                                           | 1800 | [bub_gb_UXdKAAAAcAAJ](http://archive.org/details/bub_gb_UXdKAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_UXdKAAAAcAAJ)             |
+| Oeconomische Encyclopädie oder Allgemeines System der Land, Haus und StaatsWirthschaft in alphabetischer Ordnung                                                                           | 1801 | [bub_gb_L54UAAAAQAAJ](http://archive.org/details/bub_gb_L54UAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_L54UAAAAQAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_L54UAAAAQAAJ)             |
 | Die Grille Eine Sammlung von Geschichten ... von Gedanken ... und von Betrachtungen ...                                                                                                    | 1812 | [bub_gb_SwsoAAAAMAAJ](http://archive.org/details/bub_gb_SwsoAAAAMAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_SwsoAAAAMAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_SwsoAAAAMAAJ)             |
 | Sappho von einem herrschenden Vorurtheil befreyt                                                                                                                                           | 1816 | [bub_gb_LOYVAAAAIAAJ](http://archive.org/details/bub_gb_LOYVAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ)             |
 | Recension von Niebuhr's römischer Geschichte in den Heidelberger Jahrbüchern der Litteratur                                                                                                | 1816 | [bub_gb_o5tbAAAAQAAJ](http://archive.org/details/bub_gb_o5tbAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ/manifest.json)/[Mirador](ttps://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ)             |

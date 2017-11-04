@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 751 lines from 29 works
-published across 27 years. Detailed statistics are available below.
+Currently the corpus contains 796 lines from 30 works
+published across 28 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -16,7 +16,7 @@ published across 27 years. Detailed statistics are available below.
 |   1800 |     196 |
 |   1810 |     109 |
 |   1820 |      31 |
-|   1830 |      15 |
+|   1830 |      60 |
 |   1840 |      39 |
 |   1850 |      75 |
 |   1860 |      71 |
@@ -42,6 +42,7 @@ published across 27 years. Detailed statistics are available below.
 | 1827 |      10 |
 | 1833 |      10 |
 | 1836 |       5 |
+| 1838 |      45 |
 | 1842 |      19 |
 | 1848 |      20 |
 | 1853 |      49 |
@@ -76,6 +77,7 @@ published across 27 years. Detailed statistics are available below.
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   | 1836 | [diereligionderr09hartgoog](http://archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |
+| Der Urevangelist oder exegetisch kjritische Untersuchung über das Verwandtschaftsverhältniss der ...                                                                                       | 1838 | [derurevangelist00wilkgoog](http://archive.org/details/derurevangelist00wilkgoog) | [Manifest](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog) |
 | Elsässisches Sagenbuch                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |

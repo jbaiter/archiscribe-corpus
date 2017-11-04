@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 837 lines from 32 works
-published across 29 years. Detailed statistics are available below.
+Currently the corpus contains 887 lines from 33 works
+published across 30 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -22,7 +22,7 @@ published across 29 years. Detailed statistics are available below.
 |   1860 |      71 |
 |   1870 |      30 |
 |   1880 |     116 |
-|   1890 |      85 |
+|   1890 |     135 |
 
 
 ## Statistics: Years
@@ -56,6 +56,7 @@ published across 29 years. Detailed statistics are available below.
 | 1886 |      50 |
 | 1887 |      16 |
 | 1890 |      40 |
+| 1892 |      50 |
 | 1893 |      20 |
 | 1894 |      25 |
 
@@ -94,6 +95,7 @@ published across 29 years. Detailed statistics are available below.
 | Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
 | Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    | 1890 | [deutscheliterat01wencgoog](http://archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
+| Erkenntnisse des K.k. Verwaltungsgerichtshofes                                                                                                                                             | 1892 | [erkenntnissedes00unkngoog](http://archive.org/details/erkenntnissedes00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog) |
 | Deutsche Kolonialzeitung                                                                                                                                                                   |      | [deutschekolonia00unkngoog](http://archive.org/details/deutschekolonia00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog) |
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     | 1894 | [dieforstlichenv02hagegoog](http://archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |
 

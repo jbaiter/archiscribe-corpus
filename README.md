@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1270 lines from 41 works
-published across 35 years. Detailed statistics are available below.
+Currently the corpus contains 1319 lines from 42 works
+published across 36 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -18,7 +18,7 @@ published across 35 years. Detailed statistics are available below.
 |   1820 |      77 |
 |   1830 |     102 |
 |   1840 |      86 |
-|   1850 |     125 |
+|   1850 |     174 |
 |   1860 |     121 |
 |   1870 |     178 |
 |   1880 |     116 |
@@ -46,6 +46,7 @@ published across 35 years. Detailed statistics are available below.
 | 1839 |      42 |
 | 1842 |      66 |
 | 1848 |      20 |
+| 1851 |      49 |
 | 1852 |      50 |
 | 1853 |      49 |
 | 1854 |       7 |
@@ -92,6 +93,7 @@ published across 35 years. Detailed statistics are available below.
 | Elsässisches Sagenbuch                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
+| SchleswigHolstein's FreiheitsKampf im 13. Jahrhundert; oder der Tag von Bornhöved Historischer Roman                                                                                       | 1851 | [bub_gb_Lz87AAAAcAAJ](http://archive.org/details/bub_gb_Lz87AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ)             |
 | Eppelein von Gailingen, und was sich seiner Zeit mit diesem ritterlichen Eulenspiegel und seinen Spießgesellen im Fränkischen zugetragen                                                   | 1852 | [bub_gb_gEo7AAAAcAAJ](http://archive.org/details/bub_gb_gEo7AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ)             |
 | Archiv für Geschichte und Altertumskunde von Oberfranken                                                                                                                                   | 1853 | [bub_gb_LbhAAAAAcAAJ](http://archive.org/details/bub_gb_LbhAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ)             |
 | Das gesetzliche Veräusserungsverbot bei Singular- und ...                                                                                                                                  | 1854 | [dasgesetzlichev00seufgoog](http://archive.org/details/dasgesetzlichev00seufgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog) |

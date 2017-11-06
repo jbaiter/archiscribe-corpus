@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1465 lines from 45 works
-published across 38 years. Detailed statistics are available below.
+Currently the corpus contains 1515 lines from 46 works
+published across 39 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -16,7 +16,7 @@ published across 38 years. Detailed statistics are available below.
 |   1800 |     196 |
 |   1810 |     134 |
 |   1820 |     127 |
-|   1830 |     102 |
+|   1830 |     152 |
 |   1840 |     136 |
 |   1850 |     174 |
 |   1860 |     121 |
@@ -42,6 +42,7 @@ published across 38 years. Detailed statistics are available below.
 | 1824 |      50 |
 | 1827 |      56 |
 | 1833 |      10 |
+| 1835 |      50 |
 | 1836 |       5 |
 | 1838 |      45 |
 | 1839 |      42 |
@@ -89,6 +90,7 @@ published across 38 years. Detailed statistics are available below.
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Sämmtliche Schriften                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
+| Sämmtliche Werke                                                                                                                                                                           | 1835 | [bub_gb_SAgEaAhqQOkC](http://archive.org/details/bub_gb_SAgEaAhqQOkC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   | 1836 | [diereligionderr09hartgoog](http://archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |
 | Der Urevangelist oder exegetisch kjritische Untersuchung über das Verwandtschaftsverhältniss der ...                                                                                       | 1838 | [derurevangelist00wilkgoog](http://archive.org/details/derurevangelist00wilkgoog) | [Manifest](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog) |
 | Europäische Sittengeschichte vom Ursprunge volksthümlicher Gestaltungen bis auf unsere Zeit                                                                                                | 1839 | [europischesitte02fockgoog](http://archive.org/details/europischesitte02fockgoog) | [Manifest](https://iiif.archivelab.org/iiif/europischesitte02fockgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/europischesitte02fockgoog) |

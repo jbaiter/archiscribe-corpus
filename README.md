@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1173 lines from 39 works
-published across 34 years. Detailed statistics are available below.
+Currently the corpus contains 1223 lines from 40 works
+published across 35 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -18,7 +18,7 @@ published across 34 years. Detailed statistics are available below.
 |   1820 |      77 |
 |   1830 |     102 |
 |   1840 |      39 |
-|   1850 |      75 |
+|   1850 |     125 |
 |   1860 |     121 |
 |   1870 |     178 |
 |   1880 |     116 |
@@ -46,6 +46,7 @@ published across 34 years. Detailed statistics are available below.
 | 1839 |      42 |
 | 1842 |      19 |
 | 1848 |      20 |
+| 1852 |      50 |
 | 1853 |      49 |
 | 1854 |       7 |
 | 1855 |      19 |
@@ -90,6 +91,7 @@ published across 34 years. Detailed statistics are available below.
 | Elsässisches Sagenbuch                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
+| Eppelein von Gailingen, und was sich seiner Zeit mit diesem ritterlichen Eulenspiegel und seinen Spießgesellen im Fränkischen zugetragen                                                   | 1852 | [bub_gb_gEo7AAAAcAAJ](http://archive.org/details/bub_gb_gEo7AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ)             |
 | Archiv für Geschichte und Altertumskunde von Oberfranken                                                                                                                                   | 1853 | [bub_gb_LbhAAAAAcAAJ](http://archive.org/details/bub_gb_LbhAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ)             |
 | Das gesetzliche Veräusserungsverbot bei Singular- und ...                                                                                                                                  | 1854 | [dasgesetzlichev00seufgoog](http://archive.org/details/dasgesetzlichev00seufgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog) |
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                        | 1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |

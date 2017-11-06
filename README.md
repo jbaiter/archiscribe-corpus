@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1123 lines from 38 works
+Currently the corpus contains 1173 lines from 39 works
 published across 34 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -20,7 +20,7 @@ published across 34 years. Detailed statistics are available below.
 |   1840 |      39 |
 |   1850 |      75 |
 |   1860 |     121 |
-|   1870 |     128 |
+|   1870 |     178 |
 |   1880 |     116 |
 |   1890 |     135 |
 
@@ -52,7 +52,7 @@ published across 34 years. Detailed statistics are available below.
 | 1860 |      50 |
 | 1867 |      23 |
 | 1868 |      48 |
-| 1874 |      10 |
+| 1874 |      60 |
 | 1875 |      50 |
 | 1878 |      48 |
 | 1879 |      20 |
@@ -97,6 +97,7 @@ published across 34 years. Detailed statistics are available below.
 | Die historischen Volkslieder der Deutschen vom 13. bis 16. Jahrhundert                                                                                                                     | 1867 | [bub_gb_zpcTAAAAQAAJ](http://archive.org/details/bub_gb_zpcTAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ)             |
 | Natur und Gemüth Ein Feld und Waldblüthenstrauß aus Tagen die nicht mehr sind, Gewunden von Friedrich Aulenbach                                                                            | 1868 | [bub_gb_HF46AAAAcAAJ](http://archive.org/details/bub_gb_HF46AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ)             |
 | Historisches Taschenbuch                                                                                                                                                                   | 1874 | [bub_gb_qGYMAAAAYAAJ](http://archive.org/details/bub_gb_qGYMAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ)             |
+| Geschichte der Herzogthümer Troppau und Jägerndorf                                                                                                                                         | 1874 | [geschichtederhe00biergoog](http://archive.org/details/geschichtederhe00biergoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederhe00biergoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederhe00biergoog) |
 | Der Leipziger baumeister Hieronymus Lotter, 14971580...                                                                                                                                    | 1875 | [bub_gb_89FEAAAAYAAJ](http://archive.org/details/bub_gb_89FEAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_89FEAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_89FEAAAAYAAJ)             |
 | Um die Erde: Reiseskizzen von der Erdumseglung mit S.M. Corvette "Erzherzog Friedrich" in den ...                                                                                          | 1878 | [umdieerdereises00lehngoog](http://archive.org/details/umdieerdereises00lehngoog) | [Manifest](https://iiif.archivelab.org/iiif/umdieerdereises00lehngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/umdieerdereises00lehngoog) |
 | Die Musik im heutigen Italien                                                                                                                                                              | 1879 | [diemusikimheuti00conrgoog](http://archive.org/details/diemusikimheuti00conrgoog) | [Manifest](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog) |

@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1419 lines from 44 works
+Currently the corpus contains 1465 lines from 45 works
 published across 38 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -21,7 +21,7 @@ published across 38 years. Detailed statistics are available below.
 |   1850 |     174 |
 |   1860 |     121 |
 |   1870 |     178 |
-|   1880 |     116 |
+|   1880 |     162 |
 |   1890 |     135 |
 
 
@@ -61,7 +61,7 @@ published across 38 years. Detailed statistics are available below.
 | 1878 |      48 |
 | 1879 |      20 |
 | 1881 |      50 |
-| 1886 |      50 |
+| 1886 |      96 |
 | 1887 |      16 |
 | 1890 |      40 |
 | 1892 |      50 |
@@ -112,6 +112,7 @@ published across 38 years. Detailed statistics are available below.
 | Die Musik im heutigen Italien                                                                                                                                                              | 1879 | [diemusikimheuti00conrgoog](http://archive.org/details/diemusikimheuti00conrgoog) | [Manifest](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog) |
 | Geschichte der Deutschen bis zur höchsten Machtentfaltung des Römisch ...                                                                                                                  | 1881 | [geschichtederde00bessgoog](http://archive.org/details/geschichtederde00bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog) |
 | Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
+| Grosse Unterricht Lehre: Mit einer Einleitung j. Comenius sein Leven und wirken                                                                                                            | 1886 | [grosseunterrich00lindgoog](http://archive.org/details/grosseunterrich00lindgoog) | [Manifest](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog) |
 | Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    | 1890 | [deutscheliterat01wencgoog](http://archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
 | Erkenntnisse des K.k. Verwaltungsgerichtshofes                                                                                                                                             | 1892 | [erkenntnissedes00unkngoog](http://archive.org/details/erkenntnissedes00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog) |

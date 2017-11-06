@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1027 lines from 36 works
+Currently the corpus contains 1073 lines from 37 works
 published across 33 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -15,7 +15,7 @@ published across 33 years. Detailed statistics are available below.
 |--------|---------|
 |   1800 |     196 |
 |   1810 |     134 |
-|   1820 |      31 |
+|   1820 |      77 |
 |   1830 |     102 |
 |   1840 |      39 |
 |   1850 |      75 |
@@ -39,7 +39,7 @@ published across 33 years. Detailed statistics are available below.
 | 1819 |      25 |
 | 1822 |       3 |
 | 1823 |      18 |
-| 1827 |      10 |
+| 1827 |      56 |
 | 1833 |      10 |
 | 1836 |       5 |
 | 1838 |      45 |
@@ -81,6 +81,7 @@ published across 33 years. Detailed statistics are available below.
 | Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...                                                                                                                        | 1822 | [dieleibnizschel01sigwgoog](http://archive.org/details/dieleibnizschel01sigwgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog) |
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
+| Sämmtliche Schriften                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   | 1836 | [diereligionderr09hartgoog](http://archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |
 | Der Urevangelist oder exegetisch kjritische Untersuchung über das Verwandtschaftsverhältniss der ...                                                                                       | 1838 | [derurevangelist00wilkgoog](http://archive.org/details/derurevangelist00wilkgoog) | [Manifest](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog) |

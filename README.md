@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1525 lines from 47 works
-published across 39 years. Detailed statistics are available below.
+Currently the corpus contains 1535 lines from 48 works
+published across 40 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -21,7 +21,7 @@ published across 39 years. Detailed statistics are available below.
 |   1850 |     174 |
 |   1860 |     121 |
 |   1870 |     178 |
-|   1880 |     162 |
+|   1880 |     172 |
 |   1890 |     135 |
 
 
@@ -62,6 +62,7 @@ published across 39 years. Detailed statistics are available below.
 | 1878 |      48 |
 | 1879 |      20 |
 | 1881 |      50 |
+| 1883 |      10 |
 | 1886 |      96 |
 | 1887 |      16 |
 | 1890 |      40 |
@@ -114,6 +115,7 @@ published across 39 years. Detailed statistics are available below.
 | Um die Erde: Reiseskizzen von der Erdumseglung mit S.M. Corvette "Erzherzog Friedrich" in den ...                                                                                          | 1878 | [umdieerdereises00lehngoog](http://archive.org/details/umdieerdereises00lehngoog) | [Manifest](https://iiif.archivelab.org/iiif/umdieerdereises00lehngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/umdieerdereises00lehngoog) |
 | Die Musik im heutigen Italien                                                                                                                                                              | 1879 | [diemusikimheuti00conrgoog](http://archive.org/details/diemusikimheuti00conrgoog) | [Manifest](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog) |
 | Geschichte der Deutschen bis zur höchsten Machtentfaltung des Römisch ...                                                                                                                  | 1881 | [geschichtederde00bessgoog](http://archive.org/details/geschichtederde00bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog) |
+| Elsass-lothringen                                                                                                                                                                          | 1883 | [elsasslothringe00hottgoog](http://archive.org/details/elsasslothringe00hottgoog) | [Manifest](https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog) |
 | Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
 | Grosse Unterricht Lehre: Mit einer Einleitung j. Comenius sein Leven und wirken                                                                                                            | 1886 | [grosseunterrich00lindgoog](http://archive.org/details/grosseunterrich00lindgoog) | [Manifest](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog) |
 | Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |

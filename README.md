@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1784 lines from 53 works
-published across 45 years. Detailed statistics are available below.
+Currently the corpus contains 1834 lines from 54 works
+published across 46 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -22,7 +22,7 @@ published across 45 years. Detailed statistics are available below.
 |   1860 |     171 |
 |   1870 |     178 |
 |   1880 |     172 |
-|   1890 |     135 |
+|   1890 |     185 |
 
 
 ## Statistics: Years
@@ -74,6 +74,7 @@ published across 45 years. Detailed statistics are available below.
 | 1892 |      50 |
 | 1893 |      20 |
 | 1894 |      25 |
+| 1897 |      50 |
 
 
 ## Statistics: Works
@@ -133,4 +134,5 @@ published across 45 years. Detailed statistics are available below.
 | Erkenntnisse des K.k. Verwaltungsgerichtshofes                                                                                                                                             | 1892 | [erkenntnissedes00unkngoog](http://archive.org/details/erkenntnissedes00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog) |
 | Deutsche Kolonialzeitung                                                                                                                                                                   |      | [deutschekolonia00unkngoog](http://archive.org/details/deutschekolonia00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog) |
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     | 1894 | [dieforstlichenv02hagegoog](http://archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |
+| Allgemeine Kulturgeschichte von der Urzeit bis auf die Gegenwart                                                                                                                           | 1897 | [allgemeinekultu12rhyngoog](http://archive.org/details/allgemeinekultu12rhyngoog) | [Manifest](https://iiif.archivelab.org/iiif/allgemeinekultu12rhyngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/allgemeinekultu12rhyngoog) |
 

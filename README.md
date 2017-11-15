@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1931 lines from 56 works
+Currently the corpus contains 1981 lines from 57 works
 published across 47 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -21,7 +21,7 @@ published across 47 years. Detailed statistics are available below.
 |   1850 |     274 |
 |   1860 |     171 |
 |   1870 |     178 |
-|   1880 |     172 |
+|   1880 |     222 |
 |   1890 |     185 |
 
 
@@ -70,7 +70,7 @@ published across 47 years. Detailed statistics are available below.
 | 1881 |      50 |
 | 1883 |      10 |
 | 1886 |      96 |
-| 1887 |      16 |
+| 1887 |      66 |
 | 1890 |      40 |
 | 1892 |      50 |
 | 1893 |      20 |
@@ -132,6 +132,7 @@ published across 47 years. Detailed statistics are available below.
 | Elsass-lothringen                                                                                                                                                                          | 1883 | [elsasslothringe00hottgoog](http://archive.org/details/elsasslothringe00hottgoog) | [Manifest](https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog) |
 | Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
 | Grosse Unterricht Lehre: Mit einer Einleitung j. Comenius sein Leven und wirken                                                                                                            | 1886 | [grosseunterrich00lindgoog](http://archive.org/details/grosseunterrich00lindgoog) | [Manifest](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog) |
+| Das Lügen: Lustspiel in drei Aufzügen                                                                                                                                                      | 1887 | [daslgenlustspie00benegoog](http://archive.org/details/daslgenlustspie00benegoog) | [Manifest](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog) |
 | Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    | 1890 | [deutscheliterat01wencgoog](http://archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
 | Erkenntnisse des K.k. Verwaltungsgerichtshofes                                                                                                                                             | 1892 | [erkenntnissedes00unkngoog](http://archive.org/details/erkenntnissedes00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog) |

@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1734 lines from 52 works
-published across 44 years. Detailed statistics are available below.
+Currently the corpus contains 1784 lines from 53 works
+published across 45 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -19,7 +19,7 @@ published across 44 years. Detailed statistics are available below.
 |   1830 |     152 |
 |   1840 |     146 |
 |   1850 |     274 |
-|   1860 |     121 |
+|   1860 |     171 |
 |   1870 |     178 |
 |   1880 |     172 |
 |   1890 |     135 |
@@ -59,6 +59,7 @@ published across 44 years. Detailed statistics are available below.
 | 1855 |      19 |
 | 1859 |      50 |
 | 1860 |      50 |
+| 1864 |      50 |
 | 1867 |      23 |
 | 1868 |      48 |
 | 1874 |      60 |
@@ -115,6 +116,7 @@ published across 44 years. Detailed statistics are available below.
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                        | 1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |
 | Geist und Körper in ihren Wechselbeziehungen: mit Versuchen Naturwissenschaftlicher Erklärung ...                                                                                          | 1859 | [geistundkrperin00reclgoog](http://archive.org/details/geistundkrperin00reclgoog) | [Manifest](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog) |
 | Ueber das Leben des Ulfilas und die Bekehrung der Gothen Sum Christenthum                                                                                                                  | 1860 | [ueberdaslebende01bessgoog](http://archive.org/details/ueberdaslebende01bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog) |
+| Die BettlerOper ein Lebensbild aus der Dichterund Musikerwelt der Zeit Georg I.                                                                                                            | 1864 | [bub_gb_MOo6AAAAcAAJ](http://archive.org/details/bub_gb_MOo6AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ)             |
 | Die historischen Volkslieder der Deutschen vom 13. bis 16. Jahrhundert                                                                                                                     | 1867 | [bub_gb_zpcTAAAAQAAJ](http://archive.org/details/bub_gb_zpcTAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ)             |
 | Natur und Gemüth Ein Feld und Waldblüthenstrauß aus Tagen die nicht mehr sind, Gewunden von Friedrich Aulenbach                                                                            | 1868 | [bub_gb_HF46AAAAcAAJ](http://archive.org/details/bub_gb_HF46AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ)             |
 | Historisches Taschenbuch                                                                                                                                                                   | 1874 | [bub_gb_qGYMAAAAYAAJ](http://archive.org/details/bub_gb_qGYMAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ)             |

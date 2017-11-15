@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1634 lines from 50 works
-published across 42 years. Detailed statistics are available below.
+Currently the corpus contains 1684 lines from 51 works
+published across 43 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -15,7 +15,7 @@ published across 42 years. Detailed statistics are available below.
 |--------|---------|
 |   1800 |     196 |
 |   1810 |     183 |
-|   1820 |     127 |
+|   1820 |     177 |
 |   1830 |     152 |
 |   1840 |     146 |
 |   1850 |     224 |
@@ -42,6 +42,7 @@ published across 42 years. Detailed statistics are available below.
 | 1823 |      18 |
 | 1824 |      50 |
 | 1827 |      56 |
+| 1829 |      50 |
 | 1833 |      10 |
 | 1835 |      50 |
 | 1836 |       5 |
@@ -93,6 +94,7 @@ published across 42 years. Detailed statistics are available below.
 | MilitärWochenblatt Unabhängige Zeitschrift für die deutsche Wehrmacht                                                                                                                      | 1824 | [bub_gb_nL5FAAAAcAAJ](http://archive.org/details/bub_gb_nL5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ)             |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Sämmtliche Schriften                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
+| Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...                                                                                                                | 1829 | [reisedurchdasal04ledegoog](http://archive.org/details/reisedurchdasal04ledegoog) | [Manifest](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog) |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
 | Sämmtliche Werke                                                                                                                                                                           | 1835 | [bub_gb_SAgEaAhqQOkC](http://archive.org/details/bub_gb_SAgEaAhqQOkC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   | 1836 | [diereligionderr09hartgoog](http://archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |

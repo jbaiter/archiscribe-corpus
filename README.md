@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1834 lines from 54 works
-published across 46 years. Detailed statistics are available below.
+Currently the corpus contains 1881 lines from 55 works
+published across 47 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -17,7 +17,7 @@ published across 46 years. Detailed statistics are available below.
 |   1810 |     183 |
 |   1820 |     177 |
 |   1830 |     152 |
-|   1840 |     146 |
+|   1840 |     193 |
 |   1850 |     274 |
 |   1860 |     171 |
 |   1870 |     178 |
@@ -49,6 +49,7 @@ published across 46 years. Detailed statistics are available below.
 | 1838 |      45 |
 | 1839 |      42 |
 | 1842 |      66 |
+| 1844 |      47 |
 | 1847 |      50 |
 | 1848 |      30 |
 | 1850 |      50 |
@@ -105,6 +106,7 @@ published across 46 years. Detailed statistics are available below.
 | Europäische Sittengeschichte vom Ursprunge volksthümlicher Gestaltungen bis auf unsere Zeit                                                                                                | 1839 | [europischesitte02fockgoog](http://archive.org/details/europischesitte02fockgoog) | [Manifest](https://iiif.archivelab.org/iiif/europischesitte02fockgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/europischesitte02fockgoog) |
 | Abriss einer vergleichenden Darstellung der indisch- persisch- und chinesischen Religions-systeme                                                                                          | 1842 | [abrisseinerverg00krgoog](http://archive.org/details/abrisseinerverg00krgoog)     | [Manifest](https://iiif.archivelab.org/iiif/abrisseinerverg00krgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/abrisseinerverg00krgoog)     |
 | Elsässisches Sagenbuch                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
+| Morgenblatt für gebildete Leser 1844                                                                                                                                                       | 1844 | [bub_gb_53ZEAAAAcAAJ](http://archive.org/details/bub_gb_53ZEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ)             |
 | Briefe aus und über Nordamerika; oder, Beiträge zu einer richtigen Kenntniss der Vereinigten ...                                                                                           | 1847 | [briefeausundber02btgoog](http://archive.org/details/briefeausundber02btgoog)     | [Manifest](https://iiif.archivelab.org/iiif/briefeausundber02btgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/briefeausundber02btgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |

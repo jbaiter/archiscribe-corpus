@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1881 lines from 55 works
+Currently the corpus contains 1931 lines from 56 works
 published across 47 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -16,7 +16,7 @@ published across 47 years. Detailed statistics are available below.
 |   1800 |     196 |
 |   1810 |     183 |
 |   1820 |     177 |
-|   1830 |     152 |
+|   1830 |     202 |
 |   1840 |     193 |
 |   1850 |     274 |
 |   1860 |     171 |
@@ -43,7 +43,7 @@ published across 47 years. Detailed statistics are available below.
 | 1824 |      50 |
 | 1827 |      56 |
 | 1829 |      50 |
-| 1833 |      10 |
+| 1833 |      60 |
 | 1835 |      50 |
 | 1836 |       5 |
 | 1838 |      45 |
@@ -100,6 +100,7 @@ published across 47 years. Detailed statistics are available below.
 | Sämmtliche Schriften                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
 | Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...                                                                                                                | 1829 | [reisedurchdasal04ledegoog](http://archive.org/details/reisedurchdasal04ledegoog) | [Manifest](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog) |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
+| Homer's Werke                                                                                                                                                                              | 1833 | [homerswerke06vossgoog](http://archive.org/details/homerswerke06vossgoog)         | [Manifest](https://iiif.archivelab.org/iiif/homerswerke06vossgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/homerswerke06vossgoog)         |
 | Sämmtliche Werke                                                                                                                                                                           | 1835 | [bub_gb_SAgEaAhqQOkC](http://archive.org/details/bub_gb_SAgEaAhqQOkC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC)             |
 | Die Religion der Römer: Nach den Quellen                                                                                                                                                   | 1836 | [diereligionderr09hartgoog](http://archive.org/details/diereligionderr09hartgoog) | [Manifest](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diereligionderr09hartgoog) |
 | Der Urevangelist oder exegetisch kjritische Untersuchung über das Verwandtschaftsverhältniss der ...                                                                                       | 1838 | [derurevangelist00wilkgoog](http://archive.org/details/derurevangelist00wilkgoog) | [Manifest](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog) |

@@ -6,15 +6,15 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 1585 lines from 49 works
-published across 41 years. Detailed statistics are available below.
+Currently the corpus contains 1634 lines from 50 works
+published across 42 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
 | Decade | # lines |
 |--------|---------|
 |   1800 |     196 |
-|   1810 |     134 |
+|   1810 |     183 |
 |   1820 |     127 |
 |   1830 |     152 |
 |   1840 |     146 |
@@ -34,6 +34,7 @@ published across 41 years. Detailed statistics are available below.
 | 1803 |      50 |
 | 1804 |      47 |
 | 1812 |      50 |
+| 1815 |      49 |
 | 1816 |      51 |
 | 1818 |       8 |
 | 1819 |      25 |
@@ -81,6 +82,7 @@ published across 41 years. Detailed statistics are available below.
 | Beyträge zur Nördlingischen Geschlechtshistorie ¬Die Nördlingischen Familien und Epitaphien enthaltend                                                                                     | 1803 | [bub_gb_CJZAAAAAcAAJ](http://archive.org/details/bub_gb_CJZAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_CJZAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_CJZAAAAAcAAJ)             |
 | Wanderungen und Spazierfahrten in die Gegenden von Wien                                                                                                                                    | 1804 | [bub_gb_eZcBAAAAYAAJ](http://archive.org/details/bub_gb_eZcBAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_eZcBAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_eZcBAAAAYAAJ)             |
 | Die Grille Eine Sammlung von Geschichten ... von Gedanken ... und von Betrachtungen ...                                                                                                    | 1812 | [bub_gb_SwsoAAAAMAAJ](http://archive.org/details/bub_gb_SwsoAAAAMAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_SwsoAAAAMAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_SwsoAAAAMAAJ)             |
+| Allgemeine Literatur-zeitung                                                                                                                                                               | 1815 | [allgemeineliter20unkngoog](http://archive.org/details/allgemeineliter20unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/allgemeineliter20unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/allgemeineliter20unkngoog) |
 | Blumenlese aus den Minnesingern: 1. Sammlung                                                                                                                                               | 1816 | [blumenleseausde00mlgoog](http://archive.org/details/blumenleseausde00mlgoog)     | [Manifest](https://iiif.archivelab.org/iiif/blumenleseausde00mlgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/blumenleseausde00mlgoog)     |
 | Sappho von einem herrschenden Vorurtheil befreyt                                                                                                                                           | 1816 | [bub_gb_LOYVAAAAIAAJ](http://archive.org/details/bub_gb_LOYVAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ)             |
 | Recension von Niebuhr's römischer Geschichte in den Heidelberger Jahrbüchern der Litteratur                                                                                                | 1816 | [bub_gb_o5tbAAAAQAAJ](http://archive.org/details/bub_gb_o5tbAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_o5tbAAAAQAAJ)             |

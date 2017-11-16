@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2080 lines from 59 works
-published across 49 years. Detailed statistics are available below.
+Currently the corpus contains 2130 lines from 60 works
+published across 50 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -19,7 +19,7 @@ published across 49 years. Detailed statistics are available below.
 |   1830 |     202 |
 |   1840 |     193 |
 |   1850 |     274 |
-|   1860 |     171 |
+|   1860 |     221 |
 |   1870 |     227 |
 |   1880 |     222 |
 |   1890 |     235 |
@@ -61,6 +61,7 @@ published across 49 years. Detailed statistics are available below.
 | 1859 |      50 |
 | 1860 |      50 |
 | 1864 |      50 |
+| 1865 |      50 |
 | 1867 |      23 |
 | 1868 |      48 |
 | 1872 |      49 |
@@ -123,6 +124,7 @@ published across 49 years. Detailed statistics are available below.
 | Geist und Körper in ihren Wechselbeziehungen: mit Versuchen Naturwissenschaftlicher Erklärung ...                                                                                          | 1859 | [geistundkrperin00reclgoog](http://archive.org/details/geistundkrperin00reclgoog) | [Manifest](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog) |
 | Ueber das Leben des Ulfilas und die Bekehrung der Gothen Sum Christenthum                                                                                                                  | 1860 | [ueberdaslebende01bessgoog](http://archive.org/details/ueberdaslebende01bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog) |
 | Die BettlerOper ein Lebensbild aus der Dichterund Musikerwelt der Zeit Georg I.                                                                                                            | 1864 | [bub_gb_MOo6AAAAcAAJ](http://archive.org/details/bub_gb_MOo6AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ)             |
+| Geschichte der Erdkunde bis auf A. V. Humboldt und Carl Ritter                                                                                                                             | 1865 | [geschichtederer00persgoog](http://archive.org/details/geschichtederer00persgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederer00persgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederer00persgoog) |
 | Die historischen Volkslieder der Deutschen vom 13. bis 16. Jahrhundert                                                                                                                     | 1867 | [bub_gb_zpcTAAAAQAAJ](http://archive.org/details/bub_gb_zpcTAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ)             |
 | Natur und Gemüth Ein Feld und Waldblüthenstrauß aus Tagen die nicht mehr sind, Gewunden von Friedrich Aulenbach                                                                            | 1868 | [bub_gb_HF46AAAAcAAJ](http://archive.org/details/bub_gb_HF46AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ)             |
 | Archiv für Buchgewerbe und Gebrauchsgraphik...                                                                                                                                             | 1872 | [archivfrbuchgew02buchgoog](http://archive.org/details/archivfrbuchgew02buchgoog) | [Manifest](https://iiif.archivelab.org/iiif/archivfrbuchgew02buchgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/archivfrbuchgew02buchgoog) |

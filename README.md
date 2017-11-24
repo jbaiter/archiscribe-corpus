@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2236 lines from 63 works
-published across 51 years. Detailed statistics are available below.
+Currently the corpus contains 2286 lines from 64 works
+published across 52 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -19,7 +19,7 @@ published across 51 years. Detailed statistics are available below.
 |   1830 |     202 |
 |   1840 |     193 |
 |   1850 |     274 |
-|   1860 |     221 |
+|   1860 |     271 |
 |   1870 |     227 |
 |   1880 |     222 |
 |   1890 |     235 |
@@ -61,6 +61,7 @@ published across 51 years. Detailed statistics are available below.
 | 1855 |      19 |
 | 1859 |      50 |
 | 1860 |      50 |
+| 1862 |      50 |
 | 1864 |      50 |
 | 1865 |      50 |
 | 1867 |      23 |
@@ -127,6 +128,7 @@ published across 51 years. Detailed statistics are available below.
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                        | 1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |
 | Geist und Körper in ihren Wechselbeziehungen: mit Versuchen Naturwissenschaftlicher Erklärung ...                                                                                          | 1859 | [geistundkrperin00reclgoog](http://archive.org/details/geistundkrperin00reclgoog) | [Manifest](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog) |
 | Ueber das Leben des Ulfilas und die Bekehrung der Gothen Sum Christenthum                                                                                                                  | 1860 | [ueberdaslebende01bessgoog](http://archive.org/details/ueberdaslebende01bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog) |
+| bd. Kritiken. Briefe aus Frankfurt. Menzel der Franzosenfresser                                                                                                                            | 1862 | [bub_gb_EXEoAAAAYAAJ](http://archive.org/details/bub_gb_EXEoAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_EXEoAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_EXEoAAAAYAAJ)             |
 | Die BettlerOper ein Lebensbild aus der Dichterund Musikerwelt der Zeit Georg I.                                                                                                            | 1864 | [bub_gb_MOo6AAAAcAAJ](http://archive.org/details/bub_gb_MOo6AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ)             |
 | Geschichte der Erdkunde bis auf A. V. Humboldt und Carl Ritter                                                                                                                             | 1865 | [geschichtederer00persgoog](http://archive.org/details/geschichtederer00persgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederer00persgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederer00persgoog) |
 | Die historischen Volkslieder der Deutschen vom 13. bis 16. Jahrhundert                                                                                                                     | 1867 | [bub_gb_zpcTAAAAQAAJ](http://archive.org/details/bub_gb_zpcTAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ)             |

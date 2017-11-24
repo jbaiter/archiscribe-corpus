@@ -1,1 +1,278 @@
-{"copyright-region": "US", "title": "Der Urevangelist oder exegetisch kjritische Untersuchung \u00fcber das Verwandtschaftsverh\u00e4ltniss der ...", "mediatype": "texts", "repub_state": "4", "uploader": "tpb", "identifier-access": "http://www.archive.org/details/derurevangelist00wilkgoog", "contributor": "Oxford University", "year": "1838", "date": "1838", "language": "German", "lines": {"45caf9bb": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$400/298,4180,2157,90/full/0/default.png", "a180145e": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$391/296,3150,2157,110/full/0/default.png", "2efd7762": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$695/314,2329,2174,116/full/0/default.png", "a0afa4a8": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$526/539,4117,1985,78/full/0/default.png", "a587dd1e": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$522/307,2714,2160,98/full/0/default.png", "2e9537a2": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$433/478,2624,2157,115/full/0/default.png", "764e8181": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$651/448,3297,2162,93/full/0/default.png", "bc198bfd": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$95/467,1850,2166,89/full/0/default.png", "55ea31ac": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/312,2871,2188,96/full/0/default.png", "ef3f9eb4": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$147/435,2315,2148,90/full/0/default.png", "fec8afb9": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$255/380,2602,604,84/full/0/default.png", "6a54c1bc": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$64/1957,3583,505,55/full/0/default.png", "7530b3ee": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$111/470,3174,2160,112/full/0/default.png", "094efaab": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$423/304,3275,2164,89/full/0/default.png", "4823d63d": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$35/304,1588,2147,87/full/0/default.png", "a78a0813": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$112/170,815,2160,116/full/0/default.png", "ad4cf374": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$45/1121,3697,693,83/full/0/default.png", "b3a04f7e": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$385/296,784,2159,89/full/0/default.png", "eed769f7": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$440/303,1431,2004,109/full/0/default.png", "ca5e9862": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$626/321,1193,2164,90/full/0/default.png", "d8986712": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$229/1914,997,690,79/full/0/default.png", "022e6640": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$410/313,2655,2061,89/full/0/default.png", "e998602f": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$250/385,3699,599,82/full/0/default.png", "f027f156": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$372/610,2248,1989,73/full/0/default.png", "188342d0": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$509/2027,2335,571,91/full/0/default.png", "eeef0b9a": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$304/308,3090,2127,99/full/0/default.png", "0791cb77": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$450/220,1703,2097,110/full/0/default.png", "fad4249e": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$31/401,4175,2143,96/full/0/default.png", "e27ce5c8": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$556/319,1224,1806,95/full/0/default.png", "33f327f2": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$43/1116,3042,690,59/full/0/default.png", "3d31e048": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$256/1035,1148,685,97/full/0/default.png", "9b428adf": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$336/201,3166,1051,88/full/0/default.png", "45621266": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$285/457,3728,1971,70/full/0/default.png", "7f1bf1ae": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$608/302,518,2189,89/full/0/default.png", "3e833f1b": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$654/303,1105,2153,91/full/0/default.png", "26fb4a8d": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$575/392,2647,2204,90/full/0/default.png", "42c8d00b": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$202/404,1513,2040,93/full/0/default.png", "bc475b64": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/307,2572,2214,90/full/0/default.png", "119c04b7": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$504/346,2581,1977,78/full/0/default.png", "582c9771": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$207/513,3143,603,83/full/0/default.png", "7d38dbb2": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$477/296,2145,2162,91/full/0/default.png", "9f804258": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$173/476,1138,2053,110/full/0/default.png", "8a5e3756": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$436/321,1317,2160,91/full/0/default.png", "8525632f": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$404/219,2189,2147,88/full/0/default.png", "942a3389": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$493/306,782,2155,92/full/0/default.png"}, "openlibrary_edition": "OL20457645M", "scanner": "google", "scandate": "20061019", "identifier": "derurevangelist00wilkgoog", "publicdate": "2008-08-31 09:19:30", "creator": "Christian Gottlob Wilke", "openlibrary_work": "OL13119535W", "collection": "europeanlibraries", "source": "http://books.google.com/books?id=xmYEAAAAQAAJ&oe=UTF-8", "publisher": "", "imagecount": "713", "possible-copyright-status": "NOT_IN_COPYRIGHT", "identifier-ark": "ark:/13960/t6b282834", "backup_location": "ia903602_11", "sponsor": "Google", "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb."}
+{
+  "title": "Der Urevangelist oder exegetisch kjritische Untersuchung \u00fcber das Verwandtschaftsverh\u00e4ltniss der ...",
+  "year": 1838,
+  "id": "derurevangelist00wilkgoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$31/400,4074,2144,96/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$31/401,4278,2165,99/full/0/default.png",
+      "id": "fad4249e",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$31/401,4175,2143,96/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$35/303,1486,2146,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$35/307,1690,2145,88/full/0/default.png",
+      "id": "4823d63d",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$35/304,1588,2147,87/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$43/1114,2933,691,107/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$43/1116,3102,691,84/full/0/default.png",
+      "id": "33f327f2",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$43/1116,3042,690,59/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$45/1121,3454,693,75/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$45/1122,3778,540,85/full/0/default.png",
+      "id": "ad4cf374",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$45/1121,3697,693,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$64/1953,3392,508,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$64/1954,3644,509,88/full/0/default.png",
+      "id": "6a54c1bc",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$64/1957,3583,505,55/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$95/470,1747,2162,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$95/454,1950,2174,95/full/0/default.png",
+      "id": "bc198bfd",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$95/467,1850,2166,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$111/472,3094,2156,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$111/468,3297,2160,88/full/0/default.png",
+      "id": "7530b3ee",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$111/470,3174,2160,112/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$112/168,711,2161,115/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$112/171,942,2158,91/full/0/default.png",
+      "id": "a78a0813",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$112/170,815,2160,116/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$147/436,2214,2147,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$147/434,2394,2149,113/full/0/default.png",
+      "id": "ef3f9eb4",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$147/435,2315,2148,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$173/476,1059,2053,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$173/476,1262,2052,90/full/0/default.png",
+      "id": "9f804258",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$173/476,1138,2053,110/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$202/405,1412,2027,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$202/405,1593,2032,112/full/0/default.png",
+      "id": "42c8d00b",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$202/404,1513,2040,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$207/427,3059,580,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$207/427,3227,693,83/full/0/default.png",
+      "id": "582c9771",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$207/513,3143,603,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$229/1995,915,611,65/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$229/1915,1084,691,82/full/0/default.png",
+      "id": "d8986712",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$229/1914,997,690,79/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$250/299,3612,252,80/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$250/301,3774,684,87/full/0/default.png",
+      "id": "e998602f",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$250/385,3699,599,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$255/294,2519,535,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$255/293,2685,685,84/full/0/default.png",
+      "id": "fec8afb9",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$255/380,2602,604,84/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$256/1037,1084,685,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$256/1036,1243,680,92/full/0/default.png",
+      "id": "3d31e048",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$256/1035,1148,685,97/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$285/457,3637,1968,80/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$285/457,3809,1971,81/full/0/default.png",
+      "id": "45621266",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$285/457,3728,1971,70/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$304/309,2995,2130,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$304/307,3196,2131,94/full/0/default.png",
+      "id": "eeef0b9a",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$304/308,3090,2127,99/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$336/199,2997,1054,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$336/1492,1665,839,83/full/0/default.png",
+      "id": "9b428adf",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$336/201,3166,1051,88/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$372/608,2164,1992,75/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$372/605,2337,1992,69/full/0/default.png",
+      "id": "f027f156",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$372/610,2248,1989,73/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$385/294,679,2161,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$385/298,887,2157,86/full/0/default.png",
+      "id": "b3a04f7e",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$385/296,784,2159,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$391/297,3069,2157,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$391/294,3275,2158,86/full/0/default.png",
+      "id": "a180145e",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$391/296,3150,2157,110/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$400/301,4077,2154,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$400/297,4281,2158,94/full/0/default.png",
+      "id": "45caf9bb",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$400/298,4180,2157,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$404/222,2086,2163,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$404/222,2291,2160,84/full/0/default.png",
+      "id": "8525632f",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$404/219,2189,2147,88/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$410/310,2549,2066,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$410/312,2756,2065,90/full/0/default.png",
+      "id": "022e6640",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$410/313,2655,2061,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$423/304,3170,2165,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$423/305,3376,2165,91/full/0/default.png",
+      "id": "094efaab",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$423/304,3275,2164,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$433/476,2544,2160,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$433/681,2747,1952,94/full/0/default.png",
+      "id": "2e9537a2",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$433/478,2624,2157,115/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$436/323,1216,2162,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$436/321,1420,2162,91/full/0/default.png",
+      "id": "8a5e3756",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$436/321,1317,2160,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$440/304,1326,2157,117/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$440/305,1546,2157,105/full/0/default.png",
+      "id": "eed769f7",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$440/303,1431,2004,109/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$450/217,1624,2103,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$450/218,1826,2095,89/full/0/default.png",
+      "id": "0791cb77",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$450/220,1703,2097,110/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$477/298,2040,2155,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$477/295,2245,2159,90/full/0/default.png",
+      "id": "7d38dbb2",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$477/296,2145,2162,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$493/305,679,2156,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$493/307,861,2151,116/full/0/default.png",
+      "id": "942a3389",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$493/306,782,2155,92/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$504/342,2499,1974,75/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$504/343,2667,1979,77/full/0/default.png",
+      "id": "119c04b7",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$504/346,2581,1977,78/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$509/1939,1919,328,80/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$509/1941,2420,661,88/full/0/default.png",
+      "id": "188342d0",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$509/2027,2335,571,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$522/303,2617,2162,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$522/305,2821,2162,92/full/0/default.png",
+      "id": "a587dd1e",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$522/307,2714,2160,98/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$526/453,4031,2067,78/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$526/539,4203,1985,79/full/0/default.png",
+      "id": "a0afa4a8",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$526/539,4117,1985,78/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$556/323,1123,2173,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$556/317,1299,2172,123/full/0/default.png",
+      "id": "e27ce5c8",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$556/319,1224,1806,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$575/394,2545,2201,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$575/391,2747,2209,92/full/0/default.png",
+      "id": "26fb4a8d",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$575/392,2647,2204,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/308,2471,2194,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/310,2675,2190,89/full/0/default.png",
+      "id": "bc475b64",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/307,2572,2214,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/309,2774,2190,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/312,2975,2190,92/full/0/default.png",
+      "id": "55ea31ac",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$582/312,2871,2188,96/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$608/843,352,1650,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$608/303,593,2190,120/full/0/default.png",
+      "id": "7f1bf1ae",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$608/302,518,2189,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$626/323,1091,2164,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$626/321,1294,2162,91/full/0/default.png",
+      "id": "ca5e9862",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$626/321,1193,2164,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$651/450,3199,2165,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$651/442,3402,2169,90/full/0/default.png",
+      "id": "764e8181",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$651/448,3297,2162,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$654/301,1006,2154,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$654/301,1185,2159,113/full/0/default.png",
+      "id": "3e833f1b",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$654/303,1105,2153,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$695/318,2250,2174,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$695/312,2457,2180,87/full/0/default.png",
+      "id": "2efd7762",
+      "line": "https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog$695/314,2329,2174,116/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/derurevangelist00wilkgoog/manifest.json"
+}

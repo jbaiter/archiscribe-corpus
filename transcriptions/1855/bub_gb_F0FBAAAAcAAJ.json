@@ -1,1 +1,122 @@
-{"title": "Untersuchungen und Beobachtungen \u00fcber die Verbreitungsart der Cholera Nebst Betrachungen \u00fcber Massregeln, derselben Einhalt zu thun", "mediatype": "texts", "repub_state": "4", "addeddate": "2014-10-10 08:44:35", "curation": "[curator]validator@archive.org[/curator][date]20141010084514[/date][comment]checked for malware[/comment]", "identifier-access": "http://archive.org/details/bub_gb_F0FBAAAAcAAJ", "contributor": "unknown library", "year": "1855", "date": "1855", "language": "German", "lines": {"9be5120b": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$177/264,3367,1694,70/full/0/default.png", "3a4d2f45": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$58/528,1586,1719,68/full/0/default.png", "d69fbddc": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$331/277,1429,1706,65/full/0/default.png", "15606eed": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$318/505,961,1693,56/full/0/default.png", "19eb2182": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$68/542,1698,1707,68/full/0/default.png", "72e99425": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$12/498,3162,1713,72/full/0/default.png", "ebde1882": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$138/221,1580,1741,75/full/0/default.png", "dae8bcef": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$79/211,1890,1743,70/full/0/default.png", "317fe924": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$147/608,2482,1593,71/full/0/default.png", "28b117ed": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$234/533,598,1689,79/full/0/default.png", "26d45e70": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$215/945,2239,255,55/full/0/default.png", "8a83ff42": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$28/524,2929,1720,72/full/0/default.png", "a20bd64a": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$300/514,3039,364,67/full/0/default.png", "39dce612": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$87/1001,1439,249,57/full/0/default.png", "a570d076": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$281/245,3372,1711,84/full/0/default.png", "cf59288d": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$312/553,1060,1693,65/full/0/default.png", "3b0d0fda": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$47/214,2532,1721,72/full/0/default.png", "6efde103": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$231/271,1627,1704,67/full/0/default.png", "ac8ed69c": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$345/259,2812,1697,57/full/0/default.png"}, "scanner": "google", "subject": "bub_upload", "identifier": "bub_gb_F0FBAAAAcAAJ", "publicdate": "2014-10-10 08:44:35", "creator": "Max von Pettenkofer", "uploader": "tools.bub@tools.wmflabs.org", "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/", "sponsor": "Google", "collection": "europeanlibraries", "source": "http://books.google.com/books?id=F0FBAAAAcAAJ&hl=&source=gbs_api", "publisher": "Cotta", "imagecount": "402", "google-id": "F0FBAAAAcAAJ", "identifier-ark": "ark:/13960/t6p01154m", "oclc-id": "11300927", "backup_location": "ia905905_8", "ocr": "ABBYY FineReader 9.0"}
+{
+  "title": "Untersuchungen und Beobachtungen \u00fcber die Verbreitungsart der Cholera Nebst Betrachungen \u00fcber Massregeln, derselben Einhalt zu thun",
+  "year": 1855,
+  "id": "bub_gb_F0FBAAAAcAAJ",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$12/500,3064,1707,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$12/501,3270,1711,68/full/0/default.png",
+      "id": "72e99425",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$12/498,3162,1713,72/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$28/524,2831,1718,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$28/528,3036,1716,68/full/0/default.png",
+      "id": "8a83ff42",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$28/524,2929,1720,72/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$47/221,2430,1717,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$47/214,2633,1723,74/full/0/default.png",
+      "id": "3b0d0fda",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$47/214,2532,1721,72/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$58/527,1486,1718,68/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$58/529,1690,1716,66/full/0/default.png",
+      "id": "3a4d2f45",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$58/528,1586,1719,68/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$68/534,1595,1715,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$68/533,1798,1718,68/full/0/default.png",
+      "id": "19eb2182",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$68/542,1698,1707,68/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$79/212,1789,1747,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$79/214,1995,1745,71/full/0/default.png",
+      "id": "dae8bcef",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$79/211,1890,1743,70/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$87/266,1430,290,59/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$87/1005,1558,238,41/full/0/default.png",
+      "id": "39dce612",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$87/1001,1439,249,57/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$138/220,1481,1746,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$138/221,1686,1741,68/full/0/default.png",
+      "id": "ebde1882",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$138/221,1580,1741,75/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$147/478,2383,789,67/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$147/479,2587,1721,69/full/0/default.png",
+      "id": "317fe924",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$147/608,2482,1593,71/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$177/263,3270,1692,67/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$178/1152,395,409,67/full/0/default.png",
+      "id": "9be5120b",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$177/264,3367,1694,70/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$215/945,1864,255,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$215/959,2523,222,58/full/0/default.png",
+      "id": "26d45e70",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$215/945,2239,255,55/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$231/273,1524,1697,67/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$231/270,1723,1706,70/full/0/default.png",
+      "id": "6efde103",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$231/271,1627,1704,67/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$234/1207,457,335,66/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$234/541,698,1684,72/full/0/default.png",
+      "id": "28b117ed",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$234/533,598,1689,79/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$281/246,3274,1707,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$282/1058,414,613,62/full/0/default.png",
+      "id": "a570d076",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$281/245,3372,1711,84/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$300/510,2939,1696,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$301/563,565,1434,66/full/0/default.png",
+      "id": "a20bd64a",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$300/514,3039,364,67/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$312/555,965,1692,65/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$312/554,1158,1686,59/full/0/default.png",
+      "id": "cf59288d",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$312/553,1060,1693,65/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$318/509,868,1687,54/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$318/507,1053,1694,59/full/0/default.png",
+      "id": "15606eed",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$318/505,961,1693,56/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$331/277,1336,1706,63/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$331/277,1528,1703,55/full/0/default.png",
+      "id": "d69fbddc",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$331/277,1429,1706,65/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$345/259,2717,1700,58/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$345/260,2906,1699,60/full/0/default.png",
+      "id": "ac8ed69c",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ$345/259,2812,1697,57/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json"
+}

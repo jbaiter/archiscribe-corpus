@@ -1,1 +1,68 @@
-{"title": "Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker ", "mediatype": "texts", "repub_state": "4", "addeddate": "2016-07-20 20:09:43", "curation": "[curator]validator@archive.org[/curator][date]20160720201005[/date][comment]checked for malware[/comment]", "identifier-access": "http://archive.org/details/bub_gb_dccEO9Ol47cC", "contributor": "National Library of Naples", "year": "1827", "date": "1827", "language": "German", "lines": {"0a2b6e54": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$27/260,1489,1076,57/full/0/default.png", "b5160041": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/199,413,1062,44/full/0/default.png", "e2fd4f6b": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$100/322,940,1253,53/full/0/default.png", "3dbeba05": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$82/267,770,978,42/full/0/default.png", "03c42bf3": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$80/185,1141,1046,51/full/0/default.png", "4b437bed": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$95/236,760,1066,45/full/0/default.png", "c9b33415": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$35/352,1993,931,40/full/0/default.png", "a740a94e": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/196,828,1066,48/full/0/default.png", "793287dd": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$12/197,974,1050,61/full/0/default.png", "52ac373f": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$79/258,1315,1059,49/full/0/default.png"}, "scanner": "google", "subject": "bub_upload", "identifier": "bub_gb_dccEO9Ol47cC", "publicdate": "2016-07-20 20:09:43", "creator": "Friedrich Gottlieb Welcker", "uploader": "tools.bub@tools.wmflabs.org", "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/", "sponsor": "Google", "collection": "europeanlibraries", "source": "http://books.google.com/books?id=dccEO9Ol47cC&hl=&source=gbs_api", "publisher": "in commission bey E. Weber", "imagecount": "107", "google-id": "dccEO9Ol47cC", "identifier-ark": "ark:/13960/t9g49gp1n", "backup_location": "ia906202_25", "ocr": "ABBYY FineReader 11.0"}
+{
+  "title": "Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker ",
+  "year": 1827,
+  "id": "bub_gb_dccEO9Ol47cC",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$12/199,913,1048,61/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$12/196,1032,1052,56/full/0/default.png",
+      "id": "793287dd",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$12/197,974,1050,61/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$27/259,1432,1074,52/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$27/260,1552,1110,54/full/0/default.png",
+      "id": "0a2b6e54",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$27/260,1489,1076,57/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$35/349,1942,935,37/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$35/349,2046,932,37/full/0/default.png",
+      "id": "c9b33415",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$35/352,1993,931,40/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/202,352,1061,45/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/200,473,1061,42/full/0/default.png",
+      "id": "b5160041",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/199,413,1062,44/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/197,771,1065,44/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/194,888,1071,45/full/0/default.png",
+      "id": "a740a94e",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$76/196,828,1066,48/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$79/256,1255,1060,47/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$79/258,1375,1058,46/full/0/default.png",
+      "id": "52ac373f",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$79/258,1315,1059,49/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$80/266,1084,966,49/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$80/184,1199,934,47/full/0/default.png",
+      "id": "03c42bf3",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$80/185,1141,1046,51/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$82/181,708,1063,46/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$82/182,826,1061,45/full/0/default.png",
+      "id": "3dbeba05",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$82/267,770,978,42/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$95/237,699,1064,47/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$95/233,819,1070,47/full/0/default.png",
+      "id": "4b437bed",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$95/236,760,1066,45/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$100/217,865,217,56/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$100/219,1012,1284,54/full/0/default.png",
+      "id": "e2fd4f6b",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC$100/322,940,1253,53/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json"
+}

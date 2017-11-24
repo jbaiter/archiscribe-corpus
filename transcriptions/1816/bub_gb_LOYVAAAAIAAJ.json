@@ -1,1 +1,50 @@
-{"title": "Sappho von einem herrschenden Vorurtheil befreyt", "mediatype": "texts", "repub_state": "4", "addeddate": "2014-11-02 06:01:27", "curation": "[curator]validator@archive.org[/curator][date]20141102060151[/date][comment]checked for malware[/comment]", "identifier-access": "http://archive.org/details/bub_gb_LOYVAAAAIAAJ", "contributor": "unknown library", "year": "1816", "date": "1816", "language": "German", "lines": {"0529dae2": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$24/126,1244,1786,108/full/0/default.png", "297d5766": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$61/518,1126,1836,116/full/0/default.png", "05f99e69": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$135/590,2294,1808,108/full/0/default.png", "41914e89": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$50/232,2486,1597,103/full/0/default.png", "bc9eda6b": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$11/528,1372,1832,114/full/0/default.png", "929a27c5": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$17/636,1234,1550,120/full/0/default.png", "ccda2a59": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$123/594,1630,1788,110/full/0/default.png"}, "scanner": "google", "subject": "bub_upload", "identifier": "bub_gb_LOYVAAAAIAAJ", "publicdate": "2014-11-02 06:01:27", "creator": "Friedrich Gottlieb Welcker", "uploader": "tools.bub@tools.wmflabs.org", "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/", "sponsor": "Google", "collection": "europeanlibraries", "source": "http://books.google.com/books?id=LOYVAAAAIAAJ&hl=&source=gbs_api", "imagecount": "153", "google-id": "LOYVAAAAIAAJ", "identifier-ark": "ark:/13960/t3dz35w0v", "backup_location": "ia905906_8", "ocr": "ABBYY FineReader 9.0"}
+{
+  "title": "Sappho von einem herrschenden Vorurtheil befreyt",
+  "year": 1816,
+  "id": "bub_gb_LOYVAAAAIAAJ",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$11/646,1216,1724,120/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$11/526,1526,1834,120/full/0/default.png",
+      "id": "bc9eda6b",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$11/528,1372,1832,114/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$17/638,1074,1824,120/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$17/636,1384,1824,120/full/0/default.png",
+      "id": "929a27c5",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$17/636,1234,1550,120/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$24/130,1088,1784,106/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$24/337,1362,808,30/full/0/default.png",
+      "id": "0529dae2",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$24/126,1244,1786,108/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$50/198,2395,1636,103/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$50/237,2573,1624,111/full/0/default.png",
+      "id": "41914e89",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$50/232,2486,1597,103/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$61/512,970,1848,118/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$61/506,1278,1838,108/full/0/default.png",
+      "id": "297d5766",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$61/518,1126,1836,116/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$123/794,1478,1584,108/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$123/592,1784,1786,112/full/0/default.png",
+      "id": "ccda2a59",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$123/594,1630,1788,110/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$135/592,2132,1808,114/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$135/580,2448,1816,108/full/0/default.png",
+      "id": "05f99e69",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ$135/590,2294,1808,108/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ/manifest.json"
+}

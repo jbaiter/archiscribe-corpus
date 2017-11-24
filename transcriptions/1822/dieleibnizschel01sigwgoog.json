@@ -1,1 +1,26 @@
-{"title": "Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...", "mediatype": "texts", "repub_state": "4", "uploader": "tpb", "identifier-access": "http://www.archive.org/details/dieleibnizschel01sigwgoog", "contributor": "University of Michigan", "year": "1822", "date": "1822", "lines": {"4e6b557a": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$39/453,3180,1635,95/full/0/default.png", "8264a99f": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$11/457,2477,1551,99/full/0/default.png", "4aa7ebdf": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$121/427,3053,1645,88/full/0/default.png"}, "language": "German", "copyright-region": "US", "openlibrary_edition": "OL23434172M", "scanner": "google", "scandate": "20070622", "identifier": "dieleibnizschel01sigwgoog", "publicdate": "2008-02-11 23:01:57", "creator": "Heinrich Christoph Wilhelm Sigwart", "openlibrary_work": "OL5069883W", "collection": "americana", "source": "http://books.google.com/books?id=AUA4AAAAMAAJ&oe=UTF-8", "publisher": "C.F. Osiander", "imagecount": "172", "possible-copyright-status": "NOT_IN_COPYRIGHT", "identifier-ark": "ark:/13960/t5k935n5p", "oclc-id": "9752718", "backup_location": "ia903601_23", "sponsor": "Google", "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb."}
+{
+  "title": "Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...",
+  "year": 1822,
+  "id": "dieleibnizschel01sigwgoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$11/453,2355,1553,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$11/451,2611,1560,87/full/0/default.png",
+      "id": "8264a99f",
+      "line": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$11/457,2477,1551,99/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$39/446,3057,1680,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$39/455,3307,1637,95/full/0/default.png",
+      "id": "4e6b557a",
+      "line": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$39/453,3180,1635,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$121/419,2933,1651,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$121/429,3175,1643,93/full/0/default.png",
+      "id": "4aa7ebdf",
+      "line": "https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog$121/427,3053,1645,88/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog/manifest.json"
+}

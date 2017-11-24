@@ -1,1 +1,122 @@
-{"title": "Els\u00e4ssisches Sagenbuch", "mediatype": "texts", "repub_state": "4", "notes": "Ballads from German poets, with notes on Alsatian folk-lore.\n\n", "identifier-access": "http://www.archive.org/details/elsssischessage00stgoog", "contributor": "New York Public Library", "year": "1842", "date": "1842", "lines": {"6f655099": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$607/265,2705,2237,89/full/0/default.png", "9e9a35b2": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$99/504,1075,1566,95/full/0/default.png", "0f0fea2a": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$169/1128,467,1308,69/full/0/default.png", "5320c780": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$397/563,2571,1293,101/full/0/default.png", "fcd2240c": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$112/908,2306,946,110/full/0/default.png", "d5796662": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$490/393,457,1321,71/full/0/default.png", "87693379": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$291/147,1761,2225,105/full/0/default.png", "76083089": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$464/751,2062,1289,101/full/0/default.png", "1c7db138": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$193/528,1935,872,100/full/0/default.png", "0610d2ee": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$312/746,2474,1406,112/full/0/default.png", "56706c5a": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$14/384,1405,2244,102/full/0/default.png", "7ac6f3fb": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$558/815,2215,1474,103/full/0/default.png", "c4abe2bb": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$508/593,2498,1643,98/full/0/default.png", "420a647f": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$608/385,3765,2223,93/full/0/default.png", "81fff3e9": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$153/732,1568,986,132/full/0/default.png", "3bf94e90": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$373/525,2309,1079,95/full/0/default.png", "39db8ed0": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$271/431,639,1313,101/full/0/default.png", "d73518da": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$519/624,2610,1526,106/full/0/default.png", "345aa873": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$107/638,875,1602,99/full/0/default.png"}, "language": "German", "copyright-region": "US", "scanner": "google", "scandate": "20070122", "identifier": "elsssischessage00stgoog", "publicdate": "2008-02-11 14:53:03", "creator": "Auguste Stoeber ,  Daniel August Ehrenfried St\u00f6ber", "uploader": "tpb", "sponsor": "Google", "collection": "americana", "source": "http://books.google.com/books?id=BDknAAAAMAAJ&oe=UTF-8", "publisher": "G. L. Schuler", "imagecount": "638", "possible-copyright-status": "NOT_IN_COPYRIGHT", "identifier-ark": "ark:/13960/t1sf2rh7n", "oclc-id": "6875234", "backup_location": "ia903601_23", "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.", "ocr": "ABBYY FineReader 8.0"}
+{
+  "title": "Els\u00e4ssisches Sagenbuch",
+  "year": 1842,
+  "id": "elsssischessage00stgoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$14/389,1257,2239,101/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$14/385,1552,2241,101/full/0/default.png",
+      "id": "56706c5a",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$14/384,1405,2244,102/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$99/1147,452,1261,62/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$99/557,1518,1223,100/full/0/default.png",
+      "id": "9e9a35b2",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$99/504,1075,1566,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$107/637,752,1033,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$107/635,999,1135,96/full/0/default.png",
+      "id": "345aa873",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$107/638,875,1602,99/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$112/908,2182,922,110/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$112/908,2428,1008,108/full/0/default.png",
+      "id": "fcd2240c",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$112/908,2306,946,110/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$153/638,1474,1122,108/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$153/636,1718,1264,108/full/0/default.png",
+      "id": "81fff3e9",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$153/732,1568,986,132/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$168/1751,3571,657,96/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$169/895,1017,851,95/full/0/default.png",
+      "id": "0f0fea2a",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$169/1128,467,1308,69/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$193/526,1811,950,103/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$193/527,2055,926,107/full/0/default.png",
+      "id": "1c7db138",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$193/528,1935,872,100/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$271/1105,485,1261,75/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$271/529,761,1321,101/full/0/default.png",
+      "id": "39db8ed0",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$271/431,639,1313,101/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$291/145,1639,2133,107/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$291/147,1886,2055,102/full/0/default.png",
+      "id": "87693379",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$291/147,1761,2225,105/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$312/750,2356,1094,112/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$312/756,2724,1398,110/full/0/default.png",
+      "id": "0610d2ee",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$312/746,2474,1406,112/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$373/528,2185,1207,99/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$373/533,2431,1397,102/full/0/default.png",
+      "id": "3bf94e90",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$373/525,2309,1079,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$397/568,2358,1138,101/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$397/563,2696,1002,105/full/0/default.png",
+      "id": "5320c780",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$397/563,2571,1293,101/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$464/763,1937,1491,99/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$464/753,2185,1467,97/full/0/default.png",
+      "id": "76083089",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$464/751,2062,1289,101/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$489/1285,2583,929,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$490/400,1475,2196,103/full/0/default.png",
+      "id": "d5796662",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$490/393,457,1321,71/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$508/587,2377,1607,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$508/594,2626,1714,101/full/0/default.png",
+      "id": "c4abe2bb",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$508/593,2498,1643,98/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$519/620,2490,1518,108/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$519/624,2736,1338,100/full/0/default.png",
+      "id": "d73518da",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$519/624,2610,1526,106/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$558/811,2091,1512,105/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$558/813,2340,1546,98/full/0/default.png",
+      "id": "7ac6f3fb",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$558/815,2215,1474,103/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$607/261,2599,2241,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$607/267,2811,2243,87/full/0/default.png",
+      "id": "6f655099",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$607/265,2705,2237,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$608/134,3648,2474,101/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$608/389,3869,2217,97/full/0/default.png",
+      "id": "420a647f",
+      "line": "https://iiif.archivelab.org/iiif/elsssischessage00stgoog$608/385,3765,2223,93/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json"
+}

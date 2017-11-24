@@ -1,1 +1,308 @@
-{"copyright-region": "US", "title": "Erkenntnisse des K.k. Verwaltungsgerichtshofes", "mediatype": "texts", "repub_state": "4", "uploader": "tpb", "identifier-access": "http://www.archive.org/details/erkenntnissedes00unkngoog", "contributor": "Harvard University", "year": "1892", "date": "1892", "language": "German", "lines": {"5478589d": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$356/203,547,2577,85/full/0/default.png", "83ecb1b4": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$598/321,3942,2581,78/full/0/default.png", "94a1d4ee": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$560/284,1101,2570,104/full/0/default.png", "60346c88": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$528/189,4103,2584,83/full/0/default.png", "2fb1b97c": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$205/111,812,645,19/full/0/default.png", "ebded4b5": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$258/99,1583,2574,84/full/0/default.png", "c3421cb0": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$384/200,4143,2580,105/full/0/default.png", "b7459ad8": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$386/458,228,233,19/full/0/default.png", "5da9f8ac": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$273/455,4391,2552,83/full/0/default.png", "b0b966d7": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$587/387,2880,2579,82/full/0/default.png", "eca1a399": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$368/253,631,2589,85/full/0/default.png", "abbe6344": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$29/442,3369,2573,82/full/0/default.png", "3ff7ce2e": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$375/509,2664,2536,82/full/0/default.png", "39ba8a88": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$102/210,1711,2538,83/full/0/default.png", "4a74e4db": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/197,602,2562,82/full/0/default.png", "d30cbfab": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$447/528,3895,2538,75/full/0/default.png", "8f7ffa64": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$145/527,4567,2547,81/full/0/default.png", "c36bff31": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$554/298,2394,2583,83/full/0/default.png", "9e9ebfe5": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$130/157,1307,2557,105/full/0/default.png", "0a53ac46": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/60,713,650,21/full/0/default.png", "e6ca129a": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$80/217,3895,255,75/full/0/default.png", "d66fae29": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$154/200,2490,2539,81/full/0/default.png", "aeeb39f8": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$245/464,1611,2540,104/full/0/default.png", "ad2760fc": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$374/267,4732,2614,82/full/0/default.png", "65951fdb": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$31/159,945,590,21/full/0/default.png", "dab8fdfa": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$124/211,3244,2556,81/full/0/default.png", "ca8a63d2": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$549/496,2615,2576,87/full/0/default.png", "2329ec0a": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$447/519,275,2003,73/full/0/default.png", "44e908b9": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$509/519,1407,2554,81/full/0/default.png", "e5dd8961": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$513/523,1405,2573,81/full/0/default.png", "ebfc1b60": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/467,2904,2588,82/full/0/default.png", "749f73fe": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$257/520,3149,2538,83/full/0/default.png", "5e7e7d2c": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$432/189,2995,2561,83/full/0/default.png", "9176e986": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$446/185,2271,2554,83/full/0/default.png", "3b53adbb": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$70/193,2848,2571,81/full/0/default.png", "1f412a41": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$63/400,920,2572,86/full/0/default.png", "52f287cb": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$327/528,1615,2527,81/full/0/default.png", "3eac405d": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$243/481,1393,643,71/full/0/default.png", "a748cbe7": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$42/289,1783,2577,81/full/0/default.png", "d02b1686": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$286/468,566,2356,82/full/0/default.png", "ab7943b2": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/472,1214,2587,82/full/0/default.png", "ecacdee1": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$593/495,2117,2552,81/full/0/default.png", "c5510f69": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/60,780,650,20/full/0/default.png", "07e5b5d3": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$310/145,4050,2542,84/full/0/default.png", "29c1bfba": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/393,2385,2359,91/full/0/default.png", "33f368c7": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$405/467,1692,2559,83/full/0/default.png", "d3c7fe6a": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$116/279,660,2589,105/full/0/default.png", "f6282d52": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$572/323,905,2569,81/full/0/default.png", "fe46ef8c": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$106/251,4223,2587,84/full/0/default.png", "686e0096": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$579/534,2924,2570,82/full/0/default.png"}, "scanner": "google", "scandate": "20070821", "identifier": "erkenntnissedes00unkngoog", "publicdate": "2008-09-01 17:18:33", "creator": "Austria. Verwaltungsgerichtshof,  Adam Julius Joseph Budwi\u0144ski", "sponsor": "Google", "collection": "americana", "source": "http://books.google.com/books?id=x9ILAAAAYAAJ&oe=UTF-8", "publisher": "", "imagecount": "611", "possible-copyright-status": "NOT_IN_COPYRIGHT", "identifier-ark": "ark:/13960/t3nv9nn5b", "backup_location": "ia903602_11", "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.", "ocr": "ABBYY FineReader 8.0"}
+{
+  "title": "Erkenntnisse des K.k. Verwaltungsgerichtshofes",
+  "year": 1892,
+  "id": "erkenntnissedes00unkngoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$29/442,3305,2572,76/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$29/442,3438,2572,83/full/0/default.png",
+      "id": "abbe6344",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$29/442,3369,2573,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$31/105,896,645,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$31/105,968,644,21/full/0/default.png",
+      "id": "65951fdb",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$31/159,945,590,21/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$42/292,1694,2573,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$42/295,1870,1822,82/full/0/default.png",
+      "id": "a748cbe7",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$42/289,1783,2577,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$63/399,832,2569,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$63/403,1009,2567,87/full/0/default.png",
+      "id": "1f412a41",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$63/400,920,2572,86/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$70/193,2758,2568,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$70/193,2937,2567,84/full/0/default.png",
+      "id": "3b53adbb",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$70/193,2848,2571,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$80/215,3805,2547,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$80/403,3991,2359,83/full/0/default.png",
+      "id": "e6ca129a",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$80/217,3895,255,75/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$102/210,1623,2540,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$102/213,1778,2533,104/full/0/default.png",
+      "id": "39ba8a88",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$102/210,1711,2538,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$106/479,4133,2360,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$106/246,4315,2593,83/full/0/default.png",
+      "id": "fe46ef8c",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$106/251,4223,2587,84/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/721,419,2032,79/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/195,689,2563,84/full/0/default.png",
+      "id": "4a74e4db",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/197,602,2562,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/397,2281,2257,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/202,2454,2550,105/full/0/default.png",
+      "id": "29c1bfba",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$114/393,2385,2359,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$116/281,590,2587,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$116/286,769,2580,86/full/0/default.png",
+      "id": "d3c7fe6a",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$116/279,660,2589,105/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$124/213,3153,2553,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$124/213,3329,2556,85/full/0/default.png",
+      "id": "dab8fdfa",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$124/211,3244,2556,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$130/159,1241,2555,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$130/159,1419,2571,81/full/0/default.png",
+      "id": "9e9ebfe5",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$130/157,1307,2557,105/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$145/525,4478,2553,80/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$145/527,4656,2547,80/full/0/default.png",
+      "id": "8f7ffa64",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$145/527,4567,2547,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$154/199,2401,2540,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$154/201,2580,2539,82/full/0/default.png",
+      "id": "d66fae29",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$154/200,2490,2539,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/472,1125,2586,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/468,1303,2585,81/full/0/default.png",
+      "id": "ab7943b2",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/472,1214,2587,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/465,2792,2589,105/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/470,2991,2584,84/full/0/default.png",
+      "id": "ebfc1b60",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$169/467,2904,2588,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$205/111,789,646,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$205/111,834,645,20/full/0/default.png",
+      "id": "2fb1b97c",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$205/111,812,645,19/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$243/475,1315,2545,77/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$243/697,1463,2323,85/full/0/default.png",
+      "id": "3eac405d",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$243/481,1393,643,71/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$245/463,1541,2543,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$245/464,1701,2542,103/full/0/default.png",
+      "id": "aeeb39f8",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$245/464,1611,2540,104/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$257/521,3059,2536,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$257/525,3215,2529,103/full/0/default.png",
+      "id": "749f73fe",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$257/520,3149,2538,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$258/309,1496,2363,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$258/97,1675,2573,81/full/0/default.png",
+      "id": "ebded4b5",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$258/99,1583,2574,84/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$273/458,4279,2548,106/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$273/457,4458,2550,105/full/0/default.png",
+      "id": "5da9f8ac",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$273/455,4391,2552,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/60,691,650,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/60,735,649,20/full/0/default.png",
+      "id": "0a53ac46",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/60,713,650,21/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/60,757,649,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/61,801,648,22/full/0/default.png",
+      "id": "c5510f69",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$274/60,780,650,20/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$286/813,387,2005,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$286/235,658,2589,81/full/0/default.png",
+      "id": "d02b1686",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$286/468,566,2356,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$310/144,3959,2540,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$310/143,4137,2544,86/full/0/default.png",
+      "id": "07e5b5d3",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$310/145,4050,2542,84/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$327/529,1527,2525,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$327/533,1705,2523,81/full/0/default.png",
+      "id": "52f287cb",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$327/528,1615,2527,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$356/771,365,2009,77/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$356/201,637,2585,84/full/0/default.png",
+      "id": "5478589d",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$356/203,547,2577,85/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$368/484,543,2358,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$368/253,722,2588,82/full/0/default.png",
+      "id": "eca1a399",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$368/253,631,2589,85/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$374/267,4643,2614,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$374/271,4821,2609,88/full/0/default.png",
+      "id": "ad2760fc",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$374/267,4732,2614,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$375/513,2576,2533,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$375/511,2753,2534,81/full/0/default.png",
+      "id": "3ff7ce2e",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$375/509,2664,2536,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$384/196,4076,2575,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$384/203,4256,2011,81/full/0/default.png",
+      "id": "c3421cb0",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$384/200,4143,2580,105/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$386/458,205,234,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$386/458,250,233,20/full/0/default.png",
+      "id": "b7459ad8",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$386/458,228,233,19/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$405/467,1603,2561,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$405/465,1781,2560,83/full/0/default.png",
+      "id": "33f368c7",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$405/467,1692,2559,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$432/400,2904,2359,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$432/393,3101,2369,91/full/0/default.png",
+      "id": "5e7e7d2c",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$432/189,2995,2561,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$446/184,2181,2556,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$446/181,2359,2560,84/full/0/default.png",
+      "id": "9176e986",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$446/185,2271,2554,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$446/193,4679,2551,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$447/526,457,2533,83/full/0/default.png",
+      "id": "2329ec0a",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$447/519,275,2003,73/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$447/1552,3763,504,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$447/532,3965,2534,75/full/0/default.png",
+      "id": "d30cbfab",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$447/528,3895,2538,75/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$509/521,1295,2551,103/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$509/519,1473,2553,103/full/0/default.png",
+      "id": "44e908b9",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$509/519,1407,2554,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$513/521,1316,2576,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$513/525,1493,2571,86/full/0/default.png",
+      "id": "e5dd8961",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$513/523,1405,2573,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$528/189,4011,2583,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$528/188,4170,2585,104/full/0/default.png",
+      "id": "60346c88",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$528/189,4103,2584,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$549/496,2527,2578,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$549/496,2704,2580,87/full/0/default.png",
+      "id": "ca8a63d2",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$549/496,2615,2576,87/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$554/301,2307,2580,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$554/301,2485,839,81/full/0/default.png",
+      "id": "c36bff31",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$554/298,2394,2583,83/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$560/290,1032,2570,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$560/287,1209,2569,87/full/0/default.png",
+      "id": "94a1d4ee",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$560/284,1101,2570,104/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$572/539,817,2353,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$572/321,993,2569,83/full/0/default.png",
+      "id": "f6282d52",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$572/323,905,2569,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$579/533,2813,2571,102/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$579/535,2992,2567,102/full/0/default.png",
+      "id": "686e0096",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$579/534,2924,2570,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$587/386,2791,2583,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$587/383,2969,2583,85/full/0/default.png",
+      "id": "b0b966d7",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$587/387,2880,2579,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$593/494,2027,2554,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$593/492,2206,2558,80/full/0/default.png",
+      "id": "ecacdee1",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$593/495,2117,2552,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$598/319,3872,2578,77/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$598/813,4013,1602,71/full/0/default.png",
+      "id": "83ecb1b4",
+      "line": "https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog$598/321,3942,2581,78/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json"
+}

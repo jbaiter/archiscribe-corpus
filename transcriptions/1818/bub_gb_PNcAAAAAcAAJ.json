@@ -1,1 +1,56 @@
-{"title": "Geographischstatistisches Handbuch \u00fcber Schlesien und die Grafschaft Glatz", "mediatype": "texts", "repub_state": "4", "addeddate": "2014-11-25 07:03:32", "curation": "[curator]validator@archive.org[/curator][date]20141125070418[/date][comment]checked for malware[/comment]", "identifier-access": "http://archive.org/details/bub_gb_PNcAAAAAcAAJ", "contributor": "unknown library", "year": "1818", "date": "1818", "language": "German", "lines": {"77df59ae": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$290/324,3663,1754,88/full/0/default.png", "3ac0555f": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$36/391,2101,1686,82/full/0/default.png", "f65c5340": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$369/464,2342,1112,73/full/0/default.png", "5b2995bf": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$358/241,3009,1795,101/full/0/default.png", "39676089": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$438/234,2414,1812,93/full/0/default.png", "b0bbde16": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$144/367,2139,1067,76/full/0/default.png", "2f993d71": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$241/583,858,1394,88/full/0/default.png", "9848ddf0": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$118/207,2780,1757,90/full/0/default.png"}, "scanner": "google", "subject": "bub_upload", "identifier": "bub_gb_PNcAAAAAcAAJ", "publicdate": "2014-11-25 07:03:32", "creator": "Christian Friedrich Emanuel Fischer", "uploader": "tools.bub@tools.wmflabs.org", "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/", "sponsor": "Google", "collection": "europeanlibraries", "source": "http://books.google.com/books?id=PNcAAAAAcAAJ&hl=&source=gbs_api", "publisher": "Gra\u00df, Barth", "imagecount": "513", "google-id": "PNcAAAAAcAAJ", "identifier-ark": "ark:/13960/t5s78cm3t", "oclc-id": "163192280", "backup_location": "ia905907_9", "ocr": "ABBYY FineReader 9.0"}
+{
+  "title": "Geographischstatistisches Handbuch \u00fcber Schlesien und die Grafschaft Glatz",
+  "year": 1818,
+  "id": "bub_gb_PNcAAAAAcAAJ",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$36/395,2019,1681,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$36/395,2185,1678,93/full/0/default.png",
+      "id": "3ac0555f",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$36/391,2101,1686,82/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$118/213,2682,1754,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$118/120,2855,1845,113/full/0/default.png",
+      "id": "9848ddf0",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$118/207,2780,1757,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$144/276,2056,1759,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$144/275,2220,1757,94/full/0/default.png",
+      "id": "b0bbde16",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$144/367,2139,1067,76/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$241/497,771,1774,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$241/494,938,1781,93/full/0/default.png",
+      "id": "2f993d71",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$241/583,858,1394,88/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$290/326,3565,1747,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$290/327,3762,1751,96/full/0/default.png",
+      "id": "77df59ae",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$290/324,3663,1754,88/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$358/244,2910,1796,100/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$358/243,3089,1484,143/full/0/default.png",
+      "id": "5b2995bf",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$358/241,3009,1795,101/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$369/501,2258,1771,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$369/501,2425,1774,85/full/0/default.png",
+      "id": "f65c5340",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$369/464,2342,1112,73/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$438/233,2315,1808,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$438/234,2490,1812,120/full/0/default.png",
+      "id": "39676089",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ$438/234,2414,1812,93/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json"
+}

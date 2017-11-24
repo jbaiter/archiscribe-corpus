@@ -1,1 +1,128 @@
-{"title": "Deutsche Kolonialzeitung", "year": "1893", "repub_state": "4", "identifier-access": "http://www.archive.org/details/deutschekolonia00unkngoog", "contributor": "Harvard University", "mediatype": "texts", "lines": {"61ee1ab2": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$678/75,569,386,19/full/0/default.png", "af844223": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$399/110,416,383,22/full/0/default.png", "e5774569": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$700/56,263,381,20/full/0/default.png", "4b329a90": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$252/482,745,346,18/full/0/default.png", "f72e1be0": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$156/445,765,373,21/full/0/default.png", "9534a65f": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$753/141,587,355,20/full/0/default.png", "9d111813": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$730/448,1289,382,19/full/0/default.png", "b2335cc4": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$335/95,340,384,21/full/0/default.png", "7defc7e2": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$487/486,1194,383,28/full/0/default.png", "c14f406e": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$268/47,318,368,21/full/0/default.png", "e011fbfa": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$773/498,1099,386,23/full/0/default.png", "936c7193": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$331/114,700,385,26/full/0/default.png", "f372183f": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$284/49,1122,373,18/full/0/default.png", "9f38e8b7": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$505/105,1032,380,24/full/0/default.png", "f2bd45d2": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$34/42,1071,373,17/full/0/default.png", "bce64251": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$411/91,258,384,20/full/0/default.png", "9d770c34": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$590/47,1051,389,20/full/0/default.png", "baf7be4e": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$323/499,679,389,24/full/0/default.png", "a025d1f8": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$55/123,401,371,21/full/0/default.png", "a03143b4": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$655/107,1004,382,22/full/0/default.png"}, "language": "English", "copyright-region": "US", "scanner": "google", "identifier": "deutschekolonia00unkngoog", "uploader": "tpb", "creator": "Deutscher Kolonialverein,  Deutsche Kolonialgesellschaft,  Deutscher Kolonialverein,  Deutsche Kolonialgesellschaft", "sponsor": "Google", "collection": "americana", "source": "http://books.google.com/books?id=z_EXAAAAYAAJ&oe=UTF-8", "imagecount": "895", "possible-copyright-status": "NOT_IN_COPYRIGHT", "publicdate": "2009-02-28 05:42:15", "identifier-ark": "ark:/13960/t3st7xg23", "oclc-id": "4894764", "backup_location": "ia903602_30", "ocr": "ABBYY FineReader 8.0", "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.", "google-id": "z_EXAAAAYAAJ"}
+{
+  "title": "Deutsche Kolonialzeitung",
+  "year": 1893,
+  "id": "deutschekolonia00unkngoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$34/42,1052,373,18/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$34/42,1085,373,21/full/0/default.png",
+      "id": "f2bd45d2",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$34/42,1071,373,17/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$55/123,379,372,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$55/123,424,371,20/full/0/default.png",
+      "id": "a025d1f8",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$55/123,401,371,21/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$156/445,743,373,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$156/446,788,372,20/full/0/default.png",
+      "id": "f72e1be0",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$156/445,765,373,21/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$252/455,727,248,18/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$252/456,763,372,14/full/0/default.png",
+      "id": "4b329a90",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$252/482,745,346,18/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$268/46,296,369,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$268/47,340,367,21/full/0/default.png",
+      "id": "c14f406e",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$268/47,318,368,21/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$284/49,1104,372,18/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$284/49,1140,372,18/full/0/default.png",
+      "id": "f372183f",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$284/49,1122,373,18/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$323/500,663,388,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$323/499,703,389,21/full/0/default.png",
+      "id": "baf7be4e",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$323/499,679,389,24/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$331/113,683,387,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$331/114,725,386,24/full/0/default.png",
+      "id": "936c7193",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$331/114,700,385,26/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$335/95,320,384,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$335/95,360,384,21/full/0/default.png",
+      "id": "b2335cc4",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$335/95,340,384,21/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$399/110,402,383,18/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$399/109,434,384,22/full/0/default.png",
+      "id": "af844223",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$399/110,416,383,22/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$411/91,238,384,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$411/92,278,384,21/full/0/default.png",
+      "id": "bce64251",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$411/91,258,384,20/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$487/486,1174,383,29/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$487/487,1214,381,25/full/0/default.png",
+      "id": "7defc7e2",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$487/486,1194,383,28/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$505/104,1012,380,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$505/104,1052,381,21/full/0/default.png",
+      "id": "9f38e8b7",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$505/105,1032,380,24/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$590/47,1030,388,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$590/34,1071,401,25/full/0/default.png",
+      "id": "9d770c34",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$590/47,1051,389,20/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$655/107,984,382,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$655/108,1025,382,21/full/0/default.png",
+      "id": "a03143b4",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$655/107,1004,382,22/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$678/75,551,386,19/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$678/75,587,387,22/full/0/default.png",
+      "id": "61ee1ab2",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$678/75,569,386,19/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$700/56,243,382,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$700/55,284,382,20/full/0/default.png",
+      "id": "e5774569",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$700/56,263,381,20/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$730/447,1271,383,19/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$730/448,1307,382,19/full/0/default.png",
+      "id": "9d111813",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$730/448,1289,382,19/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$753/113,551,382,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$753/113,605,383,19/full/0/default.png",
+      "id": "9534a65f",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$753/141,587,355,20/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$773/498,1078,385,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$773/498,1117,385,22/full/0/default.png",
+      "id": "e011fbfa",
+      "line": "https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog$773/498,1099,386,23/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/deutschekolonia00unkngoog/manifest.json"
+}

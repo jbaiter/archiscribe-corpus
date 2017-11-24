@@ -1,1 +1,38 @@
-{"title": "Die Religion der R\u00f6mer: Nach den Quellen", "mediatype": "texts", "repub_state": "4", "uploader": "tpb", "identifier-access": "http://www.archive.org/details/diereligionderr09hartgoog", "contributor": "Harvard University", "ppi": "600", "date": "1836", "lines": {"3afcecd0": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$46/279,3032,2144,89/full/0/default.png", "46eb5bd0": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$198/260,918,2124,90/full/0/default.png", "d99001e5": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$56/299,1764,2132,97/full/0/default.png", "23973075": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$52/427,1664,2004,92/full/0/default.png", "544480f4": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$301/594,3679,789,97/full/0/default.png"}, "language": "German", "copyright-region": "US", "scanner": "google", "scandate": "20070807", "identifier": "diereligionderr09hartgoog", "publicdate": "2009-06-27 11:01:47", "creator": "Johann Adam Hartung", "sponsor": "Google", "year": "1836", "collection": "americana", "source": "http://books.google.com/books?id=ogwLAAAAYAAJ&oe=UTF-8", "publisher": "J.J. Palm und E. Enke", "imagecount": "306", "possible-copyright-status": "NOT_IN_COPYRIGHT", "identifier-ark": "ark:/13960/t1kh11p1r", "oclc-id": "08970943", "backup_location": "ia903603_11", "ocr": "ABBYY FineReader 8.0", "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.", "google-id": "ogwLAAAAYAAJ"}
+{
+  "title": "Die Religion der R\u00f6mer: Nach den Quellen",
+  "year": 1836,
+  "id": "diereligionderr09hartgoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$46/279,2930,2144,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$46/279,3134,2145,93/full/0/default.png",
+      "id": "3afcecd0",
+      "line": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$46/279,3032,2144,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$52/263,1564,1582,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$52/261,1777,2132,82/full/0/default.png",
+      "id": "23973075",
+      "line": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$52/427,1664,2004,92/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$56/297,1654,2135,114/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$56/298,1864,2132,101/full/0/default.png",
+      "id": "d99001e5",
+      "line": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$56/299,1764,2132,97/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$198/254,819,2128,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$198/258,1029,2132,82/full/0/default.png",
+      "id": "46eb5bd0",
+      "line": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$198/260,918,2124,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$301/528,3620,995,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$301/527,3796,516,71/full/0/default.png",
+      "id": "544480f4",
+      "line": "https://iiif.archivelab.org/iiif/diereligionderr09hartgoog$301/594,3679,789,97/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/diereligionderr09hartgoog/manifest.json"
+}

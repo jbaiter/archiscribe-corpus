@@ -1,1 +1,158 @@
-{"title": "Die forstlichen Verhaltnisse Preussens", "mediatype": "texts", "repub_state": "4", "uploader": "tpb", "identifier-access": "http://www.archive.org/details/dieforstlichenv02hagegoog", "contributor": "Harvard University", "ppi": "600", "date": "1894", "lines": {"3fd8c885": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$318/3083,3199,281,55/full/0/default.png", "b9bf63b7": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$199/3757,1013,655,70/full/0/default.png", "485e0676": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$313/351,3809,585,70/full/0/default.png", "c8bdec4a": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$54/117,2440,1437,68/full/0/default.png", "f3ddaadd": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$247/1188,3383,1708,75/full/0/default.png", "11efa5cd": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$399/847,928,783,89/full/0/default.png", "e8c8db4e": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$163/1033,4198,229,65/full/0/default.png", "a81a6265": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$200/3586,1232,619,54/full/0/default.png", "ef89dc23": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$270/576,2893,231,57/full/0/default.png", "33213302": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$329/414,4384,282,68/full/0/default.png", "097e0081": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$241/343,3066,372,56/full/0/default.png", "57502c12": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$151/2261,2280,229,56/full/0/default.png", "6ac0138d": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$88/2748,885,253,54/full/0/default.png", "eefb44a2": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$373/235,2688,606,57/full/0/default.png", "0ec50f99": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$319/1131,3761,232,55/full/0/default.png", "8298cac0": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$376/3195,2158,612,45/full/0/default.png", "b1ecf743": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$159/932,4768,361,65/full/0/default.png", "2498aea9": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$357/3861,1490,237,53/full/0/default.png", "a493a751": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$424/1894,5320,436,71/full/0/default.png", "85a4ff03": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$160/281,3897,250,53/full/0/default.png", "4216c261": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$308/1445,2465,282,54/full/0/default.png", "2f1b36ad": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$414/622,871,3090,75/full/0/default.png", "00d73f3c": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$62/1160,3264,230,55/full/0/default.png", "ab933a82": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$362/1883,2293,225,56/full/0/default.png", "0fdff140": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$262/3250,4588,669,67/full/0/default.png"}, "volume": "2", "language": "German", "copyright-region": "US", "scanner": "google", "scandate": "20070607", "identifier": "dieforstlichenv02hagegoog", "publicdate": "2009-07-21 07:43:39", "creator": "Otto van Hagen", "sponsor": "Google", "year": "1894", "collection": "americana", "source": "http://books.google.com/books?id=7DMDAAAAYAAJ&oe=UTF-8", "publisher": "", "imagecount": "450", "possible-copyright-status": "NOT_IN_COPYRIGHT", "identifier-ark": "ark:/13960/t2r503p9f", "backup_location": "ia903603_17", "ocr": "ABBYY FineReader 8.0", "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.", "google-id": "7DMDAAAAYAAJ"}
+{
+  "title": "Die forstlichen Verhaltnisse Preussens",
+  "year": 1894,
+  "id": "dieforstlichenv02hagegoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$54/119,2332,1437,58/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$54/117,2546,1436,69/full/0/default.png",
+      "id": "c8bdec4a",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$54/117,2440,1437,68/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$62/1161,3158,228,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$62/1159,3370,230,56/full/0/default.png",
+      "id": "00d73f3c",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$62/1160,3264,230,55/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$88/2461,769,219,58/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$88/2746,939,255,54/full/0/default.png",
+      "id": "6ac0138d",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$88/2748,885,253,54/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$151/597,2284,208,52/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$151/599,2392,210,52/full/0/default.png",
+      "id": "57502c12",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$151/2261,2280,229,56/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$159/498,4769,252,53/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$159/2215,4720,270,100/full/0/default.png",
+      "id": "b1ecf743",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$159/932,4768,361,65/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$160/2072,3789,231,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$160/849,3897,213,66/full/0/default.png",
+      "id": "85a4ff03",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$160/281,3897,250,53/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$163/467,4199,241,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$163/466,4323,245,54/full/0/default.png",
+      "id": "e8c8db4e",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$163/1033,4198,229,65/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$199/3733,920,685,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$199/428,1816,281,69/full/0/default.png",
+      "id": "b9bf63b7",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$199/3757,1013,655,70/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$200/3637,1126,507,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$200/3587,1305,620,54/full/0/default.png",
+      "id": "a81a6265",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$200/3586,1232,619,54/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$241/343,2921,358,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$241/344,3245,371,68/full/0/default.png",
+      "id": "097e0081",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$241/343,3066,372,56/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$247/700,3604,308,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$247/1260,3457,1635,71/full/0/default.png",
+      "id": "f3ddaadd",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$247/1188,3383,1708,75/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$262/3252,4479,670,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$262/3251,4693,671,70/full/0/default.png",
+      "id": "0fdff140",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$262/3250,4588,669,67/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$270/195,2905,202,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$270/1838,2887,227,55/full/0/default.png",
+      "id": "ef89dc23",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$270/576,2893,231,57/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$308/771,2462,316,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$308/2082,2463,286,56/full/0/default.png",
+      "id": "4216c261",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$308/1445,2465,282,54/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$313/351,3723,369,54/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$313/350,3952,548,67/full/0/default.png",
+      "id": "485e0676",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$313/351,3809,585,70/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$318/3135,3057,231,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$318/3083,3305,283,56/full/0/default.png",
+      "id": "3fd8c885",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$318/3083,3199,281,55/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$319/341,3761,460,56/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$319/1505,3761,231,54/full/0/default.png",
+      "id": "0ec50f99",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$319/1131,3761,232,55/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$329/414,4241,461,59/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$329/411,4474,280,67/full/0/default.png",
+      "id": "33213302",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$329/414,4384,282,68/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$357/3866,1331,214,54/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$357/3851,1650,255,45/full/0/default.png",
+      "id": "2498aea9",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$357/3861,1490,237,53/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$362/1330,2295,227,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$362/3775,2295,391,58/full/0/default.png",
+      "id": "ab933a82",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$362/1883,2293,225,56/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$373/232,2616,611,67/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$373/233,2759,607,68/full/0/default.png",
+      "id": "eefb44a2",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$373/235,2688,606,57/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$376/3197,2051,610,46/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$376/3199,2265,610,54/full/0/default.png",
+      "id": "8298cac0",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$376/3195,2158,612,45/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$399/3893,474,463,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$399/3007,709,623,70/full/0/default.png",
+      "id": "11efa5cd",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$399/847,928,783,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$414/409,804,1960,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$414/410,947,2920,70/full/0/default.png",
+      "id": "2f1b36ad",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$414/622,871,3090,75/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$424/463,5193,3053,77/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$424/670,5406,1916,77/full/0/default.png",
+      "id": "a493a751",
+      "line": "https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog$424/1894,5320,436,71/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json"
+}

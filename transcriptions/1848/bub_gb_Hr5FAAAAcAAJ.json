@@ -1,1 +1,68 @@
-{"title": "Tagebuch eines freiwilligen des v. d. Tannschen Corps", "mediatype": "texts", "repub_state": "4", "addeddate": "2014-10-17 19:25:39", "curation": "[curator]validator@archive.org[/curator][date]20141017192611[/date][comment]checked for malware[/comment]", "identifier-access": "http://archive.org/details/bub_gb_Hr5FAAAAcAAJ", "contributor": "unknown library", "year": "1848", "date": "1848", "language": "German", "lines": {"0f547761": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$61/944,1562,623,36/full/0/default.png", "3a7bea6d": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$51/663,2495,1250,46/full/0/default.png", "0941599f": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$67/324,1376,201,35/full/0/default.png", "7e9e20ea": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$20/254,2000,1904,41/full/0/default.png", "1cf5dd7a": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$29/542,1979,1683,44/full/0/default.png", "676c7266": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$28/414,391,1774,46/full/0/default.png", "9b625d0e": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/314,1492,1900,42/full/0/default.png", "ff69d504": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$57/291,1365,1916,43/full/0/default.png", "27f35ca7": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/314,1542,1899,42/full/0/default.png", "426b4c89": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$71/320,2748,1211,42/full/0/default.png"}, "scanner": "google", "subject": "bub_upload", "identifier": "bub_gb_Hr5FAAAAcAAJ", "publicdate": "2014-10-17 19:25:39", "creator": "Gustav Ludolf Martens", "uploader": "tools.bub@tools.wmflabs.org", "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/", "sponsor": "Google", "collection": "europeanlibraries", "source": "http://books.google.com/books?id=Hr5FAAAAcAAJ&hl=&source=gbs_api", "publisher": "Hoffmann und Campe", "imagecount": "94", "google-id": "Hr5FAAAAcAAJ", "identifier-ark": "ark:/13960/t25b30338", "oclc-id": "162875315", "backup_location": "ia905905_20", "ocr": "ABBYY FineReader 9.0"}
+{
+  "title": "Tagebuch eines freiwilligen des v. d. Tannschen Corps",
+  "year": 1848,
+  "id": "bub_gb_Hr5FAAAAcAAJ",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$20/254,1948,1902,39/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$20/252,2048,1907,41/full/0/default.png",
+      "id": "7e9e20ea",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$20/254,2000,1904,41/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$28/272,347,356,33/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$28/270,446,258,42/full/0/default.png",
+      "id": "676c7266",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$28/414,391,1774,46/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$29/1362,1785,846,37/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$29/315,2030,1912,43/full/0/default.png",
+      "id": "1cf5dd7a",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$29/542,1979,1683,44/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/316,1442,1899,43/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/314,1542,1899,42/full/0/default.png",
+      "id": "9b625d0e",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/314,1492,1900,42/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/314,1492,1900,42/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/313,1592,1898,42/full/0/default.png",
+      "id": "27f35ca7",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$47/314,1542,1899,42/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$51/979,2327,1258,48/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$51/477,2557,1761,40/full/0/default.png",
+      "id": "3a7bea6d",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$51/663,2495,1250,46/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$57/292,1315,1916,43/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$57/290,1415,1919,44/full/0/default.png",
+      "id": "ff69d504",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$57/291,1365,1916,43/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$61/302,1476,973,43/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$61/447,1629,856,32/full/0/default.png",
+      "id": "0f547761",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$61/944,1562,623,36/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$67/327,1320,1919,48/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$67/1127,1417,310,40/full/0/default.png",
+      "id": "0941599f",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$67/324,1376,201,35/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$71/321,2695,1913,43/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$71/461,2783,1774,58/full/0/default.png",
+      "id": "426b4c89",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ$71/320,2748,1211,42/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json"
+}

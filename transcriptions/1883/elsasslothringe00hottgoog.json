@@ -1,1 +1,68 @@
-{"backup_location":"ia903601_23","collection":"americana","contributor":"University of California","copyright-region":"US","creator":"Christlieb Gotthold Hottinger","date":"1883","description":"Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.","identifier":"elsasslothringe00hottgoog","identifier-access":"http://www.archive.org/details/elsasslothringe00hottgoog","identifier-ark":"ark:/13960/t9h41qb6r","imagecount":"348","language":"German","lines":{"0997d85f":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$319/470,443,214,18/full/0/default.png","3a2a8cef":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$121/155,664,320,23/full/0/default.png","3fdfdba7":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$343/910,2453,372,55/full/0/default.png","5c28a463":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$203/281,1311,2136,108/full/0/default.png","92ee73cb":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$105/318,2193,2133,93/full/0/default.png","953747ae":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$160/151,898,266,19/full/0/default.png","a87a1d1a":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$274/404,3362,2134,77/full/0/default.png","c06eb593":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$202/389,1125,2132,112/full/0/default.png","df3f08aa":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$66/165,907,269,25/full/0/default.png","fa82e91a":"https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$149/367,3550,2120,90/full/0/default.png"},"mediatype":"texts","oclc-id":"19118501","ocr":"ABBYY FineReader 8.0","possible-copyright-status":"NOT_IN_COPYRIGHT","publicdate":"2008-02-11 05:30:26","publisher":"Selbstverlag des Verfassers","repub_state":"4","scandate":"20070829","scanner":"google","source":"http://books.google.com/books?id=tBA-AAAAIAAJ\u0026oe=UTF-8","sponsor":"Google","title":"Elsass-lothringen","uploader":"tpb","year":"1883"}
+{
+  "title": "Elsass-lothringen",
+  "year": 1883,
+  "id": "elsasslothringe00hottgoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$66/166,893,268,18/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$66/166,929,268,17/full/0/default.png",
+      "id": "df3f08aa",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$66/165,907,269,25/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$105/318,2106,2132,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$105/320,2282,2128,93/full/0/default.png",
+      "id": "92ee73cb",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$105/318,2193,2133,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$121/155,642,319,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$121/156,687,318,22/full/0/default.png",
+      "id": "3a2a8cef",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$121/155,664,320,23/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$149/453,3461,2035,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$150/169,168,535,24/full/0/default.png",
+      "id": "fa82e91a",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$149/367,3550,2120,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$160/151,881,266,19/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$160/151,916,533,19/full/0/default.png",
+      "id": "953747ae",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$160/151,898,266,19/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$202/389,1056,2129,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$202/392,1233,2130,93/full/0/default.png",
+      "id": "c06eb593",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$202/389,1125,2132,112/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$203/281,1240,2134,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$203/283,1416,2130,92/full/0/default.png",
+      "id": "5c28a463",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$203/281,1311,2136,108/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$274/404,3290,2135,74/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$274/403,3433,2136,75/full/0/default.png",
+      "id": "a87a1d1a",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$274/404,3362,2134,77/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$319/470,426,214,17/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$319/470,461,213,18/full/0/default.png",
+      "id": "0997d85f",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$319/470,443,214,18/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$343/912,2400,475,53/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$343/909,2505,515,59/full/0/default.png",
+      "id": "3fdfdba7",
+      "line": "https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog$343/910,2453,372,55/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/elsasslothringe00hottgoog/manifest.json"
+}

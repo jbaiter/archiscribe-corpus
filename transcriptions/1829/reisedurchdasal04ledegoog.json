@@ -1,1 +1,308 @@
-{"backup_location":"ia903603_13","collection":"americana","contributor":"New York Public Library","copyright-region":"US","creator":"Carl Friedrich von Ledebour","date":"1829","description":"Book digitized by Google from the library of New York Public Library and uploaded to the Internet Archive by user tpb.","google-id":"jS0PAAAAYAAJ","identifier":"reisedurchdasal04ledegoog","identifier-access":"http://www.archive.org/details/reisedurchdasal04ledegoog","identifier-ark":"ark:/13960/t3kw5vm7j","imagecount":"606","language":"German","lines":{"130e92bc":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$417/410,3057,2128,99/full/0/default.png","143a46a3":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$54/191,1481,2114,91/full/0/default.png","19286a34":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$160/166,1404,2131,95/full/0/default.png","1adb80ea":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$523/567,2784,1029,89/full/0/default.png","23f84ed7":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$293/462,1975,2128,92/full/0/default.png","27603f28":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$147/459,1639,2123,95/full/0/default.png","2a048111":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$459/462,745,2124,98/full/0/default.png","31172812":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/262,2671,2126,98/full/0/default.png","34b29804":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$408/195,1271,2126,101/full/0/default.png","3837fb0f":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$119/452,3153,2120,95/full/0/default.png","38b300fa":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$85/407,3990,2132,98/full/0/default.png","3e376843":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$525/1956,563,256,55/full/0/default.png","40d10b0f":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$228/217,2385,2113,96/full/0/default.png","43a7b2a6":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$530/267,2434,2131,94/full/0/default.png","463f8440":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$256/322,2856,1979,95/full/0/default.png","483cc393":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/260,2558,2126,92/full/0/default.png","48c488d0":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$445/541,3052,2124,99/full/0/default.png","4d2bddd6":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$283/464,2935,2142,93/full/0/default.png","4e2fcb47":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$108/181,4002,2129,91/full/0/default.png","4f3c19be":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$192/208,4133,2135,93/full/0/default.png","4fea303f":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$492/194,3923,770,81/full/0/default.png","5dfcd53b":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$294/198,3369,2134,98/full/0/default.png","65733e78":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$562/330,2966,1759,72/full/0/default.png","702a421b":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$419/437,4031,2141,94/full/0/default.png","7d514cad":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$241/516,856,2120,104/full/0/default.png","7d7f0124":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$386/222,2452,2116,91/full/0/default.png","7f596db1":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$347/448,877,2122,91/full/0/default.png","8311406f":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$77/435,653,2104,104/full/0/default.png","83c41913":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$46/185,4218,2115,104/full/0/default.png","8645eab4":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$521/579,2612,1109,85/full/0/default.png","9576c5d3":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$143/485,3212,2115,90/full/0/default.png","99ddcc68":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$523/776,673,614,101/full/0/default.png","b05c46a9":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$282/198,2107,2130,97/full/0/default.png","b8c3aaa9":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$384/226,1613,2130,94/full/0/default.png","bc8536a5":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$28/182,2843,2114,93/full/0/default.png","bd5c5129":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$424/220,3363,2132,92/full/0/default.png","bf5b447c":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$351/454,543,2142,97/full/0/default.png","c5511afd":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$522/174,3206,1065,85/full/0/default.png","c9d4b745":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$305/454,4086,2122,99/full/0/default.png","cc2d5687":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$181/422,3037,2126,87/full/0/default.png","d8c83f6e":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$546/295,2668,2088,76/full/0/default.png","da6749ad":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$346/888,2362,714,97/full/0/default.png","dc8ca668":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$104/206,1995,2127,90/full/0/default.png","e51896bf":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$124/329,4091,1977,75/full/0/default.png","ee15bf7f":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$368/192,4230,2116,105/full/0/default.png","ee4f625b":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$480/164,1810,1174,95/full/0/default.png","f624eca9":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$515/500,1105,2116,87/full/0/default.png","fa404374":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$142/210,1946,2126,91/full/0/default.png","fb42613a":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$540/292,3780,2109,94/full/0/default.png","fb550ff5":"https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$230/202,3618,2147,90/full/0/default.png"},"mediatype":"texts","notes":"\"Fr.v.Gebler's Bemerkungen uber die insekten Sibiriens, vorzuglich des Altai\": 228 p. at end of th. II.\n\n","oclc-id":"68157298","ocr":"ABBYY FineReader 8.0","possible-copyright-status":"NOT_IN_COPYRIGHT","ppi":"600","publicdate":"2009-07-07 03:10:58","publisher":"G. Reimer","repub_state":"4","scandate":"20071012","scanner":"google","source":"http://books.google.com/books?id=jS0PAAAAYAAJ\u0026oe=UTF-8","sponsor":"Google","title":"Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...","uploader":"tpb","year":"1829"}
+{
+  "title": "Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...",
+  "year": 1829,
+  "id": "reisedurchdasal04ledegoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$28/181,2702,2116,98/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$28/180,2975,2112,98/full/0/default.png",
+      "id": "bc8536a5",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$28/182,2843,2114,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$46/181,4089,2122,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$46/251,4321,2122,111/full/0/default.png",
+      "id": "83c41913",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$46/185,4218,2115,104/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$54/191,1340,2116,113/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$54/192,1598,2115,93/full/0/default.png",
+      "id": "143a46a3",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$54/191,1481,2114,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$77/445,532,2100,101/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$77/435,771,2110,107/full/0/default.png",
+      "id": "8311406f",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$77/435,653,2104,104/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$85/407,3871,2137,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$85/406,4114,956,80/full/0/default.png",
+      "id": "38b300fa",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$85/407,3990,2132,98/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$104/210,1870,2124,96/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$104/208,2111,2124,94/full/0/default.png",
+      "id": "dc8ca668",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$104/206,1995,2127,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$108/182,3881,2130,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$108/182,4124,2122,92/full/0/default.png",
+      "id": "4e2fcb47",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$108/181,4002,2129,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$119/608,3030,1964,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$119/457,3268,2116,98/full/0/default.png",
+      "id": "3837fb0f",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$119/452,3153,2120,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$124/328,4007,1974,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$124/330,4156,1974,97/full/0/default.png",
+      "id": "e51896bf",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$124/329,4091,1977,75/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$142/208,1823,2127,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$142/211,2060,2123,96/full/0/default.png",
+      "id": "fa404374",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$142/210,1946,2126,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$143/484,3093,2112,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$143/482,3330,2116,91/full/0/default.png",
+      "id": "9576c5d3",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$143/485,3212,2115,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$147/605,1524,1977,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$147/458,1763,2122,90/full/0/default.png",
+      "id": "27603f28",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$147/459,1639,2123,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$160/165,1288,2132,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$160/165,1526,2131,96/full/0/default.png",
+      "id": "19286a34",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$160/166,1404,2131,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$181/422,2917,2128,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$181/420,3155,2121,87/full/0/default.png",
+      "id": "cc2d5687",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$181/422,3037,2126,87/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$192/208,4009,2134,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$192/212,4249,2136,97/full/0/default.png",
+      "id": "4f3c19be",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$192/208,4133,2135,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/260,2440,2128,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/262,2671,2126,98/full/0/default.png",
+      "id": "483cc393",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/260,2558,2126,92/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/260,2558,2126,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/263,2798,2125,93/full/0/default.png",
+      "id": "31172812",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$214/262,2671,2126,98/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$228/381,2257,1957,102/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$228/216,2506,2116,92/full/0/default.png",
+      "id": "40d10b0f",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$228/217,2385,2113,96/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$230/208,3496,2139,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$230/198,3737,2151,88/full/0/default.png",
+      "id": "fb550ff5",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$230/202,3618,2147,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$241/514,735,2119,105/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$241/513,973,2117,106/full/0/default.png",
+      "id": "7d514cad",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$241/516,856,2120,104/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$256/168,2744,322,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$256/170,2980,2126,91/full/0/default.png",
+      "id": "463f8440",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$256/322,2856,1979,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$282/190,1988,2140,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$282/200,2229,2130,94/full/0/default.png",
+      "id": "b05c46a9",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$282/198,2107,2130,97/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$283/462,2817,2142,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$283/459,3056,2141,95/full/0/default.png",
+      "id": "4d2bddd6",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$283/464,2935,2142,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$293/612,1855,1976,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$293/458,2091,2130,96/full/0/default.png",
+      "id": "23f84ed7",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$293/462,1975,2128,92/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$294/202,3256,2126,105/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$294/198,3494,2135,96/full/0/default.png",
+      "id": "5dfcd53b",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$294/198,3369,2134,98/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$305/457,3970,2123,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$305/455,4206,2132,105/full/0/default.png",
+      "id": "c9d4b745",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$305/454,4086,2122,99/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$346/296,2237,1914,112/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$346/182,2568,2125,117/full/0/default.png",
+      "id": "da6749ad",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$346/888,2362,714,97/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$347/448,759,2124,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$347/452,999,2142,88/full/0/default.png",
+      "id": "7f596db1",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$347/448,877,2122,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$350/378,4350,1994,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$351/452,667,2144,91/full/0/default.png",
+      "id": "bf5b447c",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$351/454,543,2142,97/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$368/190,4108,2119,110/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$368/296,4321,2077,120/full/0/default.png",
+      "id": "ee15bf7f",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$368/192,4230,2116,105/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$384/224,1489,2130,99/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$384/226,1730,2128,95/full/0/default.png",
+      "id": "b8c3aaa9",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$384/226,1613,2130,94/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$386/219,2328,2124,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$386/220,2567,2123,96/full/0/default.png",
+      "id": "7d7f0124",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$386/222,2452,2116,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$408/197,1152,2121,99/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$408/197,1391,2125,96/full/0/default.png",
+      "id": "34b29804",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$408/195,1271,2126,101/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$417/410,2939,2133,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$417/410,3180,2134,94/full/0/default.png",
+      "id": "130e92bc",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$417/410,3057,2128,99/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$419/456,3911,2123,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$419/458,4151,2120,95/full/0/default.png",
+      "id": "702a421b",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$419/437,4031,2141,94/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$424/223,3243,2125,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$424/219,3479,2133,97/full/0/default.png",
+      "id": "bd5c5129",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$424/220,3363,2132,92/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$445/540,2935,2124,98/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$445/541,3175,2125,98/full/0/default.png",
+      "id": "48c488d0",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$445/541,3052,2124,99/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$459/462,621,2117,101/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$459/612,1002,1976,107/full/0/default.png",
+      "id": "2a048111",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$459/462,745,2124,98/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$480/166,1690,2116,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$480/324,1965,1963,94/full/0/default.png",
+      "id": "ee4f625b",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$480/164,1810,1174,95/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$492/112,3820,1205,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$492/112,4023,1201,93/full/0/default.png",
+      "id": "4fea303f",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$492/194,3923,770,81/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$515/644,979,1923,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$515/441,1223,2128,88/full/0/default.png",
+      "id": "f624eca9",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$515/500,1105,2116,87/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$521/495,2512,1196,80/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$521/575,2714,763,88/full/0/default.png",
+      "id": "8645eab4",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$521/579,2612,1109,85/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$522/1662,3167,238,80/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$522/90,3308,1202,84/full/0/default.png",
+      "id": "c5511afd",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$522/174,3206,1065,85/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$522/149,4206,744,107/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$523/1732,624,567,80/full/0/default.png",
+      "id": "99ddcc68",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$523/776,673,614,101/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$523/569,2680,1114,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$523/487,2890,1196,93/full/0/default.png",
+      "id": "1adb80ea",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$523/567,2784,1029,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$525/698,573,622,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$525/501,853,1103,91/full/0/default.png",
+      "id": "3e376843",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$525/1956,563,256,55/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$530/265,2313,2133,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$530/269,2554,2127,92/full/0/default.png",
+      "id": "43a7b2a6",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$530/267,2434,2131,94/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$540/293,3660,2113,95/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$540/379,4152,1072,71/full/0/default.png",
+      "id": "fb42613a",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$540/292,3780,2109,94/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$546/1089,2604,475,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$546/291,2796,1368,84/full/0/default.png",
+      "id": "d8c83f6e",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$546/295,2668,2088,76/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$562/329,2890,1398,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$562/333,3038,1470,69/full/0/default.png",
+      "id": "65733e78",
+      "line": "https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog$562/330,2966,1759,72/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog/manifest.json"
+}

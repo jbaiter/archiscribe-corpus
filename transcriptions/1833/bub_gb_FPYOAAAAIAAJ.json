@@ -1,1 +1,68 @@
-{"title": "Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorz\u00fcglichsten \u00e4ltern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen", "mediatype": "texts", "repub_state": "4", "addeddate": "2014-10-11 01:28:11", "curation": "[curator]validator@archive.org[/curator][date]20141011012850[/date][comment]checked for malware[/comment]", "identifier-access": "http://archive.org/details/bub_gb_FPYOAAAAIAAJ", "contributor": "unknown library", "year": "1833", "date": "1833", "language": "German", "lines": {"f01299af": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$69/175,3432,1915,77/full/0/default.png", "96036707": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$162/659,1222,1263,74/full/0/default.png", "ccad89de": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$375/479,642,1080,76/full/0/default.png", "586c2e91": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$365/399,1314,1435,73/full/0/default.png", "d05175a0": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$275/584,3340,1128,73/full/0/default.png", "2ce41300": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$28/422,828,1929,86/full/0/default.png", "5068aa1f": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$103/151,1167,1499,71/full/0/default.png", "61f2b9fb": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$155/476,2658,1095,74/full/0/default.png", "44ecc93e": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$239/410,3511,1243,84/full/0/default.png", "810ceefc": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$121/534,786,1263,75/full/0/default.png"}, "scanner": "google", "subject": "bub_upload", "identifier": "bub_gb_FPYOAAAAIAAJ", "publicdate": "2014-10-11 01:28:11", "creator": "Johann Christoph Kr\u00f6ger", "uploader": "tools.bub@tools.wmflabs.org", "licenseurl": "http://creativecommons.org/publicdomain/mark/1.0/", "sponsor": "Google", "collection": "europeanlibraries", "source": "http://books.google.com/books?id=FPYOAAAAIAAJ&hl=&source=gbs_api", "publisher": "J. F. Hammerich", "imagecount": "444", "google-id": "FPYOAAAAIAAJ", "identifier-ark": "ark:/13960/t1jh6db98", "oclc-id": "38651125", "backup_location": "ia905905_9", "ocr": "ABBYY FineReader 9.0"}
+{
+  "title": "Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorz\u00fcglichsten \u00e4ltern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen",
+  "year": 1833,
+  "id": "bub_gb_FPYOAAAAIAAJ",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$28/424,770,1928,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$28/421,918,1932,73/full/0/default.png",
+      "id": "2ce41300",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$28/422,828,1929,86/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$69/175,3342,1940,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$69/180,3520,1926,80/full/0/default.png",
+      "id": "f01299af",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$69/175,3432,1915,77/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$103/154,1071,1633,74/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$103/152,1255,1932,77/full/0/default.png",
+      "id": "5068aa1f",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$103/151,1167,1499,71/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$121/560,698,982,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$121/558,877,1073,76/full/0/default.png",
+      "id": "810ceefc",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$121/534,786,1263,75/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$155/470,2564,930,74/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$155/547,2877,1243,71/full/0/default.png",
+      "id": "61f2b9fb",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$155/476,2658,1095,74/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$162/660,1126,1269,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$162/656,1312,1219,77/full/0/default.png",
+      "id": "96036707",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$162/659,1222,1263,74/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$239/412,3417,1485,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$239/405,3611,845,82/full/0/default.png",
+      "id": "44ecc93e",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$239/410,3511,1243,84/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$275/590,3249,1051,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$275/589,3434,927,76/full/0/default.png",
+      "id": "d05175a0",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$275/584,3340,1128,73/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$365/477,1222,1432,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$365/404,1498,1286,76/full/0/default.png",
+      "id": "586c2e91",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$365/399,1314,1435,73/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$375/557,550,1094,78/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$375/473,962,1355,84/full/0/default.png",
+      "id": "ccad89de",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ$375/479,642,1080,76/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json"
+}

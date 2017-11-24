@@ -1,1 +1,128 @@
-{"title": "Die Musik im heutigen Italien", "mediatype": "texts", "repub_state": "4", "identifier-access": "http://www.archive.org/details/diemusikimheuti00conrgoog", "contributor": "unknown library", "year": "1879", "date": "1879", "lines": {"a9b1fbc1": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/364,1646,2274,112/full/0/default.png", "35f36420": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$30/402,3012,2272,89/full/0/default.png", "27174361": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$22/356,1877,2267,113/full/0/default.png", "b99f9a90": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/443,1884,2269,89/full/0/default.png", "1dcd8a74": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/384,579,2268,94/full/0/default.png", "c608591f": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/432,1309,2254,93/full/0/default.png", "d2e7ba17": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$44/542,452,2101,90/full/0/default.png", "795287c9": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/441,1253,2273,89/full/0/default.png", "a2fafad6": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$51/332,729,2277,93/full/0/default.png", "1de66941": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$66/371,3053,1423,91/full/0/default.png", "58b17a43": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$76/424,2937,2262,89/full/0/default.png", "36d638e6": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/365,3040,1632,90/full/0/default.png", "3691767a": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/381,2689,2266,94/full/0/default.png", "6f84eb8a": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/417,571,2267,89/full/0/default.png", "30005e60": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$71/528,2132,1233,88/full/0/default.png", "78858066": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$47/414,3545,2292,92/full/0/default.png", "277c72f7": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/457,1990,2256,90/full/0/default.png", "71fa746a": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/443,2561,2277,93/full/0/default.png", "aee409da": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$68/599,1292,2087,90/full/0/default.png", "8818da61": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/428,2034,2297,89/full/0/default.png"}, "language": "German", "copyright-region": "US", "scanner": "google", "uploader": "tpb", "identifier": "diemusikimheuti00conrgoog", "publicdate": "2008-08-18 07:10:15", "creator": "Michael Georg Conrad", "lccn": "nuc87428574", "sponsor": "Google", "collection": "americana", "source": "http://books.google.com/books?id=0xs5AAAAIAAJ&oe=UTF-8", "publisher": "S. Schottlaender", "imagecount": "92", "possible-copyright-status": "NOT_IN_COPYRIGHT", "identifier-ark": "ark:/13960/t05x2h38t", "oclc-id": "25157559", "backup_location": "ia903602_9", "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb."}
+{
+  "title": "Die Musik im heutigen Italien",
+  "year": 1879,
+  "id": "diemusikimheuti00conrgoog",
+  "lines": [
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$22/352,1794,2274,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$22/534,2004,2090,94/full/0/default.png",
+      "id": "27174361",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$22/356,1877,2267,113/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$30/407,2907,2267,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$30/400,3117,2272,92/full/0/default.png",
+      "id": "35f36420",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$30/402,3012,2272,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$43/429,3849,1800,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$44/367,556,2274,90/full/0/default.png",
+      "id": "d2e7ba17",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$44/542,452,2101,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$47/407,3440,2271,96/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$47/588,3653,2090,93/full/0/default.png",
+      "id": "78858066",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$47/414,3545,2292,92/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$51/325,625,2282,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$51/327,835,2278,89/full/0/default.png",
+      "id": "a2fafad6",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$51/332,729,2277,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$66/375,2946,2264,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$66/548,3157,2092,89/full/0/default.png",
+      "id": "1de66941",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$66/371,3053,1423,91/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$68/411,1084,321,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$68/419,1399,2269,89/full/0/default.png",
+      "id": "aee409da",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$68/599,1292,2087,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/443,1147,2273,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/441,1358,2276,88/full/0/default.png",
+      "id": "795287c9",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/441,1253,2273,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/623,1778,2089,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/457,1990,2256,90/full/0/default.png",
+      "id": "b99f9a90",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/443,1884,2269,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/443,1884,2269,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/439,2095,2271,91/full/0/default.png",
+      "id": "277c72f7",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$70/457,1990,2256,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$71/353,2027,1983,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$71/527,2235,2082,92/full/0/default.png",
+      "id": "30005e60",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$71/528,2132,1233,88/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/417,465,2268,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/416,676,2265,92/full/0/default.png",
+      "id": "6f84eb8a",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/417,571,2267,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/417,1183,2267,111/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/423,1415,2261,90/full/0/default.png",
+      "id": "c608591f",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$72/432,1309,2254,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$76/420,2828,2270,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$76/415,3040,2277,95/full/0/default.png",
+      "id": "58b17a43",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$76/424,2937,2262,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/364,1564,2274,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/371,1774,2262,89/full/0/default.png",
+      "id": "a9b1fbc1",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/364,1646,2274,112/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/551,2935,2082,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/539,3145,2096,90/full/0/default.png",
+      "id": "36d638e6",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$77/365,3040,1632,90/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/446,1929,2278,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/441,2118,2282,112/full/0/default.png",
+      "id": "8818da61",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/428,2034,2297,89/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/442,2457,2277,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/441,2666,2279,93/full/0/default.png",
+      "id": "71fa746a",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$78/443,2561,2277,93/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/370,468,2280,98/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/377,686,2275,92/full/0/default.png",
+      "id": "1dcd8a74",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/384,579,2268,94/full/0/default.png"
+    },
+    {
+      "previous": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/373,2582,2274,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/378,2797,2270,93/full/0/default.png",
+      "id": "3691767a",
+      "line": "https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog$84/381,2689,2266,94/full/0/default.png"
+    }
+  ],
+  "manifest": "http://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json"
+}

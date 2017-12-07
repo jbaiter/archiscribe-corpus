@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2286 lines from 64 works
-published across 52 years. Detailed statistics are available below.
+Currently the corpus contains 2336 lines from 65 works
+published across 53 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -21,7 +21,7 @@ published across 52 years. Detailed statistics are available below.
 |   1850 |     274 |
 |   1860 |     271 |
 |   1870 |     227 |
-|   1880 |     222 |
+|   1880 |     272 |
 |   1890 |     235 |
 
 
@@ -75,6 +75,7 @@ published across 52 years. Detailed statistics are available below.
 | 1883 |      10 |
 | 1886 |      96 |
 | 1887 |      66 |
+| 1888 |      50 |
 | 1890 |      40 |
 | 1892 |      50 |
 | 1893 |      20 |
@@ -145,6 +146,7 @@ published across 52 years. Detailed statistics are available below.
 | Grosse Unterricht Lehre: Mit einer Einleitung j. Comenius sein Leven und wirken                                                                                                            | 1886 | [grosseunterrich00lindgoog](http://archive.org/details/grosseunterrich00lindgoog) | [Manifest](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog) |
 | Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Das Lügen: Lustspiel in drei Aufzügen                                                                                                                                                      | 1887 | [daslgenlustspie00benegoog](http://archive.org/details/daslgenlustspie00benegoog) | [Manifest](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog) |
+| Die deutsche Renaissance-lyrik                                                                                                                                                             | 1888 | [diedeutscherena00waldgoog](http://archive.org/details/diedeutscherena00waldgoog) | [Manifest](https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    | 1890 | [deutscheliterat01wencgoog](http://archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
 | Erkenntnisse des K.k. Verwaltungsgerichtshofes                                                                                                                                             | 1892 | [erkenntnissedes00unkngoog](http://archive.org/details/erkenntnissedes00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog) |
 | Deutsche Kolonialzeitung                                                                                                                                                                   | 1893 | [deutschekolonia00unkngoog](http://archive.org/details/deutschekolonia00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog) |

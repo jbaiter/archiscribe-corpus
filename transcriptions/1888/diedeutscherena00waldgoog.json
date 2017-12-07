@@ -1,0 +1,309 @@
+{
+  "id": "diedeutscherena00waldgoog",
+  "title": "Die deutsche Renaissance-lyrik",
+  "year": 1888,
+  "manifest": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog/manifest.json",
+  "lines": [
+    {
+      "id": "41549408",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$24/586,1687,1400,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$24/588,1583,2155,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$24/754,1789,1986,87/full/0/default.png"
+    },
+    {
+      "id": "9d1d4857",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$26/613,4159,2153,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$26/615,4058,2151,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$27/1268,511,1411,59/full/0/default.png"
+    },
+    {
+      "id": "ac5e3846",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$28/647,2604,2147,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$28/645,2501,2150,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$28/646,2706,2148,85/full/0/default.png"
+    },
+    {
+      "id": "19956007",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$34/618,431,1586,69/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$33/509,4170,2152,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$34/619,636,2157,86/full/0/default.png"
+    },
+    {
+      "id": "84208ebb",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$48/582,3026,2152,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$48/583,2923,2153,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$48/582,3128,2149,85/full/0/default.png"
+    },
+    {
+      "id": "f8b775f1",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$50/1126,1862,1037,69/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$50/1119,1776,958,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$50/1121,1947,866,68/full/0/default.png"
+    },
+    {
+      "id": "53c3ddeb",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/608,1874,2157,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/609,1772,2149,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/613,1976,2148,86/full/0/default.png"
+    },
+    {
+      "id": "10e72478",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/614,2560,2155,114/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/614,2485,2151,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/616,2691,2154,87/full/0/default.png"
+    },
+    {
+      "id": "fc49d73d",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/616,2691,2154,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/614,2560,2155,114/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$68/613,2766,2154,113/full/0/default.png"
+    },
+    {
+      "id": "a864ce6f",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$73/497,3639,2149,94/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$73/496,3538,2152,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$73/495,3743,2153,89/full/0/default.png"
+    },
+    {
+      "id": "43313036",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$75/524,1672,2149,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$75/516,1570,2160,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$75/523,1773,2154,88/full/0/default.png"
+    },
+    {
+      "id": "8e6525a1",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$76/636,2934,2149,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$76/944,2777,1434,74/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$76/636,3035,2022,93/full/0/default.png"
+    },
+    {
+      "id": "2472a7d2",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$77/490,3849,2158,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$77/490,3747,2158,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$77/492,3952,2157,86/full/0/default.png"
+    },
+    {
+      "id": "04d58a59",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$78/647,1911,2154,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$78/818,1806,1981,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$78/643,2012,2161,88/full/0/default.png"
+    },
+    {
+      "id": "a59d8ff0",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$81/556,2409,2151,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$81/557,2305,2145,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$81/555,2509,2154,87/full/0/default.png"
+    },
+    {
+      "id": "9dfb4689",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$82/1215,1033,781,73/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$82/1215,949,645,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$82/1214,1118,752,72/full/0/default.png"
+    },
+    {
+      "id": "f00c38f5",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$90/714,2207,2153,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$90/714,2080,2152,114/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$90/714,2310,2149,88/full/0/default.png"
+    },
+    {
+      "id": "a4755ac9",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$92/669,1362,2158,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$92/671,1259,2159,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$92/673,1464,2153,89/full/0/default.png"
+    },
+    {
+      "id": "4695855d",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$104/648,3241,2147,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$104/641,3130,2156,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$104/639,3342,2159,87/full/0/default.png"
+    },
+    {
+      "id": "903f2b1e",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$107/984,3380,1025,71/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$107/987,3293,1085,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$107/984,3465,1097,72/full/0/default.png"
+    },
+    {
+      "id": "31a1c8c9",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$111/553,3540,2159,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$111/550,3441,2162,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$111/552,3644,2159,88/full/0/default.png"
+    },
+    {
+      "id": "5c99f9e9",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$112/559,2706,2155,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$112/564,2604,2154,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$112/558,2810,2157,86/full/0/default.png"
+    },
+    {
+      "id": "d2a2362d",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$112/559,3011,2152,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$112/560,2903,2154,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$112/560,3114,2156,88/full/0/default.png"
+    },
+    {
+      "id": "90b88cb4",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$113/534,1201,2154,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$113/538,1098,2152,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$113/533,1303,2157,86/full/0/default.png"
+    },
+    {
+      "id": "86dd0627",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$116/628,458,1343,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$115/512,4070,2151,110/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$116/626,665,2158,88/full/0/default.png"
+    },
+    {
+      "id": "4ab044de",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$118/696,3323,2152,80/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$118/698,3218,2152,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$118/698,3423,2152,86/full/0/default.png"
+    },
+    {
+      "id": "9e932fe2",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$119/675,2177,1679,70/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$119/677,2090,1750,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$119/608,2332,1980,85/full/0/default.png"
+    },
+    {
+      "id": "4768cace",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$120/707,880,2145,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$120/705,779,2153,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$120/705,984,2154,85/full/0/default.png"
+    },
+    {
+      "id": "4db2e5ee",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$122/717,1462,2164,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$122/715,1359,2162,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$122/719,1564,2159,86/full/0/default.png"
+    },
+    {
+      "id": "91119292",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$122/1442,3284,743,52/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$122/1442,3216,701,54/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$122/1440,3352,666,54/full/0/default.png"
+    },
+    {
+      "id": "5084ca13",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$126/677,4147,2161,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$126/675,4043,2161,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$127/1223,460,1451,81/full/0/default.png"
+    },
+    {
+      "id": "4863c15a",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$129/1069,1019,1050,71/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$129/534,884,279,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$129/1150,1104,855,70/full/0/default.png"
+    },
+    {
+      "id": "43e301cb",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$134/1085,1529,1473,71/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$134/1085,1444,1327,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$134/677,1650,1248,88/full/0/default.png"
+    },
+    {
+      "id": "4251c8be",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$135/465,1168,2151,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$135/464,1068,2153,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$135/465,1272,2152,89/full/0/default.png"
+    },
+    {
+      "id": "b25cd960",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$138/724,1082,2154,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$138/722,980,2157,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$138/721,1181,2150,90/full/0/default.png"
+    },
+    {
+      "id": "35542ceb",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$139/487,2736,2159,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$139/488,2633,2158,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$139/489,2837,2158,85/full/0/default.png"
+    },
+    {
+      "id": "493b59e7",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$142/677,1709,2159,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$142/681,1607,2156,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$142/679,1811,2158,88/full/0/default.png"
+    },
+    {
+      "id": "5eaeb4e6",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$142/682,3424,2154,93/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$142/852,3321,1984,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$142/682,3526,2158,92/full/0/default.png"
+    },
+    {
+      "id": "c38762cb",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$146/839,1011,1370,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$146/842,908,1522,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$146/840,1096,1641,73/full/0/default.png"
+    },
+    {
+      "id": "b5d17aaa",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$160/645,1721,2161,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$160/652,1618,2155,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$160/650,1823,2155,89/full/0/default.png"
+    },
+    {
+      "id": "57088039",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$169/1039,3684,821,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$169/1038,3600,971,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$169/1036,3771,876,70/full/0/default.png"
+    },
+    {
+      "id": "151ae9a2",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$171/494,2927,2148,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$171/497,2825,2148,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$171/493,3029,2149,86/full/0/default.png"
+    },
+    {
+      "id": "44b446b6",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$179/705,3603,1990,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$179/1188,3448,840,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$179/535,3704,2153,90/full/0/default.png"
+    },
+    {
+      "id": "ab89648a",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$194/624,1551,2153,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$194/625,1451,2156,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$194/624,1654,2162,86/full/0/default.png"
+    },
+    {
+      "id": "4675a801",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$214/647,886,2155,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$214/649,783,2151,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$214/649,986,2150,91/full/0/default.png"
+    },
+    {
+      "id": "a3e6a472",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$227/484,747,2157,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$227/484,643,2155,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$227/489,850,2153,85/full/0/default.png"
+    },
+    {
+      "id": "9c253620",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$233/1035,1487,1047,69/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$233/1031,1403,821,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$233/655,1592,1980,86/full/0/default.png"
+    },
+    {
+      "id": "afe43ee3",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$233/474,2812,2015,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$233/478,2710,2158,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$233/682,2927,1596,71/full/0/default.png"
+    },
+    {
+      "id": "ac969323",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$246/662,4162,987,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$246/663,4060,2156,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$247/1348,479,1307,70/full/0/default.png"
+    },
+    {
+      "id": "7f913ec0",
+      "line": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$254/672,1202,1029,71/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$254/671,1117,805,67/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog$254/738,1287,902,68/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

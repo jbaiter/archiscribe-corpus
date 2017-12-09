@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2336 lines from 65 works
+Currently the corpus contains 2382 lines from 66 works
 published across 53 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -14,7 +14,7 @@ published across 53 years. Detailed statistics are available below.
 | Decade | # lines |
 |--------|---------|
 |   1800 |     252 |
-|   1810 |     183 |
+|   1810 |     229 |
 |   1820 |     227 |
 |   1830 |     202 |
 |   1840 |     193 |
@@ -36,7 +36,7 @@ published across 53 years. Detailed statistics are available below.
 | 1812 |      50 |
 | 1815 |      49 |
 | 1816 |      51 |
-| 1818 |       8 |
+| 1818 |      54 |
 | 1819 |      25 |
 | 1822 |       3 |
 | 1823 |      18 |
@@ -100,6 +100,7 @@ published across 53 years. Detailed statistics are available below.
 | Sappho von einem herrschenden Vorurtheil befreyt                                                                                                                                           | 1816 | [bub_gb_LOYVAAAAIAAJ](http://archive.org/details/bub_gb_LOYVAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LOYVAAAAIAAJ)             |
 | Blumenlese aus den Minnesingern: 1. Sammlung                                                                                                                                               | 1816 | [blumenleseausde00mlgoog](http://archive.org/details/blumenleseausde00mlgoog)     | [Manifest](https://iiif.archivelab.org/iiif/blumenleseausde00mlgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/blumenleseausde00mlgoog)     |
 | Geographischstatistisches Handbuch über Schlesien und die Grafschaft Glatz                                                                                                                 | 1818 | [bub_gb_PNcAAAAAcAAJ](http://archive.org/details/bub_gb_PNcAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ)             |
+| Geschichte der Religion Jesu Christi, von F.L., Grafen zu Stolberg (fortgesetzt von F. v. Kerz ...                                                                                         | 1818 | [geschichtederre06kerzgoog](http://archive.org/details/geschichtederre06kerzgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederre06kerzgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederre06kerzgoog) |
 | Chronik der königlichen Würtembergischen Stadt Rottenburg und Ehingen am Nekar                                                                                                             | 1819 | [bub_gb_3mAAAAAAcAAJ](http://archive.org/details/bub_gb_3mAAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ)             |
 | Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...                                                                                                                        | 1822 | [dieleibnizschel01sigwgoog](http://archive.org/details/dieleibnizschel01sigwgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog) |
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |

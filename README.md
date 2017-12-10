@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2480 lines from 68 works
-published across 54 years. Detailed statistics are available below.
+Currently the corpus contains 2525 lines from 69 works
+published across 55 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -16,7 +16,7 @@ published across 54 years. Detailed statistics are available below.
 |   1800 |     252 |
 |   1810 |     229 |
 |   1820 |     275 |
-|   1830 |     202 |
+|   1830 |     247 |
 |   1840 |     193 |
 |   1850 |     274 |
 |   1860 |     321 |
@@ -44,6 +44,7 @@ published across 54 years. Detailed statistics are available below.
 | 1825 |      50 |
 | 1827 |      56 |
 | 1829 |      50 |
+| 1830 |      45 |
 | 1833 |      60 |
 | 1835 |      50 |
 | 1836 |       5 |
@@ -111,6 +112,7 @@ published across 54 years. Detailed statistics are available below.
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Sämmtliche Schriften                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
 | Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...                                                                                                                | 1829 | [reisedurchdasal04ledegoog](http://archive.org/details/reisedurchdasal04ledegoog) | [Manifest](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog) |
+| Das alte Indien, mit besonderer Rücksicht auf Aegypten                                                                                                                                     | 1830 | [dasalteindienmi00bohlgoog](http://archive.org/details/dasalteindienmi00bohlgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog) |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
 | Homer's Werke                                                                                                                                                                              | 1833 | [homerswerke06vossgoog](http://archive.org/details/homerswerke06vossgoog)         | [Manifest](https://iiif.archivelab.org/iiif/homerswerke06vossgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/homerswerke06vossgoog)         |
 | Sämmtliche Werke                                                                                                                                                                           | 1835 | [bub_gb_SAgEaAhqQOkC](http://archive.org/details/bub_gb_SAgEaAhqQOkC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_SAgEaAhqQOkC)             |
@@ -122,8 +124,8 @@ published across 54 years. Detailed statistics are available below.
 | Morgenblatt für gebildete Leser 1844                                                                                                                                                       | 1844 | [bub_gb_53ZEAAAAcAAJ](http://archive.org/details/bub_gb_53ZEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ)             |
 | Briefe aus und über Nordamerika; oder, Beiträge zu einer richtigen Kenntniss der Vereinigten ...                                                                                           | 1847 | [briefeausundber02btgoog](http://archive.org/details/briefeausundber02btgoog)     | [Manifest](https://iiif.archivelab.org/iiif/briefeausundber02btgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/briefeausundber02btgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
-| Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Zeitschrift für Philosophie und spekulative Theologie [afterw.] und ...                                                                                                                    | 1848 | [zeitschriftfrph29kritgoog](http://archive.org/details/zeitschriftfrph29kritgoog) | [Manifest](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog) |
+| Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Macchiavel, Montesquieu, Rousseau Macchiavel und Montesquieu                                                                                                                               | 1850 | [bub_gb_niZMAAAAcAAJ](http://archive.org/details/bub_gb_niZMAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ)             |
 | SchleswigHolstein's FreiheitsKampf im 13. Jahrhundert; oder der Tag von Bornhöved Historischer Roman                                                                                       | 1851 | [bub_gb_Lz87AAAAcAAJ](http://archive.org/details/bub_gb_Lz87AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ)             |
 | Eppelein von Gailingen, und was sich seiner Zeit mit diesem ritterlichen Eulenspiegel und seinen Spießgesellen im Fränkischen zugetragen                                                   | 1852 | [bub_gb_gEo7AAAAcAAJ](http://archive.org/details/bub_gb_gEo7AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ)             |

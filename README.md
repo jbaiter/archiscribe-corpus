@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2382 lines from 66 works
+Currently the corpus contains 2430 lines from 67 works
 published across 53 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -15,7 +15,7 @@ published across 53 years. Detailed statistics are available below.
 |--------|---------|
 |   1800 |     252 |
 |   1810 |     229 |
-|   1820 |     227 |
+|   1820 |     275 |
 |   1830 |     202 |
 |   1840 |     193 |
 |   1850 |     274 |
@@ -39,7 +39,7 @@ published across 53 years. Detailed statistics are available below.
 | 1818 |      54 |
 | 1819 |      25 |
 | 1822 |       3 |
-| 1823 |      18 |
+| 1823 |      66 |
 | 1824 |      50 |
 | 1825 |      50 |
 | 1827 |      56 |
@@ -104,6 +104,7 @@ published across 53 years. Detailed statistics are available below.
 | Chronik der königlichen Würtembergischen Stadt Rottenburg und Ehingen am Nekar                                                                                                             | 1819 | [bub_gb_3mAAAAAAcAAJ](http://archive.org/details/bub_gb_3mAAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ)             |
 | Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...                                                                                                                        | 1822 | [dieleibnizschel01sigwgoog](http://archive.org/details/dieleibnizschel01sigwgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog) |
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
+| Jenaische allgemeine Literatur-Zeitung. Jahrg. 1-[38. With] Intelligenzblatt ...                                                                                                           | 1823 | [jenaischeallgem05unkngoog](http://archive.org/details/jenaischeallgem05unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog) |
 | MilitärWochenblatt Unabhängige Zeitschrift für die deutsche Wehrmacht                                                                                                                      | 1824 | [bub_gb_nL5FAAAAcAAJ](http://archive.org/details/bub_gb_nL5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ)             |
 | Die Harzburg und ihre Geschichte: mit 5 Abbildungen                                                                                                                                        | 1825 | [dieharzburgundi00leongoog](http://archive.org/details/dieharzburgundi00leongoog) | [Manifest](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog) |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
@@ -120,8 +121,8 @@ published across 53 years. Detailed statistics are available below.
 | Morgenblatt für gebildete Leser 1844                                                                                                                                                       | 1844 | [bub_gb_53ZEAAAAcAAJ](http://archive.org/details/bub_gb_53ZEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ)             |
 | Briefe aus und über Nordamerika; oder, Beiträge zu einer richtigen Kenntniss der Vereinigten ...                                                                                           | 1847 | [briefeausundber02btgoog](http://archive.org/details/briefeausundber02btgoog)     | [Manifest](https://iiif.archivelab.org/iiif/briefeausundber02btgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/briefeausundber02btgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
-| Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Zeitschrift für Philosophie und spekulative Theologie [afterw.] und ...                                                                                                                    | 1848 | [zeitschriftfrph29kritgoog](http://archive.org/details/zeitschriftfrph29kritgoog) | [Manifest](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog) |
+| Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Macchiavel, Montesquieu, Rousseau Macchiavel und Montesquieu                                                                                                                               | 1850 | [bub_gb_niZMAAAAcAAJ](http://archive.org/details/bub_gb_niZMAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ)             |
 | SchleswigHolstein's FreiheitsKampf im 13. Jahrhundert; oder der Tag von Bornhöved Historischer Roman                                                                                       | 1851 | [bub_gb_Lz87AAAAcAAJ](http://archive.org/details/bub_gb_Lz87AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ)             |
 | Eppelein von Gailingen, und was sich seiner Zeit mit diesem ritterlichen Eulenspiegel und seinen Spießgesellen im Fränkischen zugetragen                                                   | 1852 | [bub_gb_gEo7AAAAcAAJ](http://archive.org/details/bub_gb_gEo7AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ)             |

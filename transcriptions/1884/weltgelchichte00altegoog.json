@@ -1,0 +1,297 @@
+{
+  "id": "weltgelchichte00altegoog",
+  "title": "Weltgelchichte",
+  "year": 1884,
+  "manifest": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog/manifest.json",
+  "lines": [
+    {
+      "id": "02455953",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$20/343,3777,2620,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$20/345,3679,2619,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$20/347,3874,2615,83/full/0/default.png"
+    },
+    {
+      "id": "b3fec51e",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$62/387,1779,1929,81/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$62/387,1680,1931,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$62/387,1878,1930,80/full/0/default.png"
+    },
+    {
+      "id": "176f1308",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$67/593,2928,2615,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$67/593,2831,2615,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$67/591,3026,2619,85/full/0/default.png"
+    },
+    {
+      "id": "ebef9825",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$91/561,4629,2621,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$91/563,4532,2615,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$92/472,218,363,17/full/0/default.png"
+    },
+    {
+      "id": "da970b42",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$101/645,2070,2615,80/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$101/822,1971,2439,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$101/645,2167,2613,83/full/0/default.png"
+    },
+    {
+      "id": "ef82f937",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$119/569,4011,2629,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$119/569,3913,2623,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$119/568,4109,2628,85/full/0/default.png"
+    },
+    {
+      "id": "d70aeca4",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$137/600,3446,2622,82/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$137/595,3347,2629,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$137/599,3630,2625,86/full/0/default.png"
+    },
+    {
+      "id": "2761d1dc",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$140/279,2655,1573,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$140/279,2555,2622,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$140/459,2759,2443,83/full/0/default.png"
+    },
+    {
+      "id": "f4e65bb0",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$141/641,1267,2627,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$141/640,1168,2630,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$141/640,1366,2630,82/full/0/default.png"
+    },
+    {
+      "id": "887c58e3",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$141/642,1853,2628,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$141/643,1757,2629,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$141/641,1950,2627,83/full/0/default.png"
+    },
+    {
+      "id": "43caa59a",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$162/353,3581,2622,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$162/353,3483,2623,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$162/351,3679,2623,82/full/0/default.png"
+    },
+    {
+      "id": "fb885937",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$176/372,3625,2631,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$176/373,3529,2628,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$176/373,3723,2627,84/full/0/default.png"
+    },
+    {
+      "id": "fb178f5d",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$188/309,2427,2616,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$188/307,2330,2617,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$188/307,2526,2618,84/full/0/default.png"
+    },
+    {
+      "id": "b3da66cf",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$203/243,999,659,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$203/243,975,656,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$203/243,1023,658,21/full/0/default.png"
+    },
+    {
+      "id": "83a1bfc8",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$205/254,451,654,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$205/253,426,654,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$205/252,475,655,22/full/0/default.png"
+    },
+    {
+      "id": "433b78bb",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$245/602,1754,2631,82/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$245/603,1657,2627,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$245/600,1848,2630,86/full/0/default.png"
+    },
+    {
+      "id": "ee5a6bc6",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$246/331,709,2615,81/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$246/332,611,2612,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$246/329,806,2613,84/full/0/default.png"
+    },
+    {
+      "id": "713ced91",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$256/305,2265,2618,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$256/307,2167,2617,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$256/301,2363,2623,83/full/0/default.png"
+    },
+    {
+      "id": "6baab794",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$270/334,3515,2614,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$270/334,3418,2616,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$270/333,3614,2614,82/full/0/default.png"
+    },
+    {
+      "id": "d5d32b3a",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$306/182,742,302,20/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$306/181,709,303,28/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$306/181,766,303,21/full/0/default.png"
+    },
+    {
+      "id": "86399c42",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$307/232,1221,655,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$307/232,1190,656,27/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$307/232,1245,657,21/full/0/default.png"
+    },
+    {
+      "id": "3ab3baa2",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$379/621,1381,2609,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$379/799,1283,2429,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$379/621,1478,2609,84/full/0/default.png"
+    },
+    {
+      "id": "08b35f9c",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$436/397,3861,2621,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$436/397,3763,2618,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$436/399,3953,2617,89/full/0/default.png"
+    },
+    {
+      "id": "95a58af9",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$443/236,294,655,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$443/236,263,654,28/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$443/236,319,655,20/full/0/default.png"
+    },
+    {
+      "id": "77fc2957",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$507/243,243,652,20/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$507/243,202,598,18/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$507/242,267,653,21/full/0/default.png"
+    },
+    {
+      "id": "a801881b",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$508/395,1855,2611,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$508/396,1757,2610,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$508/394,1954,2611,82/full/0/default.png"
+    },
+    {
+      "id": "088787b0",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$516/363,3367,2609,82/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$516/361,3269,2611,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$516/361,3465,2612,82/full/0/default.png"
+    },
+    {
+      "id": "d4434924",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$538/324,4690,2642,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$538/323,4592,2641,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$538/479,4804,2061,48/full/0/default.png"
+    },
+    {
+      "id": "04c248c2",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$540/313,4591,2622,81/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$540/315,4491,2619,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$540/316,4687,2616,85/full/0/default.png"
+    },
+    {
+      "id": "aabe46f1",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$543/604,1489,2620,82/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$543/601,1389,2621,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$543/603,1585,2617,85/full/0/default.png"
+    },
+    {
+      "id": "fc57bae7",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$590/246,4378,2615,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$590/244,4260,2616,105/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$590/245,4478,2612,82/full/0/default.png"
+    },
+    {
+      "id": "7ea3174e",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$592/264,3595,2614,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$592/261,3499,2615,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$592/265,3695,2614,91/full/0/default.png"
+    },
+    {
+      "id": "e0e8e39f",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$592/271,4478,2609,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$592/270,4380,2610,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$592/271,4575,2611,84/full/0/default.png"
+    },
+    {
+      "id": "14efdb3d",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$637/629,4485,2605,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$637/629,4382,2603,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$637/630,4581,2604,83/full/0/default.png"
+    },
+    {
+      "id": "d91a6ff8",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$657/251,524,654,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$657/251,500,654,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$657/251,549,655,20/full/0/default.png"
+    },
+    {
+      "id": "909c7f13",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$705/627,1151,2619,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$705/629,1053,2617,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$705/627,1249,2617,83/full/0/default.png"
+    },
+    {
+      "id": "6cc667d5",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$714/174,709,481,20/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$714/175,684,653,20/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$714/174,733,480,20/full/0/default.png"
+    },
+    {
+      "id": "baee804c",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$714/172,1045,655,26/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$714/171,1025,656,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$714/172,1074,655,21/full/0/default.png"
+    },
+    {
+      "id": "3d5e0b1a",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$719/649,1324,2613,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$719/649,1219,2613,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$719/649,1421,2615,84/full/0/default.png"
+    },
+    {
+      "id": "b3bf33b3",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$737/613,1255,2619,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$737/611,1157,2623,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$737/611,1353,2625,81/full/0/default.png"
+    },
+    {
+      "id": "e38eb8dd",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$791/577,4143,2611,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$791/577,4045,2611,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$791/578,4245,1210,81/full/0/default.png"
+    },
+    {
+      "id": "318d88bc",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$810/397,3073,283,57/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$810/806,2983,2130,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$810/806,3073,519,60/full/0/default.png"
+    },
+    {
+      "id": "2337b9a9",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$810/806,3696,716,70/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$810/805,3607,1475,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$810/804,3785,1704,71/full/0/default.png"
+    },
+    {
+      "id": "e34a1554",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$817/593,4477,1225,54/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$817/593,4424,1226,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$817/593,4530,925,56/full/0/default.png"
+    },
+    {
+      "id": "2a62c732",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$817/1944,693,1222,56/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$817/1943,641,1224,62/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$817/1978,747,1189,59/full/0/default.png"
+    },
+    {
+      "id": "2e8cf71c",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$823/1869,4523,1277,49/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$823/1868,4461,531,51/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$823/1921,4577,1228,51/full/0/default.png"
+    },
+    {
+      "id": "80fb9792",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$828/1875,2275,1157,59/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$828/1751,2214,1281,55/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$828/1873,2340,259,50/full/0/default.png"
+    },
+    {
+      "id": "005b899d",
+      "line": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$829/501,3127,1075,55/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$829/503,3064,1012,52/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/weltgelchichte00altegoog$829/502,3189,1280,51/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

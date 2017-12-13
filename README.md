@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2575 lines from 70 works
-published across 55 years. Detailed statistics are available below.
+Currently the corpus contains 2623 lines from 71 works
+published across 56 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -21,7 +21,7 @@ published across 55 years. Detailed statistics are available below.
 |   1850 |     274 |
 |   1860 |     321 |
 |   1870 |     227 |
-|   1880 |     272 |
+|   1880 |     320 |
 |   1890 |     285 |
 
 
@@ -75,6 +75,7 @@ published across 55 years. Detailed statistics are available below.
 | 1879 |      20 |
 | 1881 |      50 |
 | 1883 |      10 |
+| 1884 |      48 |
 | 1886 |      96 |
 | 1887 |      66 |
 | 1888 |      50 |
@@ -148,6 +149,7 @@ published across 55 years. Detailed statistics are available below.
 | Die Musik im heutigen Italien                                                                                                                                                              | 1879 | [diemusikimheuti00conrgoog](http://archive.org/details/diemusikimheuti00conrgoog) | [Manifest](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog) |
 | Geschichte der Deutschen bis zur höchsten Machtentfaltung des Römisch ...                                                                                                                  | 1881 | [geschichtederde00bessgoog](http://archive.org/details/geschichtederde00bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederde00bessgoog) |
 | Elsass-lothringen                                                                                                                                                                          | 1883 | [elsasslothringe00hottgoog](http://archive.org/details/elsasslothringe00hottgoog) | [Manifest](https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsasslothringe00hottgoog) |
+| Weltgelchichte                                                                                                                                                                             | 1884 | [weltgelchichte00altegoog](http://archive.org/details/weltgelchichte00altegoog)   | [Manifest](https://iiif.archivelab.org/iiif/weltgelchichte00altegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/weltgelchichte00altegoog)   |
 | Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
 | Grosse Unterricht Lehre: Mit einer Einleitung j. Comenius sein Leven und wirken                                                                                                            | 1886 | [grosseunterrich00lindgoog](http://archive.org/details/grosseunterrich00lindgoog) | [Manifest](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog) |
 | Das Lügen: Lustspiel in drei Aufzügen                                                                                                                                                      | 1887 | [daslgenlustspie00benegoog](http://archive.org/details/daslgenlustspie00benegoog) | [Manifest](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog) |

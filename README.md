@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2525 lines from 69 works
+Currently the corpus contains 2575 lines from 70 works
 published across 55 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -22,7 +22,7 @@ published across 55 years. Detailed statistics are available below.
 |   1860 |     321 |
 |   1870 |     227 |
 |   1880 |     272 |
-|   1890 |     235 |
+|   1890 |     285 |
 
 
 ## Statistics: Years
@@ -83,7 +83,7 @@ published across 55 years. Detailed statistics are available below.
 | 1893 |      20 |
 | 1894 |      25 |
 | 1895 |      50 |
-| 1897 |      50 |
+| 1897 |     100 |
 
 
 ## Statistics: Works
@@ -124,8 +124,8 @@ published across 55 years. Detailed statistics are available below.
 | Morgenblatt für gebildete Leser 1844                                                                                                                                                       | 1844 | [bub_gb_53ZEAAAAcAAJ](http://archive.org/details/bub_gb_53ZEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ)             |
 | Briefe aus und über Nordamerika; oder, Beiträge zu einer richtigen Kenntniss der Vereinigten ...                                                                                           | 1847 | [briefeausundber02btgoog](http://archive.org/details/briefeausundber02btgoog)     | [Manifest](https://iiif.archivelab.org/iiif/briefeausundber02btgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/briefeausundber02btgoog)     |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
-| Zeitschrift für Philosophie und spekulative Theologie [afterw.] und ...                                                                                                                    | 1848 | [zeitschriftfrph29kritgoog](http://archive.org/details/zeitschriftfrph29kritgoog) | [Manifest](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog) |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
+| Zeitschrift für Philosophie und spekulative Theologie [afterw.] und ...                                                                                                                    | 1848 | [zeitschriftfrph29kritgoog](http://archive.org/details/zeitschriftfrph29kritgoog) | [Manifest](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog) |
 | Macchiavel, Montesquieu, Rousseau Macchiavel und Montesquieu                                                                                                                               | 1850 | [bub_gb_niZMAAAAcAAJ](http://archive.org/details/bub_gb_niZMAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ)             |
 | SchleswigHolstein's FreiheitsKampf im 13. Jahrhundert; oder der Tag von Bornhöved Historischer Roman                                                                                       | 1851 | [bub_gb_Lz87AAAAcAAJ](http://archive.org/details/bub_gb_Lz87AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ)             |
 | Eppelein von Gailingen, und was sich seiner Zeit mit diesem ritterlichen Eulenspiegel und seinen Spießgesellen im Fränkischen zugetragen                                                   | 1852 | [bub_gb_gEo7AAAAcAAJ](http://archive.org/details/bub_gb_gEo7AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ)             |
@@ -159,4 +159,5 @@ published across 55 years. Detailed statistics are available below.
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     | 1894 | [dieforstlichenv02hagegoog](http://archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |
 | Kurzgefasste Geschichte und Glaubenslehre der altevangelischen Taufgesinnten ...                                                                                                           | 1895 | [kurzgefassteges00risgoog](http://archive.org/details/kurzgefassteges00risgoog)   | [Manifest](https://iiif.archivelab.org/iiif/kurzgefassteges00risgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/kurzgefassteges00risgoog)   |
 | Allgemeine Kulturgeschichte von der Urzeit bis auf die Gegenwart                                                                                                                           | 1897 | [allgemeinekultu12rhyngoog](http://archive.org/details/allgemeinekultu12rhyngoog) | [Manifest](https://iiif.archivelab.org/iiif/allgemeinekultu12rhyngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/allgemeinekultu12rhyngoog) |
+| Die völkerrechtliche Legitimation der Seeschiffe unter besonderer ...                                                                                                                      | 1897 | [dievlkerrechtli00kroegoog](http://archive.org/details/dievlkerrechtli00kroegoog) | [Manifest](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog) |
 

@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2773 lines from 74 works
+Currently the corpus contains 2822 lines from 75 works
 published across 58 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -15,7 +15,7 @@ published across 58 years. Detailed statistics are available below.
 |--------|---------|
 |   1800 |     252 |
 |   1810 |     229 |
-|   1820 |     275 |
+|   1820 |     324 |
 |   1830 |     247 |
 |   1840 |     193 |
 |   1850 |     274 |
@@ -41,7 +41,7 @@ published across 58 years. Detailed statistics are available below.
 | 1822 |       3 |
 | 1823 |      66 |
 | 1824 |      50 |
-| 1825 |      50 |
+| 1825 |      99 |
 | 1827 |      56 |
 | 1829 |      50 |
 | 1830 |      45 |
@@ -111,6 +111,7 @@ published across 58 years. Detailed statistics are available below.
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
 | Jenaische allgemeine Literatur-Zeitung. Jahrg. 1-[38. With] Intelligenzblatt ...                                                                                                           | 1823 | [jenaischeallgem05unkngoog](http://archive.org/details/jenaischeallgem05unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog) |
 | MilitärWochenblatt Unabhängige Zeitschrift für die deutsche Wehrmacht                                                                                                                      | 1824 | [bub_gb_nL5FAAAAcAAJ](http://archive.org/details/bub_gb_nL5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ)             |
+| Protokolle der deutschen Bundesversammlung                                                                                                                                                 | 1825 | [protokollederde10bundgoog](http://archive.org/details/protokollederde10bundgoog) | [Manifest](https://iiif.archivelab.org/iiif/protokollederde10bundgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/protokollederde10bundgoog) |
 | Die Harzburg und ihre Geschichte: mit 5 Abbildungen                                                                                                                                        | 1825 | [dieharzburgundi00leongoog](http://archive.org/details/dieharzburgundi00leongoog) | [Manifest](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog) |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Sämmtliche Schriften                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
@@ -165,6 +166,6 @@ published across 58 years. Detailed statistics are available below.
 | Aus dem Leben König Karls von Rumänien: Aufzeichnungen eines Augenzeugen...                                                                                                                | 1894 | [ausdemlebenknig03kremgoog](http://archive.org/details/ausdemlebenknig03kremgoog) | [Manifest](https://iiif.archivelab.org/iiif/ausdemlebenknig03kremgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ausdemlebenknig03kremgoog) |
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     | 1894 | [dieforstlichenv02hagegoog](http://archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |
 | Kurzgefasste Geschichte und Glaubenslehre der altevangelischen Taufgesinnten ...                                                                                                           | 1895 | [kurzgefassteges00risgoog](http://archive.org/details/kurzgefassteges00risgoog)   | [Manifest](https://iiif.archivelab.org/iiif/kurzgefassteges00risgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/kurzgefassteges00risgoog)   |
-| Die völkerrechtliche Legitimation der Seeschiffe unter besonderer ...                                                                                                                      | 1897 | [dievlkerrechtli00kroegoog](http://archive.org/details/dievlkerrechtli00kroegoog) | [Manifest](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog) |
 | Allgemeine Kulturgeschichte von der Urzeit bis auf die Gegenwart                                                                                                                           | 1897 | [allgemeinekultu12rhyngoog](http://archive.org/details/allgemeinekultu12rhyngoog) | [Manifest](https://iiif.archivelab.org/iiif/allgemeinekultu12rhyngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/allgemeinekultu12rhyngoog) |
+| Die völkerrechtliche Legitimation der Seeschiffe unter besonderer ...                                                                                                                      | 1897 | [dievlkerrechtli00kroegoog](http://archive.org/details/dievlkerrechtli00kroegoog) | [Manifest](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog) |
 

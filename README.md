@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2723 lines from 73 works
+Currently the corpus contains 2773 lines from 74 works
 published across 58 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -22,7 +22,7 @@ published across 58 years. Detailed statistics are available below.
 |   1860 |     321 |
 |   1870 |     327 |
 |   1880 |     320 |
-|   1890 |     285 |
+|   1890 |     335 |
 
 
 ## Statistics: Years
@@ -84,7 +84,7 @@ published across 58 years. Detailed statistics are available below.
 | 1890 |      40 |
 | 1892 |      50 |
 | 1893 |      20 |
-| 1894 |      25 |
+| 1894 |      75 |
 | 1895 |      50 |
 | 1897 |     100 |
 
@@ -156,12 +156,13 @@ published across 58 years. Detailed statistics are available below.
 | Weltgelchichte                                                                                                                                                                             | 1884 | [weltgelchichte00altegoog](http://archive.org/details/weltgelchichte00altegoog)   | [Manifest](https://iiif.archivelab.org/iiif/weltgelchichte00altegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/weltgelchichte00altegoog)   |
 | Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
 | Grosse Unterricht Lehre: Mit einer Einleitung j. Comenius sein Leven und wirken                                                                                                            | 1886 | [grosseunterrich00lindgoog](http://archive.org/details/grosseunterrich00lindgoog) | [Manifest](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog) |
-| Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Das Lügen: Lustspiel in drei Aufzügen                                                                                                                                                      | 1887 | [daslgenlustspie00benegoog](http://archive.org/details/daslgenlustspie00benegoog) | [Manifest](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog) |
+| Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Die deutsche Renaissance-lyrik                                                                                                                                                             | 1888 | [diedeutscherena00waldgoog](http://archive.org/details/diedeutscherena00waldgoog) | [Manifest](https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                    | 1890 | [deutscheliterat01wencgoog](http://archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
 | Erkenntnisse des K.k. Verwaltungsgerichtshofes                                                                                                                                             | 1892 | [erkenntnissedes00unkngoog](http://archive.org/details/erkenntnissedes00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog) |
 | Deutsche Kolonialzeitung                                                                                                                                                                   | 1893 | [deutschekolonia00unkngoog](http://archive.org/details/deutschekolonia00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutschekolonia00unkngoog) |
+| Aus dem Leben König Karls von Rumänien: Aufzeichnungen eines Augenzeugen...                                                                                                                | 1894 | [ausdemlebenknig03kremgoog](http://archive.org/details/ausdemlebenknig03kremgoog) | [Manifest](https://iiif.archivelab.org/iiif/ausdemlebenknig03kremgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ausdemlebenknig03kremgoog) |
 | Die forstlichen Verhaltnisse Preussens                                                                                                                                                     | 1894 | [dieforstlichenv02hagegoog](http://archive.org/details/dieforstlichenv02hagegoog) | [Manifest](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieforstlichenv02hagegoog) |
 | Kurzgefasste Geschichte und Glaubenslehre der altevangelischen Taufgesinnten ...                                                                                                           | 1895 | [kurzgefassteges00risgoog](http://archive.org/details/kurzgefassteges00risgoog)   | [Manifest](https://iiif.archivelab.org/iiif/kurzgefassteges00risgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/kurzgefassteges00risgoog)   |
 | Die völkerrechtliche Legitimation der Seeschiffe unter besonderer ...                                                                                                                      | 1897 | [dievlkerrechtli00kroegoog](http://archive.org/details/dievlkerrechtli00kroegoog) | [Manifest](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dievlkerrechtli00kroegoog) |

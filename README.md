@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2872 lines from 76 works
-published across 58 years. Detailed statistics are available below.
+Currently the corpus contains 2922 lines from 77 works
+published across 59 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -17,7 +17,7 @@ published across 58 years. Detailed statistics are available below.
 |   1810 |     229 |
 |   1820 |     324 |
 |   1830 |     247 |
-|   1840 |     193 |
+|   1840 |     243 |
 |   1850 |     324 |
 |   1860 |     321 |
 |   1870 |     327 |
@@ -54,6 +54,7 @@ published across 58 years. Detailed statistics are available below.
 | 1844 |      47 |
 | 1847 |      50 |
 | 1848 |      30 |
+| 1849 |      50 |
 | 1850 |     100 |
 | 1851 |      49 |
 | 1852 |      50 |
@@ -130,8 +131,9 @@ published across 58 years. Detailed statistics are available below.
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Zeitschrift für Philosophie und spekulative Theologie [afterw.] und ...                                                                                                                    | 1848 | [zeitschriftfrph29kritgoog](http://archive.org/details/zeitschriftfrph29kritgoog) | [Manifest](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog) |
-| Macchiavel, Montesquieu, Rousseau Macchiavel und Montesquieu                                                                                                                               | 1850 | [bub_gb_niZMAAAAcAAJ](http://archive.org/details/bub_gb_niZMAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ)             |
+| Darstellung der Quellen und der Literatur der österreichischen Strafgesetzgebung über Verbrechen, mit Rücksicht auf die deutsche Strafrechtswissenschaft und Gesetzgebung                  | 1849 | [bub_gb_J7xLAAAAcAAJ](http://archive.org/details/bub_gb_J7xLAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_J7xLAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_J7xLAAAAcAAJ)             |
 | Pragmatische Erzählung der kirchlichen Ereignisse in der katholischen Schweiz                                                                                                              | 1850 | [bub_gb_saYPAAAAQAAJ](http://archive.org/details/bub_gb_saYPAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_saYPAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_saYPAAAAQAAJ)             |
+| Macchiavel, Montesquieu, Rousseau Macchiavel und Montesquieu                                                                                                                               | 1850 | [bub_gb_niZMAAAAcAAJ](http://archive.org/details/bub_gb_niZMAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ)             |
 | SchleswigHolstein's FreiheitsKampf im 13. Jahrhundert; oder der Tag von Bornhöved Historischer Roman                                                                                       | 1851 | [bub_gb_Lz87AAAAcAAJ](http://archive.org/details/bub_gb_Lz87AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Lz87AAAAcAAJ)             |
 | Eppelein von Gailingen, und was sich seiner Zeit mit diesem ritterlichen Eulenspiegel und seinen Spießgesellen im Fränkischen zugetragen                                                   | 1852 | [bub_gb_gEo7AAAAcAAJ](http://archive.org/details/bub_gb_gEo7AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_gEo7AAAAcAAJ)             |
 | Archiv für Geschichte und Altertumskunde von Oberfranken                                                                                                                                   | 1853 | [bub_gb_LbhAAAAAcAAJ](http://archive.org/details/bub_gb_LbhAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ)             |

@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2673 lines from 72 works
-published across 57 years. Detailed statistics are available below.
+Currently the corpus contains 2723 lines from 73 works
+published across 58 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -20,7 +20,7 @@ published across 57 years. Detailed statistics are available below.
 |   1840 |     193 |
 |   1850 |     274 |
 |   1860 |     321 |
-|   1870 |     277 |
+|   1870 |     327 |
 |   1880 |     320 |
 |   1890 |     285 |
 
@@ -71,6 +71,7 @@ published across 57 years. Detailed statistics are available below.
 | 1872 |      49 |
 | 1874 |      60 |
 | 1875 |      50 |
+| 1876 |      50 |
 | 1877 |      50 |
 | 1878 |      48 |
 | 1879 |      20 |
@@ -146,6 +147,7 @@ published across 57 years. Detailed statistics are available below.
 | Historisches Taschenbuch                                                                                                                                                                   | 1874 | [bub_gb_qGYMAAAAYAAJ](http://archive.org/details/bub_gb_qGYMAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ)             |
 | Geschichte der Herzogthümer Troppau und Jägerndorf                                                                                                                                         | 1874 | [geschichtederhe00biergoog](http://archive.org/details/geschichtederhe00biergoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederhe00biergoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederhe00biergoog) |
 | Der Leipziger baumeister Hieronymus Lotter, 14971580...                                                                                                                                    | 1875 | [bub_gb_89FEAAAAYAAJ](http://archive.org/details/bub_gb_89FEAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_89FEAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_89FEAAAAYAAJ)             |
+| Geschichte der preussischen Politik                                                                                                                                                        | 1876 | [geschichtederpr08droygoog](http://archive.org/details/geschichtederpr08droygoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederpr08droygoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederpr08droygoog) |
 | Goethe-briefe aus Fritz Schlossers Nachlass                                                                                                                                                | 1877 | [goethebriefeaus00unkngoog](http://archive.org/details/goethebriefeaus00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog) |
 | Um die Erde: Reiseskizzen von der Erdumseglung mit S.M. Corvette "Erzherzog Friedrich" in den ...                                                                                          | 1878 | [umdieerdereises00lehngoog](http://archive.org/details/umdieerdereises00lehngoog) | [Manifest](https://iiif.archivelab.org/iiif/umdieerdereises00lehngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/umdieerdereises00lehngoog) |
 | Die Musik im heutigen Italien                                                                                                                                                              | 1879 | [diemusikimheuti00conrgoog](http://archive.org/details/diemusikimheuti00conrgoog) | [Manifest](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diemusikimheuti00conrgoog) |

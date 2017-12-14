@@ -1,0 +1,309 @@
+{
+  "id": "goethebriefeaus00unkngoog",
+  "title": "Goethe-briefe aus Fritz Schlossers Nachlass",
+  "year": 1877,
+  "manifest": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog/manifest.json",
+  "lines": [
+    {
+      "id": "a46f689c",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$16/527,2887,2336,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$16/523,2757,2336,110/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$16/523,2992,2339,84/full/0/default.png"
+    },
+    {
+      "id": "a6e5e8f8",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$22/493,2901,2345,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$22/493,2795,2352,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$22/492,3007,2350,87/full/0/default.png"
+    },
+    {
+      "id": "979a90ce",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$23/651,2459,2350,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$23/652,2354,2353,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$23/651,2567,2356,88/full/0/default.png"
+    },
+    {
+      "id": "af2b4611",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$30/514,1550,2356,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$30/516,1444,2356,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$30/517,1656,2355,85/full/0/default.png"
+    },
+    {
+      "id": "6ebd54f7",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$30/509,3958,2353,123/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$30/509,3886,2348,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$30/508,4101,2352,90/full/0/default.png"
+    },
+    {
+      "id": "71dc7455",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$34/427,3353,2352,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$34/425,3245,2357,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$34/430,3459,2352,85/full/0/default.png"
+    },
+    {
+      "id": "ce18e7e2",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$40/1022,2220,1364,138/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$39/679,3395,494,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$40/1414,2458,578,110/full/0/default.png"
+    },
+    {
+      "id": "c9231c9d",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$47/638,2087,2353,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$47/636,1981,2356,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$47/639,2194,2353,88/full/0/default.png"
+    },
+    {
+      "id": "8061154f",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$54/1007,2223,564,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$54/898,2099,788,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$54/656,2419,2169,85/full/0/default.png"
+    },
+    {
+      "id": "9ca73fde",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$54/478,4075,2348,75/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$54/476,3987,2351,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$54/486,4142,2340,96/full/0/default.png"
+    },
+    {
+      "id": "a916c2d3",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$63/662,764,2358,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$63/662,657,2372,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$63/662,869,1534,91/full/0/default.png"
+    },
+    {
+      "id": "1c60cc60",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$63/845,2146,2187,92/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$63/663,2042,865,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$63/666,2253,2359,89/full/0/default.png"
+    },
+    {
+      "id": "45063238",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$67/869,4069,2174,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$67/689,3962,2202,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$67/685,4175,2355,90/full/0/default.png"
+    },
+    {
+      "id": "c37737e0",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$69/709,2560,2355,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$69/891,2452,2169,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$69/707,2667,2355,85/full/0/default.png"
+    },
+    {
+      "id": "82e9aa2b",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$69/710,3831,2348,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$69/887,3727,2170,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$69/711,3940,2345,87/full/0/default.png"
+    },
+    {
+      "id": "5cfe2114",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$72/1467,2158,418,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$72/497,2011,633,56/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$72/683,2317,2166,86/full/0/default.png"
+    },
+    {
+      "id": "f66fb6a8",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$72/507,3171,278,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$72/509,3063,2346,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$72/622,4513,532,58/full/0/default.png"
+    },
+    {
+      "id": "5cda4d7c",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$73/663,3405,2360,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$73/659,3299,2365,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$73/660,3511,2362,88/full/0/default.png"
+    },
+    {
+      "id": "04d32ad4",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$74/679,906,256,67/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$74/451,799,651,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$74/545,1006,2110,88/full/0/default.png"
+    },
+    {
+      "id": "1ae67698",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$79/629,1899,2363,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$79/628,1793,2363,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$79/631,2005,2358,87/full/0/default.png"
+    },
+    {
+      "id": "119ad8ac",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$82/663,3302,2177,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$82/484,3195,2248,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$82/483,3407,2359,89/full/0/default.png"
+    },
+    {
+      "id": "436d02f3",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$86/483,1887,2349,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$86/483,1781,2344,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$86/479,1993,2350,88/full/0/default.png"
+    },
+    {
+      "id": "a6225b98",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$89/852,2987,611,81/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$89/980,2879,1866,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$89/819,3103,2209,97/full/0/default.png"
+    },
+    {
+      "id": "b1d52418",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$90/1453,515,439,65/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$89/687,4351,1871,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$90/683,708,2165,86/full/0/default.png"
+    },
+    {
+      "id": "d77abc43",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$90/509,1771,1506,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$90/507,1642,2349,110/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$90/693,1898,519,85/full/0/default.png"
+    },
+    {
+      "id": "b886841c",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$107/660,1254,2344,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$107/660,1146,2352,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$107/658,1357,2353,90/full/0/default.png"
+    },
+    {
+      "id": "0253c0eb",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$112/628,3989,2208,75/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$112/455,3717,1726,97/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$112/462,4079,2371,73/full/0/default.png"
+    },
+    {
+      "id": "0880e4ab",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$113/663,3762,311,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$113/661,3672,2343,76/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$114/1406,528,442,64/full/0/default.png"
+    },
+    {
+      "id": "beb36f92",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$117/641,4309,2350,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$117/645,4213,2347,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$117/644,4406,2348,87/full/0/default.png"
+    },
+    {
+      "id": "470b1869",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$118/486,2929,2350,83/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$118/486,2831,2353,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$118/487,3025,2349,84/full/0/default.png"
+    },
+    {
+      "id": "11a61925",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$136/644,1424,2174,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$136/467,1319,1773,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$136/471,1952,1443,56/full/0/default.png"
+    },
+    {
+      "id": "63b555ab",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$136/479,2825,2355,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$136/477,2717,2355,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$136/481,2931,2352,90/full/0/default.png"
+    },
+    {
+      "id": "e324e2f3",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$139/667,2759,2348,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$139/667,2653,2346,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$139/663,2866,2351,88/full/0/default.png"
+    },
+    {
+      "id": "08a13341",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$139/663,2866,2351,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$139/667,2759,2348,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$139/665,2973,2121,86/full/0/default.png"
+    },
+    {
+      "id": "911ce3cc",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$151/642,1615,1110,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$151/641,1509,2354,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$151/1285,1836,966,63/full/0/default.png"
+    },
+    {
+      "id": "023fac1b",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$157/630,4010,2345,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$157/629,3912,2348,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$157/632,4110,2346,84/full/0/default.png"
+    },
+    {
+      "id": "ee0d1e80",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$158/516,3055,2340,80/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$158/672,2955,2189,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$158/515,3153,2345,82/full/0/default.png"
+    },
+    {
+      "id": "10fd1f0c",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$158/515,3543,2343,80/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$158/515,3444,2344,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$158/515,3637,2340,84/full/0/default.png"
+    },
+    {
+      "id": "ffa337e9",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$159/623,1377,2349,81/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$159/786,1279,2185,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$159/622,1451,2350,106/full/0/default.png"
+    },
+    {
+      "id": "f68ca73f",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$163/717,3004,2339,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$163/717,2896,2339,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$163/719,3108,2337,88/full/0/default.png"
+    },
+    {
+      "id": "a0397ff3",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$166/566,1107,2162,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$166/385,896,1582,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$166/388,1213,2338,86/full/0/default.png"
+    },
+    {
+      "id": "875feaec",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$167/767,2327,2344,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$167/937,2222,2173,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$167/766,2435,421,82/full/0/default.png"
+    },
+    {
+      "id": "50c74ca8",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$168/561,3669,921,57/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$168/668,3584,700,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$168/635,3831,2209,72/full/0/default.png"
+    },
+    {
+      "id": "3268dd66",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$169/692,2742,2356,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$169/691,2636,2355,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$169/692,2844,2356,89/full/0/default.png"
+    },
+    {
+      "id": "bbc9629e",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$173/873,3747,2209,74/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$173/912,3537,433,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$173/731,3837,2354,74/full/0/default.png"
+    },
+    {
+      "id": "c1a949fb",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$175/1093,4253,770,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$175/845,4076,385,80/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$176/681,993,2165,85/full/0/default.png"
+    },
+    {
+      "id": "1a497480",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$177/708,792,2342,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$177/707,685,2339,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$177/711,897,2339,87/full/0/default.png"
+    },
+    {
+      "id": "4d735312",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$179/754,4265,2202,75/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$179/613,4089,2343,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$179/611,4355,2345,73/full/0/default.png"
+    },
+    {
+      "id": "80a97a9b",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$185/635,1752,2339,93/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$185/635,1650,2343,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$185/634,1865,1439,87/full/0/default.png"
+    },
+    {
+      "id": "715f97cd",
+      "line": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$187/665,1942,2344,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$187/842,1834,2167,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/goethebriefeaus00unkngoog$187/667,2046,1940,87/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

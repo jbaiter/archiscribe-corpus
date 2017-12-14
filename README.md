@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 2922 lines from 77 works
+Currently the corpus contains 2972 lines from 78 works
 published across 59 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -17,7 +17,7 @@ published across 59 years. Detailed statistics are available below.
 |   1810 |     229 |
 |   1820 |     324 |
 |   1830 |     247 |
-|   1840 |     243 |
+|   1840 |     293 |
 |   1850 |     324 |
 |   1860 |     321 |
 |   1870 |     327 |
@@ -53,7 +53,7 @@ published across 59 years. Detailed statistics are available below.
 | 1842 |      66 |
 | 1844 |      47 |
 | 1847 |      50 |
-| 1848 |      30 |
+| 1848 |      80 |
 | 1849 |      50 |
 | 1850 |     100 |
 | 1851 |      49 |
@@ -114,8 +114,8 @@ published across 59 years. Detailed statistics are available below.
 | MilitärWochenblatt Unabhängige Zeitschrift für die deutsche Wehrmacht                                                                                                                      | 1824 | [bub_gb_nL5FAAAAcAAJ](http://archive.org/details/bub_gb_nL5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ)             |
 | Die Harzburg und ihre Geschichte: mit 5 Abbildungen                                                                                                                                        | 1825 | [dieharzburgundi00leongoog](http://archive.org/details/dieharzburgundi00leongoog) | [Manifest](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog) |
 | Protokolle der deutschen Bundesversammlung                                                                                                                                                 | 1825 | [protokollederde10bundgoog](http://archive.org/details/protokollederde10bundgoog) | [Manifest](https://iiif.archivelab.org/iiif/protokollederde10bundgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/protokollederde10bundgoog) |
-| Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Sämmtliche Schriften                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
+| Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...                                                                                                                | 1829 | [reisedurchdasal04ledegoog](http://archive.org/details/reisedurchdasal04ledegoog) | [Manifest](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog) |
 | Das alte Indien, mit besonderer Rücksicht auf Aegypten                                                                                                                                     | 1830 | [dasalteindienmi00bohlgoog](http://archive.org/details/dasalteindienmi00bohlgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog) |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |
@@ -128,6 +128,7 @@ published across 59 years. Detailed statistics are available below.
 | Elsässisches Sagenbuch                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
 | Morgenblatt für gebildete Leser 1844                                                                                                                                                       | 1844 | [bub_gb_53ZEAAAAcAAJ](http://archive.org/details/bub_gb_53ZEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ)             |
 | Briefe aus und über Nordamerika; oder, Beiträge zu einer richtigen Kenntniss der Vereinigten ...                                                                                           | 1847 | [briefeausundber02btgoog](http://archive.org/details/briefeausundber02btgoog)     | [Manifest](https://iiif.archivelab.org/iiif/briefeausundber02btgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/briefeausundber02btgoog)     |
+| Populäre Briefe an eine gebildete Dame über die gesammten Gebiete der Naturwissenschaften                                                                                                  | 1848 | [bub_gb_GBE5AAAAcAAJ](http://archive.org/details/bub_gb_GBE5AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_GBE5AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_GBE5AAAAcAAJ)             |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Zeitschrift für Philosophie und spekulative Theologie [afterw.] und ...                                                                                                                    | 1848 | [zeitschriftfrph29kritgoog](http://archive.org/details/zeitschriftfrph29kritgoog) | [Manifest](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/zeitschriftfrph29kritgoog) |

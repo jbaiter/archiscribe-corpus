@@ -1,0 +1,69 @@
+{
+  "id": "bub_gb_CWT4uVeV8dAC",
+  "title": "Lustspiele von Dr. Carl Toepfer ",
+  "year": 1843,
+  "manifest": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC/manifest.json",
+  "lines": [
+    {
+      "id": "3d5ebb3d",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$40/195,575,957,48/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$40/196,514,926,48/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$40/195,635,890,50/full/0/default.png"
+    },
+    {
+      "id": "4c4b6651",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$46/166,528,782,51/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$46/230,468,893,49/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$46/165,591,801,48/full/0/default.png"
+    },
+    {
+      "id": "3bcfab38",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$56/160,844,973,52/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$56/162,783,971,56/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$56/160,906,815,51/full/0/default.png"
+    },
+    {
+      "id": "4924c720",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$66/168,725,817,50/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$66/168,664,923,47/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$66/167,787,889,48/full/0/default.png"
+    },
+    {
+      "id": "3f34b7e0",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$79/360,948,769,53/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$79/857,886,473,48/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$79/357,1010,850,51/full/0/default.png"
+    },
+    {
+      "id": "2a7a729e",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$103/449,934,641,51/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$103/597,827,393,54/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$103/377,1175,904,48/full/0/default.png"
+    },
+    {
+      "id": "2a809a22",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$169/311,1323,971,50/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$169/310,1260,973,52/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$169/312,1385,304,49/full/0/default.png"
+    },
+    {
+      "id": "270ccc68",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$198/96,1182,321,43/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$198/96,1116,975,49/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$198/420,1271,330,45/full/0/default.png"
+    },
+    {
+      "id": "c05ffe6f",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$409/332,1145,558,47/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$409/486,1080,654,39/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$409/394,1200,703,54/full/0/default.png"
+    },
+    {
+      "id": "64f532ee",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$506/241,628,494,48/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$506/173,509,414,49/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC$506/461,691,384,50/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

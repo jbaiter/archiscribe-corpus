@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3071 lines from 80 works
-published across 60 years. Detailed statistics are available below.
+Currently the corpus contains 3081 lines from 81 works
+published across 61 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -17,7 +17,7 @@ published across 60 years. Detailed statistics are available below.
 |   1810 |     328 |
 |   1820 |     324 |
 |   1830 |     247 |
-|   1840 |     293 |
+|   1840 |     303 |
 |   1850 |     324 |
 |   1860 |     321 |
 |   1870 |     327 |
@@ -52,6 +52,7 @@ published across 60 years. Detailed statistics are available below.
 | 1838 |      45 |
 | 1839 |      42 |
 | 1842 |      66 |
+| 1843 |      10 |
 | 1844 |      47 |
 | 1847 |      50 |
 | 1848 |      80 |
@@ -129,6 +130,7 @@ published across 60 years. Detailed statistics are available below.
 | Europäische Sittengeschichte vom Ursprunge volksthümlicher Gestaltungen bis auf unsere Zeit                                                                                                | 1839 | [europischesitte02fockgoog](http://archive.org/details/europischesitte02fockgoog) | [Manifest](https://iiif.archivelab.org/iiif/europischesitte02fockgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/europischesitte02fockgoog) |
 | Abriss einer vergleichenden Darstellung der indisch- persisch- und chinesischen Religions-systeme                                                                                          | 1842 | [abrisseinerverg00krgoog](http://archive.org/details/abrisseinerverg00krgoog)     | [Manifest](https://iiif.archivelab.org/iiif/abrisseinerverg00krgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/abrisseinerverg00krgoog)     |
 | Elsässisches Sagenbuch                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
+| Lustspiele von Dr. Carl Toepfer                                                                                                                                                            | 1843 | [bub_gb_CWT4uVeV8dAC](http://archive.org/details/bub_gb_CWT4uVeV8dAC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC)             |
 | Morgenblatt für gebildete Leser 1844                                                                                                                                                       | 1844 | [bub_gb_53ZEAAAAcAAJ](http://archive.org/details/bub_gb_53ZEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ)             |
 | Briefe aus und über Nordamerika; oder, Beiträge zu einer richtigen Kenntniss der Vereinigten ...                                                                                           | 1847 | [briefeausundber02btgoog](http://archive.org/details/briefeausundber02btgoog)     | [Manifest](https://iiif.archivelab.org/iiif/briefeausundber02btgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/briefeausundber02btgoog)     |
 | Populäre Briefe an eine gebildete Dame über die gesammten Gebiete der Naturwissenschaften                                                                                                  | 1848 | [bub_gb_GBE5AAAAcAAJ](http://archive.org/details/bub_gb_GBE5AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_GBE5AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_GBE5AAAAcAAJ)             |

@@ -1,0 +1,63 @@
+{
+  "id": "bub_gb_7bdEAAAAcAAJ",
+  "title": "IntelligenzBlatt und wöchentlicher Anzeiger der königlich baierischen Stadt Augsburg",
+  "year": 1827,
+  "manifest": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ/manifest.json",
+  "lines": [
+    {
+      "id": "4de58332",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$20/376,550,1508,100/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$20/644,332,940,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$20/882,780,443,61/full/0/default.png"
+    },
+    {
+      "id": "c7cb5738",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$27/589,2168,223,46/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$27/589,1977,226,50/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$27/587,2262,225,47/full/0/default.png"
+    },
+    {
+      "id": "587ef176",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$29/427,2661,1870,50/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$29/328,2567,1417,50/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$29/322,2708,1971,53/full/0/default.png"
+    },
+    {
+      "id": "35cfe097",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$33/337,1239,383,45/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$33/335,1189,387,46/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$33/337,1288,361,40/full/0/default.png"
+    },
+    {
+      "id": "95f7d215",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$43/387,1001,806,57/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$43/487,959,1863,54/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$43/433,1077,1915,51/full/0/default.png"
+    },
+    {
+      "id": "f6e9e9f5",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$46/169,1621,1963,62/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$46/164,1574,1975,62/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$46/167,1672,1969,56/full/0/default.png"
+    },
+    {
+      "id": "27a0f642",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$55/474,783,1871,54/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$55/371,741,976,50/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$55/377,833,1967,50/full/0/default.png"
+    },
+    {
+      "id": "62c14493",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$58/600,541,1392,106/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$58/1091,459,520,41/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$58/939,775,448,61/full/0/default.png"
+    },
+    {
+      "id": "3023a9b1",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$67/376,1218,1914,62/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$67/376,1175,1960,53/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ$67/470,1329,1860,52/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

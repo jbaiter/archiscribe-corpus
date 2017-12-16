@@ -6,15 +6,15 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3439 lines from 89 works
-published across 65 years. Detailed statistics are available below.
+Currently the corpus contains 3489 lines from 90 works
+published across 66 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
 | Decade | # lines |
 |--------|---------|
 |   1800 |     301 |
-|   1810 |     328 |
+|   1810 |     378 |
 |   1820 |     333 |
 |   1830 |     347 |
 |   1840 |     303 |
@@ -35,6 +35,7 @@ published across 65 years. Detailed statistics are available below.
 | 1804 |      96 |
 | 1812 |      50 |
 | 1813 |      50 |
+| 1814 |      50 |
 | 1815 |      98 |
 | 1816 |      51 |
 | 1818 |      54 |
@@ -109,6 +110,7 @@ published across 65 years. Detailed statistics are available below.
 | Wanderungen und Spazierfahrten in die Gegenden von Wien                                                                                                                                                    | 1804 | [bub_gb_eZcBAAAAYAAJ](http://archive.org/details/bub_gb_eZcBAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_eZcBAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_eZcBAAAAYAAJ)             |
 | Die Grille Eine Sammlung von Geschichten ... von Gedanken ... und von Betrachtungen ...                                                                                                                    | 1812 | [bub_gb_SwsoAAAAMAAJ](http://archive.org/details/bub_gb_SwsoAAAAMAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_SwsoAAAAMAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_SwsoAAAAMAAJ)             |
 | A.g. Meissners sämmtliche Werke...                                                                                                                                                                         | 1813 | [agmeissnerssmmt12meisgoog](http://archive.org/details/agmeissnerssmmt12meisgoog) | [Manifest](https://iiif.archivelab.org/iiif/agmeissnerssmmt12meisgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/agmeissnerssmmt12meisgoog) |
+| Heldengemälde aus Roms, Deutschlands und Schwedens Vorzeit der Jugend unseres kriegerischen Zeitalters aufgestellt                                                                                         | 1814 | [bub_gb_0UkDAAAAYAAJ](http://archive.org/details/bub_gb_0UkDAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_0UkDAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_0UkDAAAAYAAJ)             |
 | Allgemeine Literatur-zeitung                                                                                                                                                                               | 1815 | [allgemeineliter20unkngoog](http://archive.org/details/allgemeineliter20unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/allgemeineliter20unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/allgemeineliter20unkngoog) |
 | Neues Magazin aller neuen Erfindungen, Entdeckungen und Verbesserungen für Fabrikanten, Manufakturisten, Künstler, Handwerker und Oekonomen                                                                | 1815 | [bub_gb_srxAAAAAcAAJ](http://archive.org/details/bub_gb_srxAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_srxAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_srxAAAAAcAAJ)             |
 | Blumenlese aus den Minnesingern: 1. Sammlung                                                                                                                                                               | 1816 | [blumenleseausde00mlgoog](http://archive.org/details/blumenleseausde00mlgoog)     | [Manifest](https://iiif.archivelab.org/iiif/blumenleseausde00mlgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/blumenleseausde00mlgoog)     |
@@ -121,8 +123,8 @@ published across 65 years. Detailed statistics are available below.
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
 | Jenaische allgemeine Literatur-Zeitung. Jahrg. 1-[38. With] Intelligenzblatt ...                                                                                                                           | 1823 | [jenaischeallgem05unkngoog](http://archive.org/details/jenaischeallgem05unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog) |
 | MilitärWochenblatt Unabhängige Zeitschrift für die deutsche Wehrmacht                                                                                                                                      | 1824 | [bub_gb_nL5FAAAAcAAJ](http://archive.org/details/bub_gb_nL5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ)             |
-| Die Harzburg und ihre Geschichte: mit 5 Abbildungen                                                                                                                                                        | 1825 | [dieharzburgundi00leongoog](http://archive.org/details/dieharzburgundi00leongoog) | [Manifest](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog) |
 | Protokolle der deutschen Bundesversammlung                                                                                                                                                                 | 1825 | [protokollederde10bundgoog](http://archive.org/details/protokollederde10bundgoog) | [Manifest](https://iiif.archivelab.org/iiif/protokollederde10bundgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/protokollederde10bundgoog) |
+| Die Harzburg und ihre Geschichte: mit 5 Abbildungen                                                                                                                                                        | 1825 | [dieharzburgundi00leongoog](http://archive.org/details/dieharzburgundi00leongoog) | [Manifest](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog) |
 | IntelligenzBlatt und wöchentlicher Anzeiger der königlich baierischen Stadt Augsburg                                                                                                                       | 1827 | [bub_gb_7bdEAAAAcAAJ](http://archive.org/details/bub_gb_7bdEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ)             |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Sämmtliche Schriften                                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |

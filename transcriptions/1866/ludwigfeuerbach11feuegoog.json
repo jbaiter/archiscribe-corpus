@@ -1,0 +1,309 @@
+{
+  "id": "ludwigfeuerbach11feuegoog",
+  "title": "Ludwig Feuerbach's sämmtliche Werke...",
+  "year": 1866,
+  "manifest": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog/manifest.json",
+  "lines": [
+    {
+      "id": "a57e03b2",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$16/260,3388,2125,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$16/262,3264,2125,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$16/263,3513,2123,91/full/0/default.png"
+    },
+    {
+      "id": "a78772df",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$18/305,2646,2124,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$18/307,2522,2122,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$18/307,2770,2118,89/full/0/default.png"
+    },
+    {
+      "id": "45addeee",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$23/620,3679,2117,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$23/621,3555,2116,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$23/623,3805,2118,84/full/0/default.png"
+    },
+    {
+      "id": "f86b63ff",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$26/130,3028,241,67/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$26/127,2899,2144,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$26/318,3148,1947,86/full/0/default.png"
+    },
+    {
+      "id": "47e788a1",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$27/641,757,2135,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$27/641,634,2139,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$27/637,884,2140,89/full/0/default.png"
+    },
+    {
+      "id": "037db0b4",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$27/634,1876,2135,92/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$27/635,1751,2132,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$27/633,2000,2132,92/full/0/default.png"
+    },
+    {
+      "id": "cf4b2e68",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$30/192,2759,2132,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$30/193,2635,2130,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$30/195,2883,2125,89/full/0/default.png"
+    },
+    {
+      "id": "7e4f30c5",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$34/212,633,2131,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$34/205,510,2138,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$34/207,759,1679,87/full/0/default.png"
+    },
+    {
+      "id": "6f793e76",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$38/157,891,2144,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$38/155,767,2141,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$38/156,1016,2139,86/full/0/default.png"
+    },
+    {
+      "id": "59be20b1",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$39/579,1874,2124,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$39/579,1749,2123,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$39/574,1997,2129,87/full/0/default.png"
+    },
+    {
+      "id": "34182396",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$54/217,2419,2137,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$54/219,2293,2139,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$54/219,2545,2134,87/full/0/default.png"
+    },
+    {
+      "id": "72af1ead",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$55/581,4004,2142,93/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$55/581,3880,2136,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$55/581,4127,2145,97/full/0/default.png"
+    },
+    {
+      "id": "60dfa4c0",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$56/225,3401,2140,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$56/227,3277,2136,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$56/225,3528,2140,86/full/0/default.png"
+    },
+    {
+      "id": "8c6c447a",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$57/546,3650,2129,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$57/546,3526,2133,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$57/547,3775,2132,89/full/0/default.png"
+    },
+    {
+      "id": "5b94850a",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$73/617,3003,2138,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$73/619,2879,2142,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$73/619,3130,2131,90/full/0/default.png"
+    },
+    {
+      "id": "bb121132",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$83/590,3784,2136,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$83/589,3660,2140,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$83/587,3909,2140,89/full/0/default.png"
+    },
+    {
+      "id": "c7137943",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$83/587,3909,2140,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$83/590,3784,2136,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$83/589,4033,2135,91/full/0/default.png"
+    },
+    {
+      "id": "cd679377",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$85/519,2853,2144,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$85/519,2730,2146,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$85/517,2977,2152,91/full/0/default.png"
+    },
+    {
+      "id": "acac5a62",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$95/643,3773,2125,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$95/644,3650,2126,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$95/643,3898,2123,91/full/0/default.png"
+    },
+    {
+      "id": "55daa6c4",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$129/565,2890,2154,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$129/563,2767,2155,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$129/561,3015,2158,87/full/0/default.png"
+    },
+    {
+      "id": "b80528e3",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$132/986,324,663,68/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$131/493,4113,2148,98/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$132/225,502,2149,93/full/0/default.png"
+    },
+    {
+      "id": "c4e45499",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$132/225,1988,2137,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$132/223,1865,2139,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$132/227,2113,2134,86/full/0/default.png"
+    },
+    {
+      "id": "9493a778",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$140/148,2767,2137,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$140/147,2641,2136,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$140/147,2890,2134,89/full/0/default.png"
+    },
+    {
+      "id": "489c3e33",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$143/621,3092,1608,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$143/621,2968,2140,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$143/797,3217,1965,88/full/0/default.png"
+    },
+    {
+      "id": "1972971e",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$144/233,3753,2126,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$144/232,3631,2128,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$144/232,3876,2133,87/full/0/default.png"
+    },
+    {
+      "id": "b94da5a5",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$150/161,565,2141,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$150/901,386,665,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$150/163,689,2139,86/full/0/default.png"
+    },
+    {
+      "id": "033c54ab",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$152/115,954,2144,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$152/115,832,2141,83/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$152/117,1080,2143,86/full/0/default.png"
+    },
+    {
+      "id": "521d906e",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$153/647,4158,2144,95/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$153/647,4031,2140,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$154/917,332,668,64/full/0/default.png"
+    },
+    {
+      "id": "b34a54f3",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$155/601,454,2170,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$155/1337,279,662,67/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$155/603,578,2168,91/full/0/default.png"
+    },
+    {
+      "id": "c7f6e28a",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$155/619,3184,2147,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$155/621,3058,2148,91/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$155/624,3308,2143,87/full/0/default.png"
+    },
+    {
+      "id": "04d98aad",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$159/547,1995,2140,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$159/548,1872,2139,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$159/552,2120,2135,88/full/0/default.png"
+    },
+    {
+      "id": "cc81e003",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$160/361,1701,1953,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$160/168,1578,865,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$160/173,1826,2142,92/full/0/default.png"
+    },
+    {
+      "id": "fbc2f898",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$176/289,2872,2130,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$176/289,2748,2132,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$176/290,2997,2130,87/full/0/default.png"
+    },
+    {
+      "id": "7e3c5f92",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$182/175,2147,2138,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$182/172,2022,2141,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$182/174,2270,2137,88/full/0/default.png"
+    },
+    {
+      "id": "4ebf9959",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$197/507,2658,2132,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$197/508,2535,2130,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$197/505,2782,2131,87/full/0/default.png"
+    },
+    {
+      "id": "65f870b2",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$200/145,1361,2144,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$200/147,1237,2146,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$200/146,1484,2146,91/full/0/default.png"
+    },
+    {
+      "id": "92e51f77",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$200/151,4086,2142,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$200/153,3963,2132,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$201/1343,308,664,67/full/0/default.png"
+    },
+    {
+      "id": "3ecdab6b",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$206/212,2503,2130,92/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$206/210,2379,2134,92/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$206/214,2631,2128,88/full/0/default.png"
+    },
+    {
+      "id": "5582edca",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$207/568,2479,2172,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$207/566,2356,2174,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$207/566,2602,2167,94/full/0/default.png"
+    },
+    {
+      "id": "ca59e3ee",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$233/592,3482,2133,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$233/594,3358,2132,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$233/590,3604,2134,90/full/0/default.png"
+    },
+    {
+      "id": "cdd063b2",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$239/568,2761,2127,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$239/570,2637,2128,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$239/568,2885,2128,88/full/0/default.png"
+    },
+    {
+      "id": "4b290f99",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$241/594,1879,2132,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$241/592,1757,2138,85/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$241/594,2005,2134,88/full/0/default.png"
+    },
+    {
+      "id": "11327d56",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$249/558,727,1594,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$249/560,603,2158,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$249/738,1099,1974,90/full/0/default.png"
+    },
+    {
+      "id": "9560b53e",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$254/170,2952,2128,73/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$254/173,2863,2131,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$254/170,3039,1225,71/full/0/default.png"
+    },
+    {
+      "id": "69629900",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$255/612,3689,2155,76/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$255/612,3601,2153,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$255/610,3778,2153,74/full/0/default.png"
+    },
+    {
+      "id": "3dc43a62",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$257/585,1761,2139,73/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$257/590,1676,2139,64/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$257/586,1850,2136,69/full/0/default.png"
+    },
+    {
+      "id": "90897c2b",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$269/615,2365,2149,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$269/618,2243,2147,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$269/620,2491,2147,87/full/0/default.png"
+    },
+    {
+      "id": "c740f7a8",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$292/213,2177,2132,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$292/213,2054,2132,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$292/212,2303,2132,88/full/0/default.png"
+    },
+    {
+      "id": "badae890",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$300/244,3918,2125,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$300/242,3798,2131,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$300/245,4045,2121,97/full/0/default.png"
+    },
+    {
+      "id": "5b0012f5",
+      "line": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$305/556,2718,2137,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$305/556,2595,2132,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog$305/558,2842,2136,89/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

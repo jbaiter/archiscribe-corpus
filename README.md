@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3289 lines from 86 works
-published across 63 years. Detailed statistics are available below.
+Currently the corpus contains 3339 lines from 87 works
+published across 64 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -19,7 +19,7 @@ published across 63 years. Detailed statistics are available below.
 |   1830 |     347 |
 |   1840 |     303 |
 |   1850 |     324 |
-|   1860 |     321 |
+|   1860 |     371 |
 |   1870 |     327 |
 |   1880 |     370 |
 |   1890 |     335 |
@@ -70,6 +70,7 @@ published across 63 years. Detailed statistics are available below.
 | 1862 |      50 |
 | 1864 |      50 |
 | 1865 |      50 |
+| 1866 |      50 |
 | 1867 |      23 |
 | 1868 |      48 |
 | 1872 |      49 |
@@ -157,6 +158,7 @@ published across 63 years. Detailed statistics are available below.
 | bd. Kritiken. Briefe aus Frankfurt. Menzel der Franzosenfresser                                                                                                                                            | 1862 | [bub_gb_EXEoAAAAYAAJ](http://archive.org/details/bub_gb_EXEoAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_EXEoAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_EXEoAAAAYAAJ)             |
 | Die BettlerOper ein Lebensbild aus der Dichterund Musikerwelt der Zeit Georg I.                                                                                                                            | 1864 | [bub_gb_MOo6AAAAcAAJ](http://archive.org/details/bub_gb_MOo6AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ)             |
 | Geschichte der Erdkunde bis auf A. V. Humboldt und Carl Ritter                                                                                                                                             | 1865 | [geschichtederer00persgoog](http://archive.org/details/geschichtederer00persgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederer00persgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederer00persgoog) |
+| Ludwig Feuerbach's sämmtliche Werke...                                                                                                                                                                     | 1866 | [ludwigfeuerbach11feuegoog](http://archive.org/details/ludwigfeuerbach11feuegoog) | [Manifest](https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog) |
 | Die historischen Volkslieder der Deutschen vom 13. bis 16. Jahrhundert                                                                                                                                     | 1867 | [bub_gb_zpcTAAAAQAAJ](http://archive.org/details/bub_gb_zpcTAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ)             |
 | Natur und Gemüth Ein Feld und Waldblüthenstrauß aus Tagen die nicht mehr sind, Gewunden von Friedrich Aulenbach                                                                                            | 1868 | [bub_gb_HF46AAAAcAAJ](http://archive.org/details/bub_gb_HF46AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ)             |
 | Archiv für Buchgewerbe und Gebrauchsgraphik...                                                                                                                                                             | 1872 | [archivfrbuchgew02buchgoog](http://archive.org/details/archivfrbuchgew02buchgoog) | [Manifest](https://iiif.archivelab.org/iiif/archivfrbuchgew02buchgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/archivfrbuchgew02buchgoog) |

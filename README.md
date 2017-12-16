@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3389 lines from 88 works
-published across 64 years. Detailed statistics are available below.
+Currently the corpus contains 3439 lines from 89 works
+published across 65 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -18,7 +18,7 @@ published across 64 years. Detailed statistics are available below.
 |   1820 |     333 |
 |   1830 |     347 |
 |   1840 |     303 |
-|   1850 |     324 |
+|   1850 |     374 |
 |   1860 |     371 |
 |   1870 |     377 |
 |   1880 |     370 |
@@ -64,6 +64,7 @@ published across 64 years. Detailed statistics are available below.
 | 1853 |      49 |
 | 1854 |       7 |
 | 1855 |      19 |
+| 1858 |      50 |
 | 1859 |      50 |
 | 1860 |      50 |
 | 1861 |      50 |
@@ -152,6 +153,7 @@ published across 64 years. Detailed statistics are available below.
 | Archiv für Geschichte und Altertumskunde von Oberfranken                                                                                                                                                   | 1853 | [bub_gb_LbhAAAAAcAAJ](http://archive.org/details/bub_gb_LbhAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ)             |
 | Das gesetzliche Veräusserungsverbot bei Singular- und ...                                                                                                                                                  | 1854 | [dasgesetzlichev00seufgoog](http://archive.org/details/dasgesetzlichev00seufgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog) |
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                                        | 1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |
+| Die neuere Deutsche national-literatur nach ihren ethischen und religiösen ...                                                                                                                             | 1858 | [dieneueredeutsc03gelzgoog](http://archive.org/details/dieneueredeutsc03gelzgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieneueredeutsc03gelzgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieneueredeutsc03gelzgoog) |
 | Geist und Körper in ihren Wechselbeziehungen: mit Versuchen Naturwissenschaftlicher Erklärung ...                                                                                                          | 1859 | [geistundkrperin00reclgoog](http://archive.org/details/geistundkrperin00reclgoog) | [Manifest](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog) |
 | Ueber das Leben des Ulfilas und die Bekehrung der Gothen Sum Christenthum                                                                                                                                  | 1860 | [ueberdaslebende01bessgoog](http://archive.org/details/ueberdaslebende01bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog) |
 | Ein deutsches Reiterleben Erinnerungen eines alten HusarenOfficiers aus den Jahren 1802 bis 1815. In Rußland, Anstellung als Rittmeister ...                                                               | 1861 | [bub_gb_71E6AAAAcAAJ](http://archive.org/details/bub_gb_71E6AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_71E6AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_71E6AAAAcAAJ)             |

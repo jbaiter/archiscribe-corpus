@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3586 lines from 92 works
-published across 66 years. Detailed statistics are available below.
+Currently the corpus contains 3636 lines from 93 works
+published across 67 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -18,7 +18,7 @@ published across 66 years. Detailed statistics are available below.
 |   1820 |     333 |
 |   1830 |     347 |
 |   1840 |     400 |
-|   1850 |     374 |
+|   1850 |     424 |
 |   1860 |     371 |
 |   1870 |     377 |
 |   1880 |     370 |
@@ -65,6 +65,7 @@ published across 66 years. Detailed statistics are available below.
 | 1853 |      49 |
 | 1854 |       7 |
 | 1855 |      19 |
+| 1856 |      50 |
 | 1858 |      50 |
 | 1859 |      50 |
 | 1860 |      50 |
@@ -157,6 +158,7 @@ published across 66 years. Detailed statistics are available below.
 | Archiv für Geschichte und Altertumskunde von Oberfranken                                                                                                                                                   | 1853 | [bub_gb_LbhAAAAAcAAJ](http://archive.org/details/bub_gb_LbhAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_LbhAAAAAcAAJ)             |
 | Das gesetzliche Veräusserungsverbot bei Singular- und ...                                                                                                                                                  | 1854 | [dasgesetzlichev00seufgoog](http://archive.org/details/dasgesetzlichev00seufgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasgesetzlichev00seufgoog) |
 | Untersuchungen und Beobachtungen über die Verbreitungsart der Cholera Nebst Betrachungen über Massregeln, derselben Einhalt zu thun                                                                        | 1855 | [bub_gb_F0FBAAAAcAAJ](http://archive.org/details/bub_gb_F0FBAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_F0FBAAAAcAAJ)             |
+| Geschichte der christlichen Kunst, der Poesie, Tonkunst, Malerei, Architektur und Sculptur von der ältesten bis auf die neueste Zeit                                                                       | 1856 | [bub_gb_eG5KAAAAcAAJ](http://archive.org/details/bub_gb_eG5KAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_eG5KAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_eG5KAAAAcAAJ)             |
 | Die neuere Deutsche national-literatur nach ihren ethischen und religiösen ...                                                                                                                             | 1858 | [dieneueredeutsc03gelzgoog](http://archive.org/details/dieneueredeutsc03gelzgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieneueredeutsc03gelzgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieneueredeutsc03gelzgoog) |
 | Geist und Körper in ihren Wechselbeziehungen: mit Versuchen Naturwissenschaftlicher Erklärung ...                                                                                                          | 1859 | [geistundkrperin00reclgoog](http://archive.org/details/geistundkrperin00reclgoog) | [Manifest](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geistundkrperin00reclgoog) |
 | Ueber das Leben des Ulfilas und die Bekehrung der Gothen Sum Christenthum                                                                                                                                  | 1860 | [ueberdaslebende01bessgoog](http://archive.org/details/ueberdaslebende01bessgoog) | [Manifest](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ueberdaslebende01bessgoog) |

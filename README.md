@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3686 lines from 94 works
+Currently the corpus contains 3736 lines from 95 works
 published across 67 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -20,7 +20,7 @@ published across 67 years. Detailed statistics are available below.
 |   1840 |     450 |
 |   1850 |     424 |
 |   1860 |     371 |
-|   1870 |     377 |
+|   1870 |     427 |
 |   1880 |     370 |
 |   1890 |     335 |
 
@@ -77,7 +77,7 @@ published across 67 years. Detailed statistics are available below.
 | 1867 |      23 |
 | 1868 |      48 |
 | 1872 |      49 |
-| 1874 |      60 |
+| 1874 |     110 |
 | 1875 |      50 |
 | 1876 |      50 |
 | 1877 |      50 |
@@ -172,6 +172,7 @@ published across 67 years. Detailed statistics are available below.
 | Natur und Gemüth Ein Feld und Waldblüthenstrauß aus Tagen die nicht mehr sind, Gewunden von Friedrich Aulenbach                                                                                            | 1868 | [bub_gb_HF46AAAAcAAJ](http://archive.org/details/bub_gb_HF46AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_HF46AAAAcAAJ)             |
 | Archiv für Buchgewerbe und Gebrauchsgraphik...                                                                                                                                                             | 1872 | [archivfrbuchgew02buchgoog](http://archive.org/details/archivfrbuchgew02buchgoog) | [Manifest](https://iiif.archivelab.org/iiif/archivfrbuchgew02buchgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/archivfrbuchgew02buchgoog) |
 | Historisches Taschenbuch                                                                                                                                                                                   | 1874 | [bub_gb_qGYMAAAAYAAJ](http://archive.org/details/bub_gb_qGYMAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_qGYMAAAAYAAJ)             |
+| Das kanonische Gerichtsverfahren und Strafrecht                                                                                                                                                            | 1874 | [daskanonischege02mngoog](http://archive.org/details/daskanonischege02mngoog)     | [Manifest](https://iiif.archivelab.org/iiif/daskanonischege02mngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/daskanonischege02mngoog)     |
 | Geschichte der Herzogthümer Troppau und Jägerndorf                                                                                                                                                         | 1874 | [geschichtederhe00biergoog](http://archive.org/details/geschichtederhe00biergoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederhe00biergoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederhe00biergoog) |
 | Der Leipziger baumeister Hieronymus Lotter, 14971580...                                                                                                                                                    | 1875 | [bub_gb_89FEAAAAYAAJ](http://archive.org/details/bub_gb_89FEAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_89FEAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_89FEAAAAYAAJ)             |
 | Geschichte der preussischen Politik                                                                                                                                                                        | 1876 | [geschichtederpr08droygoog](http://archive.org/details/geschichtederpr08droygoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederpr08droygoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederpr08droygoog) |

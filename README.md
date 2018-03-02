@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3792 lines from 97 works
-published across 67 years. Detailed statistics are available below.
+Currently the corpus contains 3797 lines from 98 works
+published across 68 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -17,7 +17,7 @@ published across 67 years. Detailed statistics are available below.
 |   1810 |     378 |
 |   1820 |     333 |
 |   1830 |     366 |
-|   1840 |     450 |
+|   1840 |     455 |
 |   1850 |     424 |
 |   1860 |     371 |
 |   1870 |     427 |
@@ -53,6 +53,7 @@ published across 67 years. Detailed statistics are available below.
 | 1836 |       5 |
 | 1838 |      64 |
 | 1839 |      42 |
+| 1840 |       5 |
 | 1842 |     113 |
 | 1843 |      10 |
 | 1844 |      47 |
@@ -141,9 +142,10 @@ published across 67 years. Detailed statistics are available below.
 | Der Urevangelist oder exegetisch kjritische Untersuchung über das Verwandtschaftsverhältniss der ...                                                                                                       | 1838 | [derurevangelist00wilkgoog](http://archive.org/details/derurevangelist00wilkgoog) | [Manifest](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/derurevangelist00wilkgoog) |
 | Ueber den gegenwärtigen Zustand des öffentlichen Unterrichts in den ...                                                                                                                                    | 1838 | [ueberdengegenwr08thiegoog](http://archive.org/details/ueberdengegenwr08thiegoog) | [Manifest](https://iiif.archivelab.org/iiif/ueberdengegenwr08thiegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ueberdengegenwr08thiegoog) |
 | Europäische Sittengeschichte vom Ursprunge volksthümlicher Gestaltungen bis auf unsere Zeit                                                                                                                | 1839 | [europischesitte02fockgoog](http://archive.org/details/europischesitte02fockgoog) | [Manifest](https://iiif.archivelab.org/iiif/europischesitte02fockgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/europischesitte02fockgoog) |
-| Elsässisches Sagenbuch                                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
-| Der Sammler. Ein Unterhaltungsblatt                                                                                                                                                                        | 1842 | [bub_gb_8LxaAAAAcAAJ](http://archive.org/details/bub_gb_8LxaAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8LxaAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8LxaAAAAcAAJ)             |
+| Streffleurs militärische Zeitschrift                                                                                                                                                                       | 1840 | [streffleursmili59stregoog](http://archive.org/details/streffleursmili59stregoog) | [Manifest](https://iiif.archivelab.org/iiif/streffleursmili59stregoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/streffleursmili59stregoog) |
 | Abriss einer vergleichenden Darstellung der indisch- persisch- und chinesischen Religions-systeme                                                                                                          | 1842 | [abrisseinerverg00krgoog](http://archive.org/details/abrisseinerverg00krgoog)     | [Manifest](https://iiif.archivelab.org/iiif/abrisseinerverg00krgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/abrisseinerverg00krgoog)     |
+| Der Sammler. Ein Unterhaltungsblatt                                                                                                                                                                        | 1842 | [bub_gb_8LxaAAAAcAAJ](http://archive.org/details/bub_gb_8LxaAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8LxaAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8LxaAAAAcAAJ)             |
+| Elsässisches Sagenbuch                                                                                                                                                                                     | 1842 | [elsssischessage00stgoog](http://archive.org/details/elsssischessage00stgoog)     | [Manifest](https://iiif.archivelab.org/iiif/elsssischessage00stgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/elsssischessage00stgoog)     |
 | Lustspiele von Dr. Carl Toepfer                                                                                                                                                                            | 1843 | [bub_gb_CWT4uVeV8dAC](http://archive.org/details/bub_gb_CWT4uVeV8dAC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_CWT4uVeV8dAC)             |
 | Morgenblatt für gebildete Leser 1844                                                                                                                                                                       | 1844 | [bub_gb_53ZEAAAAcAAJ](http://archive.org/details/bub_gb_53ZEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_53ZEAAAAcAAJ)             |
 | Briefe aus und über Nordamerika; oder, Beiträge zu einer richtigen Kenntniss der Vereinigten ...                                                                                                           | 1847 | [briefeausundber02btgoog](http://archive.org/details/briefeausundber02btgoog)     | [Manifest](https://iiif.archivelab.org/iiif/briefeausundber02btgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/briefeausundber02btgoog)     |

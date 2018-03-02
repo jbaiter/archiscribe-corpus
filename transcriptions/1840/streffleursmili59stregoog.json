@@ -1,0 +1,39 @@
+{
+  "id": "streffleursmili59stregoog",
+  "title": "Streffleurs militärische Zeitschrift",
+  "year": 1840,
+  "manifest": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog/manifest.json",
+  "lines": [
+    {
+      "id": "1ddd8a13",
+      "line": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$19/169,1931,1829,81/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$19/165,1832,1810,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$19/171,2031,1803,83/full/0/default.png"
+    },
+    {
+      "id": "08cc9557",
+      "line": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$42/365,394,1815,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$42/1012,280,491,63/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$42/369,500,1804,92/full/0/default.png"
+    },
+    {
+      "id": "924f9172",
+      "line": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$58/921,2213,692,70/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$58/376,2028,1252,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$58/537,2333,1655,84/full/0/default.png"
+    },
+    {
+      "id": "b70c20a6",
+      "line": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$254/632,2731,566,66/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$254/235,2635,1783,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$254/239,2819,1781,81/full/0/default.png"
+    },
+    {
+      "id": "71dee3a3",
+      "line": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$325/637,2202,906,112/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$325/635,2086,899,109/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/streffleursmili59stregoog$325/324,2320,905,81/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

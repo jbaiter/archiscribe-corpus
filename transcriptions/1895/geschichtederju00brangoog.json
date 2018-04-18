@@ -1,0 +1,297 @@
+{
+  "id": "geschichtederju00brangoog",
+  "title": "Geschichte der Juden und ihrer Litteratur: Für Schule und Haus",
+  "year": 1895,
+  "manifest": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog/manifest.json",
+  "lines": [
+    {
+      "id": "fbc01c37",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$32/782,2540,2252,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$32/785,2434,2253,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$32/791,2647,2243,89/full/0/default.png"
+    },
+    {
+      "id": "d99680b6",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$41/483,1578,2251,76/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$41/481,1488,2254,78/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$41/481,1666,2251,78/full/0/default.png"
+    },
+    {
+      "id": "3e64f3a3",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$50/781,2562,2247,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$50/781,2455,2245,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$50/778,2667,2248,89/full/0/default.png"
+    },
+    {
+      "id": "6bfbdaba",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$68/770,948,2231,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$68/769,840,2233,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$68/769,1053,2237,91/full/0/default.png"
+    },
+    {
+      "id": "1c02b019",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$68/776,2125,2243,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$68/776,2017,2235,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$68/779,2231,2242,89/full/0/default.png"
+    },
+    {
+      "id": "8067c588",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$87/603,1083,2064,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$87/855,923,1388,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$87/431,1190,2237,90/full/0/default.png"
+    },
+    {
+      "id": "58c83bbd",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$93/443,1572,866,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$93/447,1463,2241,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$93/1015,1731,989,73/full/0/default.png"
+    },
+    {
+      "id": "19116d36",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$93/441,2302,2249,91/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$93/442,2195,2247,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$93/443,2410,2247,88/full/0/default.png"
+    },
+    {
+      "id": "f691c8aa",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$98/886,1731,1161,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$98/885,1643,1547,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$98/884,1821,1131,71/full/0/default.png"
+    },
+    {
+      "id": "b887493d",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$110/225,1111,560,22/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$110/227,1084,559,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$110/227,1138,558,22/full/0/default.png"
+    },
+    {
+      "id": "7279dee1",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$119/174,214,538,30/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$118/211,1174,557,24/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$119/182,244,529,23/full/0/default.png"
+    },
+    {
+      "id": "6d918bc0",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$124/311,658,307,18/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$124/312,636,338,18/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$124/313,681,326,18/full/0/default.png"
+    },
+    {
+      "id": "6b028284",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$130/299,1062,356,18/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$130/300,1039,396,19/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$130/299,1084,337,18/full/0/default.png"
+    },
+    {
+      "id": "7097c97f",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$135/245,619,200,18/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$135/246,544,374,19/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$135/245,686,227,19/full/0/default.png"
+    },
+    {
+      "id": "6cadaa76",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$140/211,270,559,22/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$140/212,243,563,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$140/214,296,557,23/full/0/default.png"
+    },
+    {
+      "id": "e0a5a0df",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$141/180,624,546,24/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$141/186,600,540,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$141/166,650,560,28/full/0/default.png"
+    },
+    {
+      "id": "939e42e2",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$150/219,335,579,32/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$150/219,315,579,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$150/220,362,578,32/full/0/default.png"
+    },
+    {
+      "id": "7f5a0e1c",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$166/208,824,560,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$166/208,797,561,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$166/208,850,561,22/full/0/default.png"
+    },
+    {
+      "id": "f564aa4f",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$176/224,794,560,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$176/225,767,559,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$176/225,820,559,22/full/0/default.png"
+    },
+    {
+      "id": "abdf7c42",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$190/214,779,559,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$190/213,752,555,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$190/213,806,559,22/full/0/default.png"
+    },
+    {
+      "id": "7ed59720",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$193/503,917,2241,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$193/673,811,2069,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$193/507,1025,2237,90/full/0/default.png"
+    },
+    {
+      "id": "ef459276",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$203/557,3085,2251,89/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$203/557,2973,2253,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$203/557,3191,2251,98/full/0/default.png"
+    },
+    {
+      "id": "b4910f88",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$212/221,293,579,25/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$212/265,266,533,26/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$212/219,316,581,35/full/0/default.png"
+    },
+    {
+      "id": "933446d0",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$215/219,461,516,23/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$215/158,415,577,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$215/158,487,578,23/full/0/default.png"
+    },
+    {
+      "id": "9676fd1a",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$216/231,828,562,22/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$216/232,801,561,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$216/234,855,560,22/full/0/default.png"
+    },
+    {
+      "id": "3ca6cddb",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/150,547,578,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/150,518,579,28/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/150,568,579,28/full/0/default.png"
+    },
+    {
+      "id": "a357c9dd",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/144,813,581,25/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/146,784,579,28/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/158,836,566,30/full/0/default.png"
+    },
+    {
+      "id": "84346328",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/172,869,551,23/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/158,836,566,30/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$229/156,892,567,26/full/0/default.png"
+    },
+    {
+      "id": "2fd6f72d",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$230/264,971,518,22/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$230/220,917,563,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$230/220,995,563,24/full/0/default.png"
+    },
+    {
+      "id": "460c9ce7",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$261/164,536,563,25/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$261/168,512,560,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$261/170,566,557,22/full/0/default.png"
+    },
+    {
+      "id": "ee983211",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$278/216,515,562,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$278/216,489,563,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$278/216,542,560,22/full/0/default.png"
+    },
+    {
+      "id": "97c04677",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$301/152,532,575,27/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$301/168,510,560,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$301/152,563,576,27/full/0/default.png"
+    },
+    {
+      "id": "11658639",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$302/221,1157,561,22/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$302/221,1130,561,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$302/222,1184,334,22/full/0/default.png"
+    },
+    {
+      "id": "67d6b3bc",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$309/210,1099,526,19/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$309/218,1078,518,17/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$309/222,1122,513,19/full/0/default.png"
+    },
+    {
+      "id": "8f91bc86",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$313/154,584,577,34/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$313/150,563,581,29/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$313/238,617,493,23/full/0/default.png"
+    },
+    {
+      "id": "5e2a3171",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$320/236,357,559,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$320/236,330,558,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$320/237,383,558,22/full/0/default.png"
+    },
+    {
+      "id": "31e853df",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$341/170,382,559,23/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$341/170,355,558,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$341/170,409,559,22/full/0/default.png"
+    },
+    {
+      "id": "14b4ffd2",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$341/171,919,558,22/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$341/170,892,559,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$341/170,946,559,22/full/0/default.png"
+    },
+    {
+      "id": "37572845",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$344/227,687,561,24/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$344/227,663,560,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$344/229,716,558,22/full/0/default.png"
+    },
+    {
+      "id": "aab87f2b",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$351/156,1098,560,22/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$351/155,1070,561,23/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$351/156,1124,560,22/full/0/default.png"
+    },
+    {
+      "id": "a3f5dd67",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$358/197,668,559,21/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$358/196,641,561,21/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$358/197,695,559,20/full/0/default.png"
+    },
+    {
+      "id": "53132609",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$392/624,415,2198,77/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$391/178,1170,567,22/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$392/623,599,2253,89/full/0/default.png"
+    },
+    {
+      "id": "0f69beeb",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$395/171,325,560,25/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$395/171,298,560,26/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$395/172,352,558,25/full/0/default.png"
+    },
+    {
+      "id": "6dd5aff8",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$411/511,2761,2248,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$411/513,2655,2241,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$411/509,2869,2247,87/full/0/default.png"
+    },
+    {
+      "id": "c9ffca71",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$422/641,2230,2249,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$422/641,2122,2245,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$422/641,2337,2246,90/full/0/default.png"
+    },
+    {
+      "id": "8b9a5035",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$430/746,3321,2235,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$430/747,3213,2239,89/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$430/749,3424,2235,94/full/0/default.png"
+    },
+    {
+      "id": "01567e99",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$488/2027,1813,1082,70/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$488/1955,1742,1168,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$488/2026,1886,1083,60/full/0/default.png"
+    },
+    {
+      "id": "b3ee36fc",
+      "line": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$495/1723,1478,352,65/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$495/1723,1407,1059,72/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/geschichtederju00brangoog$495/1723,1548,1172,72/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

@@ -6,8 +6,8 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3945 lines from 101 works
-published across 69 years. Detailed statistics are available below.
+Currently the corpus contains 3992 lines from 102 works
+published across 70 years. Detailed statistics are available below.
 
 ## Statistics: Decades
 
@@ -15,7 +15,7 @@ published across 69 years. Detailed statistics are available below.
 |--------|---------|
 |   1800 |     338 |
 |   1810 |     378 |
-|   1820 |     333 |
+|   1820 |     380 |
 |   1830 |     416 |
 |   1840 |     455 |
 |   1850 |     424 |
@@ -40,6 +40,7 @@ published across 69 years. Detailed statistics are available below.
 | 1816 |      51 |
 | 1818 |      54 |
 | 1819 |      25 |
+| 1820 |      47 |
 | 1822 |       3 |
 | 1823 |      66 |
 | 1824 |      50 |
@@ -123,15 +124,16 @@ published across 69 years. Detailed statistics are available below.
 | Geographischstatistisches Handbuch über Schlesien und die Grafschaft Glatz                                                                                                                                 | 1818 | [bub_gb_PNcAAAAAcAAJ](http://archive.org/details/bub_gb_PNcAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_PNcAAAAAcAAJ)             |
 | Geschichte der Religion Jesu Christi, von F.L., Grafen zu Stolberg (fortgesetzt von F. v. Kerz ...                                                                                                         | 1818 | [geschichtederre06kerzgoog](http://archive.org/details/geschichtederre06kerzgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederre06kerzgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederre06kerzgoog) |
 | Chronik der königlichen Würtembergischen Stadt Rottenburg und Ehingen am Nekar                                                                                                                             | 1819 | [bub_gb_3mAAAAAAcAAJ](http://archive.org/details/bub_gb_3mAAAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_3mAAAAAAcAAJ)             |
+| Allgemeine Enzyklopaedie der Wissenschaften und Kuenste in alphabetischer Folge von genannten Schriftstellern                                                                                              | 1820 | [bub_gb_O6sWAAAAQAAJ](http://archive.org/details/bub_gb_O6sWAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_O6sWAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_O6sWAAAAQAAJ)             |
 | Die Leibniz'sche Lehre von der Prastabilirten Harmonie in ihrem ...                                                                                                                                        | 1822 | [dieleibnizschel01sigwgoog](http://archive.org/details/dieleibnizschel01sigwgoog) | [Manifest](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieleibnizschel01sigwgoog) |
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
 | Jenaische allgemeine Literatur-Zeitung. Jahrg. 1-[38. With] Intelligenzblatt ...                                                                                                                           | 1823 | [jenaischeallgem05unkngoog](http://archive.org/details/jenaischeallgem05unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog) |
 | MilitärWochenblatt Unabhängige Zeitschrift für die deutsche Wehrmacht                                                                                                                                      | 1824 | [bub_gb_nL5FAAAAcAAJ](http://archive.org/details/bub_gb_nL5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ)             |
 | Die Harzburg und ihre Geschichte: mit 5 Abbildungen                                                                                                                                                        | 1825 | [dieharzburgundi00leongoog](http://archive.org/details/dieharzburgundi00leongoog) | [Manifest](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog) |
 | Protokolle der deutschen Bundesversammlung                                                                                                                                                                 | 1825 | [protokollederde10bundgoog](http://archive.org/details/protokollederde10bundgoog) | [Manifest](https://iiif.archivelab.org/iiif/protokollederde10bundgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/protokollederde10bundgoog) |
-| IntelligenzBlatt und wöchentlicher Anzeiger der königlich baierischen Stadt Augsburg                                                                                                                       | 1827 | [bub_gb_7bdEAAAAcAAJ](http://archive.org/details/bub_gb_7bdEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ)             |
 | Sämmtliche Schriften                                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
+| IntelligenzBlatt und wöchentlicher Anzeiger der königlich baierischen Stadt Augsburg                                                                                                                       | 1827 | [bub_gb_7bdEAAAAcAAJ](http://archive.org/details/bub_gb_7bdEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ)             |
 | Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...                                                                                                                                | 1829 | [reisedurchdasal04ledegoog](http://archive.org/details/reisedurchdasal04ledegoog) | [Manifest](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog) |
 | Das alte Indien, mit besonderer Rücksicht auf Aegypten                                                                                                                                                     | 1830 | [dasalteindienmi00bohlgoog](http://archive.org/details/dasalteindienmi00bohlgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog) |
 | Gesammelte Schriften                                                                                                                                                                                       | 1832 | [gesammelteschri10brgoog](http://archive.org/details/gesammelteschri10brgoog)     | [Manifest](https://iiif.archivelab.org/iiif/gesammelteschri10brgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/gesammelteschri10brgoog)     |

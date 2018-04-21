@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 3992 lines from 102 works
+Currently the corpus contains 4041 lines from 103 works
 published across 70 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -19,7 +19,7 @@ published across 70 years. Detailed statistics are available below.
 |   1830 |     416 |
 |   1840 |     455 |
 |   1850 |     424 |
-|   1860 |     421 |
+|   1860 |     470 |
 |   1870 |     427 |
 |   1880 |     370 |
 |   1890 |     383 |
@@ -74,7 +74,7 @@ published across 70 years. Detailed statistics are available below.
 | 1860 |     100 |
 | 1861 |      50 |
 | 1862 |      50 |
-| 1864 |      50 |
+| 1864 |      99 |
 | 1865 |      50 |
 | 1866 |      50 |
 | 1867 |      23 |
@@ -175,6 +175,7 @@ published across 70 years. Detailed statistics are available below.
 | Ein deutsches Reiterleben Erinnerungen eines alten HusarenOfficiers aus den Jahren 1802 bis 1815. In Rußland, Anstellung als Rittmeister ...                                                               | 1861 | [bub_gb_71E6AAAAcAAJ](http://archive.org/details/bub_gb_71E6AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_71E6AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_71E6AAAAcAAJ)             |
 | bd. Kritiken. Briefe aus Frankfurt. Menzel der Franzosenfresser                                                                                                                                            | 1862 | [bub_gb_EXEoAAAAYAAJ](http://archive.org/details/bub_gb_EXEoAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_EXEoAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_EXEoAAAAYAAJ)             |
 | Die BettlerOper ein Lebensbild aus der Dichterund Musikerwelt der Zeit Georg I.                                                                                                                            | 1864 | [bub_gb_MOo6AAAAcAAJ](http://archive.org/details/bub_gb_MOo6AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_MOo6AAAAcAAJ)             |
+| Handbuch der Patrologie und der kirchlichen Litteraturgeschichte                                                                                                                                           | 1864 | [handbuchderpatr00magogoog](http://archive.org/details/handbuchderpatr00magogoog) | [Manifest](https://iiif.archivelab.org/iiif/handbuchderpatr00magogoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/handbuchderpatr00magogoog) |
 | Geschichte der Erdkunde bis auf A. V. Humboldt und Carl Ritter                                                                                                                                             | 1865 | [geschichtederer00persgoog](http://archive.org/details/geschichtederer00persgoog) | [Manifest](https://iiif.archivelab.org/iiif/geschichtederer00persgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/geschichtederer00persgoog) |
 | Ludwig Feuerbach's sämmtliche Werke...                                                                                                                                                                     | 1866 | [ludwigfeuerbach11feuegoog](http://archive.org/details/ludwigfeuerbach11feuegoog) | [Manifest](https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/ludwigfeuerbach11feuegoog) |
 | Die historischen Volkslieder der Deutschen vom 13. bis 16. Jahrhundert                                                                                                                                     | 1867 | [bub_gb_zpcTAAAAQAAJ](http://archive.org/details/bub_gb_zpcTAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_zpcTAAAAQAAJ)             |
@@ -195,8 +196,8 @@ published across 70 years. Detailed statistics are available below.
 | Weltgelchichte                                                                                                                                                                                             | 1884 | [weltgelchichte00altegoog](http://archive.org/details/weltgelchichte00altegoog)   | [Manifest](https://iiif.archivelab.org/iiif/weltgelchichte00altegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/weltgelchichte00altegoog)   |
 | Festrede zur fünfhundertjärigen Jubelfeier der Ruprecht-karls-hochschule zu Heidelberg gehalten ...                                                                                                        | 1886 | [festredezurfnfh00fiscgoog](http://archive.org/details/festredezurfnfh00fiscgoog) | [Manifest](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/festredezurfnfh00fiscgoog) |
 | Grosse Unterricht Lehre: Mit einer Einleitung j. Comenius sein Leven und wirken                                                                                                                            | 1886 | [grosseunterrich00lindgoog](http://archive.org/details/grosseunterrich00lindgoog) | [Manifest](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/grosseunterrich00lindgoog) |
-| Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Das Lügen: Lustspiel in drei Aufzügen                                                                                                                                                                      | 1887 | [daslgenlustspie00benegoog](http://archive.org/details/daslgenlustspie00benegoog) | [Manifest](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/daslgenlustspie00benegoog) |
+| Die naturwissenschaftlichen Schrifter des Aristoteles in ihrem Verhältnis zu den Büchern der ...                                                                                                           | 1887 | [dienaturwissens00poscgoog](http://archive.org/details/dienaturwissens00poscgoog) | [Manifest](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dienaturwissens00poscgoog) |
 | Die deutsche Renaissance-lyrik                                                                                                                                                                             | 1888 | [diedeutscherena00waldgoog](http://archive.org/details/diedeutscherena00waldgoog) | [Manifest](https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/diedeutscherena00waldgoog) |
 | Deutsche Literaturgeschichte: Auf kulturhistorischer Grundlage, for ...                                                                                                                                    | 1890 | [deutscheliterat01wencgoog](http://archive.org/details/deutscheliterat01wencgoog) | [Manifest](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/deutscheliterat01wencgoog) |
 | Erkenntnisse des K.k. Verwaltungsgerichtshofes                                                                                                                                                             | 1892 | [erkenntnissedes00unkngoog](http://archive.org/details/erkenntnissedes00unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/erkenntnissedes00unkngoog) |

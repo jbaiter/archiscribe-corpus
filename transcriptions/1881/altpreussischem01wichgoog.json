@@ -1,0 +1,63 @@
+{
+  "id": "altpreussischem01wichgoog",
+  "title": "Altpreussische Monatsschrift neue Folge.",
+  "year": 1881,
+  "manifest": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog/manifest.json",
+  "lines": [
+    {
+      "id": "b7b3e399",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$117/699,3548,2465,98/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$117/529,3432,1760,88/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$117/527,3673,2596,88/full/0/default.png"
+    },
+    {
+      "id": "a42ac911",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$164/112,3267,2603,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$164/110,3164,2606,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$164/108,3370,2608,75/full/0/default.png"
+    },
+    {
+      "id": "fa6b6e16",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$177/456,2539,2534,78/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$177/454,2439,2732,79/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$177/456,2646,2539,73/full/0/default.png"
+    },
+    {
+      "id": "fa9b99d8",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$185/530,3108,2321,75/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$185/469,3005,2202,62/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$185/531,3211,2328,73/full/0/default.png"
+    },
+    {
+      "id": "1a3978df",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$241/309,3489,2523,86/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$241/308,3395,2524,63/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$241/307,3594,2525,82/full/0/default.png"
+    },
+    {
+      "id": "4738f6f6",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$276/291,3692,2597,102/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$276/273,3559,2614,113/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$276/284,3810,2606,103/full/0/default.png"
+    },
+    {
+      "id": "4471859b",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$290/229,3165,2477,87/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$290/229,3045,2476,86/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$290/229,3286,2411,89/full/0/default.png"
+    },
+    {
+      "id": "d1a4f50b",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$598/293,3784,2573,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$598/290,3663,2572,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$598/291,3906,1605,87/full/0/default.png"
+    },
+    {
+      "id": "147de1b9",
+      "line": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$661/300,3586,2580,75/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$661/306,3499,2574,77/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/altpreussischem01wichgoog$661/300,3674,2578,65/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

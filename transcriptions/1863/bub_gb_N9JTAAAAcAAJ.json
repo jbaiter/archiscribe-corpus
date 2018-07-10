@@ -1,0 +1,69 @@
+{
+  "id": "bub_gb_N9JTAAAAcAAJ",
+  "title": "Allgemeine Encyclopädie der Wissenschaften und Künste in alphabetischer Folge Erster Section AG",
+  "year": 1863,
+  "manifest": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ/manifest.json",
+  "lines": [
+    {
+      "id": "828891c0",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$25/384,809,962,42/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$25/385,767,960,42/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$25/399,851,949,45/full/0/default.png"
+    },
+    {
+      "id": "5213c1c5",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$31/1399,587,962,40/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$31/1399,545,961,42/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$31/1400,629,959,42/full/0/default.png"
+    },
+    {
+      "id": "2356f569",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$103/1360,2673,965,47/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$103/1359,2632,966,45/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$104/1009,165,931,55/full/0/default.png"
+    },
+    {
+      "id": "6c5b723c",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$178/134,2283,966,44/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$178/134,2241,965,45/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$178/132,2325,968,43/full/0/default.png"
+    },
+    {
+      "id": "e3df56b3",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$202/1171,460,956,51/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$202/1171,420,956,41/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$202/1170,502,955,44/full/0/default.png"
+    },
+    {
+      "id": "8d5050ff",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$206/1187,1380,956,44/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$206/1186,1338,956,41/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$206/1187,1422,956,43/full/0/default.png"
+    },
+    {
+      "id": "2cf8f461",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$230/1163,552,954,51/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$230/1162,520,956,41/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$230/1162,602,955,41/full/0/default.png"
+    },
+    {
+      "id": "60c1ee73",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$263/359,2484,955,40/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$263/359,2443,955,41/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$263/359,2525,953,44/full/0/default.png"
+    },
+    {
+      "id": "bc404ab2",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$398/1315,2438,582,38/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$398/1163,2396,772,34/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$398/1316,2473,410,36/full/0/default.png"
+    },
+    {
+      "id": "89614b19",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$412/133,2061,962,47/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$412/135,2021,961,44/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_N9JTAAAAcAAJ$412/134,2105,962,44/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

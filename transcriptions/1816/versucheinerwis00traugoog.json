@@ -1,0 +1,69 @@
+{
+  "id": "versucheinerwis00traugoog",
+  "title": "Versuch einer wissenschaftlichen Anleitung zum Studium der ...",
+  "year": 1816,
+  "manifest": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog/manifest.json",
+  "lines": [
+    {
+      "id": "88640066",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$104/450,892,1770,90/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$104/456,787,1761,90/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$104/450,996,1768,87/full/0/default.png"
+    },
+    {
+      "id": "31209d98",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$108/450,3447,1765,88/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$108/449,3336,1764,94/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$108/446,3550,1768,89/full/0/default.png"
+    },
+    {
+      "id": "7f9e491d",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$150/667,986,1581,73/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$150/734,894,1507,77/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$150/665,1074,1597,75/full/0/default.png"
+    },
+    {
+      "id": "1ba00751",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$160/406,3659,1768,80/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$160/406,3553,1769,82/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$160/405,3759,1767,89/full/0/default.png"
+    },
+    {
+      "id": "d752bf05",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$192/401,1761,1769,81/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$192/403,1638,1759,107/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$192/404,1860,1772,86/full/0/default.png"
+    },
+    {
+      "id": "5050a4e6",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$265/808,2812,1588,74/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$265/805,2722,1593,78/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$265/810,2899,1588,77/full/0/default.png"
+    },
+    {
+      "id": "36c5f149",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$375/600,2296,1778,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$375/596,2186,1776,103/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$375/596,2400,1782,86/full/0/default.png"
+    },
+    {
+      "id": "343809d1",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$385/584,1077,1761,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$385/590,971,1763,93/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$385/585,1177,1762,91/full/0/default.png"
+    },
+    {
+      "id": "e7c8558e",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$438/477,1504,1018,84/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$438/476,1401,1772,84/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$438/743,1638,1508,78/full/0/default.png"
+    },
+    {
+      "id": "e2e3cc87",
+      "line": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$642/376,1355,1774,85/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$642/373,1253,1774,87/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/versucheinerwis00traugoog$642/376,1457,1188,83/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

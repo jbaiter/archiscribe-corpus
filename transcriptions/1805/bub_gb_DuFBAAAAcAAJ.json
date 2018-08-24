@@ -1,0 +1,39 @@
+{
+  "id": "bub_gb_DuFBAAAAcAAJ",
+  "title": "Aphorismen zu Vorlesungen über die allgemeine Literargeschichte Aelteste Geschichte bis auf Aristoteles",
+  "year": 1805,
+  "manifest": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ/manifest.json",
+  "lines": [
+    {
+      "id": "506ed0ce",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$11/440,3151,1811,104/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$11/442,2984,1810,104/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$11/770,3270,1449,19/full/0/default.png"
+    },
+    {
+      "id": "a54452da",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$14/282,3454,1681,65/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$14/386,3386,1673,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$14/390,3514,1670,59/full/0/default.png"
+    },
+    {
+      "id": "69c42a34",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$16/271,2836,1827,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$16/364,2774,1727,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$16/368,2898,1740,70/full/0/default.png"
+    },
+    {
+      "id": "a0f00231",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$16/363,3207,2011,69/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$16/365,3144,1741,75/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$16/366,3269,1722,71/full/0/default.png"
+    },
+    {
+      "id": "61f94b93",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$21/517,1592,1693,73/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$21/523,1533,1688,63/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_DuFBAAAAcAAJ$21/514,1652,1698,71/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

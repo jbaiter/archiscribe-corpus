@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 4145 lines from 109 works
+Currently the corpus contains 4195 lines from 110 works
 published across 72 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -16,7 +16,7 @@ published across 72 years. Detailed statistics are available below.
 |   1800 |     413 |
 |   1810 |     388 |
 |   1820 |     380 |
-|   1830 |     416 |
+|   1830 |     466 |
 |   1840 |     455 |
 |   1850 |     424 |
 |   1860 |     480 |
@@ -48,7 +48,7 @@ published across 72 years. Detailed statistics are available below.
 | 1825 |      99 |
 | 1827 |      65 |
 | 1829 |      50 |
-| 1830 |      45 |
+| 1830 |      95 |
 | 1832 |      50 |
 | 1833 |     110 |
 | 1835 |      50 |
@@ -135,12 +135,13 @@ published across 72 years. Detailed statistics are available below.
 | Speyerer wöchentliches AnzeigeBlatt                                                                                                                                                                        | 1823 | [bub_gb_8vREAAAAcAAJ](http://archive.org/details/bub_gb_8vREAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_8vREAAAAcAAJ)             |
 | Jenaische allgemeine Literatur-Zeitung. Jahrg. 1-[38. With] Intelligenzblatt ...                                                                                                                           | 1823 | [jenaischeallgem05unkngoog](http://archive.org/details/jenaischeallgem05unkngoog) | [Manifest](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/jenaischeallgem05unkngoog) |
 | MilitärWochenblatt Unabhängige Zeitschrift für die deutsche Wehrmacht                                                                                                                                      | 1824 | [bub_gb_nL5FAAAAcAAJ](http://archive.org/details/bub_gb_nL5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_nL5FAAAAcAAJ)             |
-| Protokolle der deutschen Bundesversammlung                                                                                                                                                                 | 1825 | [protokollederde10bundgoog](http://archive.org/details/protokollederde10bundgoog) | [Manifest](https://iiif.archivelab.org/iiif/protokollederde10bundgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/protokollederde10bundgoog) |
 | Die Harzburg und ihre Geschichte: mit 5 Abbildungen                                                                                                                                                        | 1825 | [dieharzburgundi00leongoog](http://archive.org/details/dieharzburgundi00leongoog) | [Manifest](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dieharzburgundi00leongoog) |
+| Protokolle der deutschen Bundesversammlung                                                                                                                                                                 | 1825 | [protokollederde10bundgoog](http://archive.org/details/protokollederde10bundgoog) | [Manifest](https://iiif.archivelab.org/iiif/protokollederde10bundgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/protokollederde10bundgoog) |
 | IntelligenzBlatt und wöchentlicher Anzeiger der königlich baierischen Stadt Augsburg                                                                                                                       | 1827 | [bub_gb_7bdEAAAAcAAJ](http://archive.org/details/bub_gb_7bdEAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_7bdEAAAAcAAJ)             |
 | Das akademische Kunstmuseum zu Bonn von dem Vorsteher desselben prof. F.G. Welcker                                                                                                                         | 1827 | [bub_gb_dccEO9Ol47cC](http://archive.org/details/bub_gb_dccEO9Ol47cC)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_dccEO9Ol47cC)             |
 | Sämmtliche Schriften                                                                                                                                                                                       | 1827 | [smmtlicheschrif10schigoog](http://archive.org/details/smmtlicheschrif10schigoog) | [Manifest](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/smmtlicheschrif10schigoog) |
 | Reise durch das Altai-gebirge und die soongorische Kirgisen-steppe: Auf ...                                                                                                                                | 1829 | [reisedurchdasal04ledegoog](http://archive.org/details/reisedurchdasal04ledegoog) | [Manifest](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/reisedurchdasal04ledegoog) |
+| Das Ausland Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker                                                                                                                    | 1830 | [bub_gb_byE8AQAAIAAJ](http://archive.org/details/bub_gb_byE8AQAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_byE8AQAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_byE8AQAAIAAJ)             |
 | Das alte Indien, mit besonderer Rücksicht auf Aegypten                                                                                                                                                     | 1830 | [dasalteindienmi00bohlgoog](http://archive.org/details/dasalteindienmi00bohlgoog) | [Manifest](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/dasalteindienmi00bohlgoog) |
 | Gesammelte Schriften                                                                                                                                                                                       | 1832 | [gesammelteschri10brgoog](http://archive.org/details/gesammelteschri10brgoog)     | [Manifest](https://iiif.archivelab.org/iiif/gesammelteschri10brgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/gesammelteschri10brgoog)     |
 | Deutschlands EhrenTempel eine geordnete und mit Anmerkungen begleitete Auswahl der vorzüglichsten ältern und neuern Gedichte, welche das deutsche Land und das deutsche Volk verherrlichen                 | 1833 | [bub_gb_FPYOAAAAIAAJ](http://archive.org/details/bub_gb_FPYOAAAAIAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_FPYOAAAAIAAJ)             |

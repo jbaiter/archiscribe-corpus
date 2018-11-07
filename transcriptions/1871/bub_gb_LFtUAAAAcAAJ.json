@@ -1,0 +1,69 @@
+{
+  "id": "bub_gb_LFtUAAAAcAAJ",
+  "title": "Der deutschfranzösische Krieg und die Katholiken",
+  "year": 1871,
+  "manifest": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ/manifest.json",
+  "lines": [
+    {
+      "id": "67cb49a2",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$31/348,595,1908,80/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$30/401,3535,1765,81/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$31/348,692,1902,76/full/0/default.png"
+    },
+    {
+      "id": "b13d0147",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$41/329,1929,1905,71/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$41/330,1835,1902,67/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$41/328,2011,1907,84/full/0/default.png"
+    },
+    {
+      "id": "4bf6a933",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$57/352,3510,1904,78/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$57/357,3415,1896,79/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$58/256,582,1900,79/full/0/default.png"
+    },
+    {
+      "id": "bf259ded",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$63/383,801,1892,70/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$63/378,707,1896,69/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$63/508,895,1767,73/full/0/default.png"
+    },
+    {
+      "id": "0f644ea1",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$69/320,1196,1905,72/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$69/321,1102,1902,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$69/320,1289,1902,70/full/0/default.png"
+    },
+    {
+      "id": "e3f24ebe",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$70/317,3334,1900,78/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$70/320,3243,1898,73/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$70/325,3436,840,74/full/0/default.png"
+    },
+    {
+      "id": "4e379aa8",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$102/320,1529,1898,67/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$102/320,1433,1893,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$102/320,1624,1895,67/full/0/default.png"
+    },
+    {
+      "id": "d0bc503e",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$122/273,3410,1888,75/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$122/404,3314,1757,74/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$122/273,3508,1888,72/full/0/default.png"
+    },
+    {
+      "id": "5a5369d0",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$127/355,1984,1891,68/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$127/352,1903,1893,71/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$127/354,2080,1893,70/full/0/default.png"
+    },
+    {
+      "id": "3df8837d",
+      "line": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$144/258,3233,1897,73/full/0/default.png",
+      "previous": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$144/257,3142,1899,70/full/0/default.png",
+      "next": "https://iiif.archivelab.org/iiif/bub_gb_LFtUAAAAcAAJ$144/261,3333,1892,72/full/0/default.png"
+    }
+  ],
+  "reviewed": false
+}

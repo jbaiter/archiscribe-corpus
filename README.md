@@ -6,7 +6,7 @@ This is the corpus repository for https://archiscribe.jbaiter.de.
 The goal is to have as much diverse OCR ground truth for 19th Century German
 prints as possible.
 
-Currently the corpus contains 4195 lines from 110 works
+Currently the corpus contains 4245 lines from 111 works
 published across 72 years. Detailed statistics are available below.
 
 ## Statistics: Decades
@@ -17,7 +17,7 @@ published across 72 years. Detailed statistics are available below.
 |   1810 |     388 |
 |   1820 |     380 |
 |   1830 |     466 |
-|   1840 |     455 |
+|   1840 |     505 |
 |   1850 |     424 |
 |   1860 |     480 |
 |   1870 |     427 |
@@ -62,7 +62,7 @@ published across 72 years. Detailed statistics are available below.
 | 1844 |      47 |
 | 1847 |     100 |
 | 1848 |     130 |
-| 1849 |      50 |
+| 1849 |     100 |
 | 1850 |     100 |
 | 1851 |      49 |
 | 1852 |      50 |
@@ -166,6 +166,7 @@ published across 72 years. Detailed statistics are available below.
 | Charivari                                                                                                                                                                                                  | 1848 | [bub_gb_Tx0EAAAAYAAJ](http://archive.org/details/bub_gb_Tx0EAAAAYAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Tx0EAAAAYAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Tx0EAAAAYAAJ)             |
 | Darstellung der Innern Verwaltung Grossbritanniens                                                                                                                                                         | 1848 | [darstellungderi00vincgoog](http://archive.org/details/darstellungderi00vincgoog) | [Manifest](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/darstellungderi00vincgoog) |
 | Tagebuch eines freiwilligen des v. d. Tannschen Corps                                                                                                                                                      | 1848 | [bub_gb_Hr5FAAAAcAAJ](http://archive.org/details/bub_gb_Hr5FAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_Hr5FAAAAcAAJ)             |
+| Pfarre und Schule eine Dorfgeschichte                                                                                                                                                                      | 1849 | [bub_gb_2H46AAAAcAAJ](http://archive.org/details/bub_gb_2H46AAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_2H46AAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_2H46AAAAcAAJ)             |
 | Darstellung der Quellen und der Literatur der österreichischen Strafgesetzgebung über Verbrechen, mit Rücksicht auf die deutsche Strafrechtswissenschaft und Gesetzgebung                                  | 1849 | [bub_gb_J7xLAAAAcAAJ](http://archive.org/details/bub_gb_J7xLAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_J7xLAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_J7xLAAAAcAAJ)             |
 | Macchiavel, Montesquieu, Rousseau Macchiavel und Montesquieu                                                                                                                                               | 1850 | [bub_gb_niZMAAAAcAAJ](http://archive.org/details/bub_gb_niZMAAAAcAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_niZMAAAAcAAJ)             |
 | Pragmatische Erzählung der kirchlichen Ereignisse in der katholischen Schweiz                                                                                                                              | 1850 | [bub_gb_saYPAAAAQAAJ](http://archive.org/details/bub_gb_saYPAAAAQAAJ)             | [Manifest](https://iiif.archivelab.org/iiif/bub_gb_saYPAAAAQAAJ/manifest.json)/[Mirador](https://iiif.archivelab.org/iiif/bub_gb_saYPAAAAQAAJ)             |
